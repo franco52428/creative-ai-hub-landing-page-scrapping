@@ -1,21 +1,8 @@
-#!/usr/bin/env python3
-"""
-Generador de Migración TypeORM Consolidada
-==========================================
-
-Este script genera UNA SOLA migración TypeORM que contiene TODAS las herramientas AI
-desde los archivos JSON en tools_data/.
-
-Autor: Sistema de Migraciones AI Hub
-Fecha: Septiembre 2025
-"""
-
 import json
-import os
 import sys
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, Any, List
+from typing import Dict, Any
 
 
 def get_project_root() -> Path:
@@ -82,7 +69,7 @@ class ConsolidatedMigrationGenerator:
         
         # Extraer valores con valores por defecto
         fields = {
-            'uuid': f"gen_random_uuid()",  # Función PostgreSQL para UUID
+            'uuid': f"gen_random_uuid()",
             'name': tool_data.get('name', ''),
             'description': tool_data.get('description', ''),
             'short_description': tool_data.get('short_description', ''),
