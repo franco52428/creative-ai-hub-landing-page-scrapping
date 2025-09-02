@@ -48,7 +48,27 @@ scraping/
 └── 📖 README.md                 # This file
 ```
 
-## 🚀 Instalación y Configuración
+## �️ Migraciones TypeORM
+
+El proyecto incluye un sistema profesional para generar migraciones TypeORM a partir de los datos scrapeados:
+
+```bash
+# Generar todas las migraciones
+./generate_migrations.sh
+```
+
+**Estructura de salida:**
+```
+migrations/
+├── tools_migrations/         # Archivos .ts de migraciones
+├── generate_migrations.py   # Generador principal
+├── validate_migrations.py   # Validador
+└── README.md                # Documentación técnica
+```
+
+Ver documentación completa en: [`migrations/README.md`](migrations/README.md)
+
+## �🚀 Instalación y Configuración
 
 ### 1. **Clonar el Repositorio**
 ```bash
