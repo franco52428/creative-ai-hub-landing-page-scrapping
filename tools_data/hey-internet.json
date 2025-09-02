@@ -1,0 +1,56 @@
+{
+  "slug": "hey-internet",
+  "image_url": "https://www.futurepedia.io/api/og?title=Hey+Internet+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ffd1fa4444bc588b23bc51ad62bce0f1e53ec226e-2533x1272.jpg",
+  "redirect_url": "https://www.facebook.com/textheyinternet",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "hey internet transforms text messaging into an ai-driven personal assistant for instant, tailored support. ",
+  "searchIndexEs": "hey internet transforms text messaging into an ia-driven personal asistente for instant, tialored support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Hey Internet",
+      "shortDescription": "[TRANSLATE-es] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.…",
+      "longDescription": "[TRANSLATE-es] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Hey Internet",
+      "shortDescription": "[TRANSLATE-pt] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.…",
+      "longDescription": "[TRANSLATE-pt] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Hey Internet",
+      "shortDescription": "Transforms text messaging into an AI-driven personal assistant for instant, tailored support.…",
+      "longDescription": "Transforms text messaging into an AI-driven personal assistant for instant, tailored support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Hey Internet",
+      "shortDescription": "[TRANSLATE-fr] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.…",
+      "longDescription": "[TRANSLATE-fr] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Hey Internet",
+      "shortDescription": "[TRANSLATE-de] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.…",
+      "longDescription": "[TRANSLATE-de] Transforms text messaging into an AI-driven personal assistant for instant, tailored support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

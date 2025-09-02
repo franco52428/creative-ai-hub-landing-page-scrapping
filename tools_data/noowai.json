@@ -1,0 +1,56 @@
+{
+  "slug": "noowai",
+  "image_url": "https://www.futurepedia.io/api/og?title=NoowAI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F22966b323b5f7bdb5d56573eb0626113cb8df597-2458x1262.jpg",
+  "redirect_url": "https://www.facebook.com/noowai.global/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "noowai multilingual ai assistant enhancing productivity with user-friendly resources. ",
+  "searchIndexEs": "noowia multilingual ia asistente enhancing productivity with user-friendly resources. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] NoowAI",
+      "shortDescription": "[TRANSLATE-es] Multilingual AI assistant enhancing productivity with user-friendly resources.…",
+      "longDescription": "[TRANSLATE-es] Multilingual AI assistant enhancing productivity with user-friendly resources.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] NoowAI",
+      "shortDescription": "[TRANSLATE-pt] Multilingual AI assistant enhancing productivity with user-friendly resources.…",
+      "longDescription": "[TRANSLATE-pt] Multilingual AI assistant enhancing productivity with user-friendly resources.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "NoowAI",
+      "shortDescription": "Multilingual AI assistant enhancing productivity with user-friendly resources.…",
+      "longDescription": "Multilingual AI assistant enhancing productivity with user-friendly resources.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] NoowAI",
+      "shortDescription": "[TRANSLATE-fr] Multilingual AI assistant enhancing productivity with user-friendly resources.…",
+      "longDescription": "[TRANSLATE-fr] Multilingual AI assistant enhancing productivity with user-friendly resources.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] NoowAI",
+      "shortDescription": "[TRANSLATE-de] Multilingual AI assistant enhancing productivity with user-friendly resources.…",
+      "longDescription": "[TRANSLATE-de] Multilingual AI assistant enhancing productivity with user-friendly resources.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

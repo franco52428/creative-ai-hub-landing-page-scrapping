@@ -1,0 +1,56 @@
+{
+  "slug": "monica",
+  "image_url": "https://www.futurepedia.io/api/og?title=Monica+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-01T00-10-55.684Z-JAdtjOWA0hXybQuRXEf3ccj9yoKYjuAiv.PNG",
+  "redirect_url": "https://monica.im/invitation-affiliate?ref=yzawntq&ref_aff=yzawntq",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "monica ai assistant revolutionizing chat, writing, coding, and more. ",
+  "searchIndexEs": "monica ia asistente revolutionizing chat, escritura, coding, and more. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Monica",
+      "shortDescription": "[TRANSLATE-es] AI assistant revolutionizing chat, writing, coding, and more.…",
+      "longDescription": "[TRANSLATE-es] AI assistant revolutionizing chat, writing, coding, and more.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Monica",
+      "shortDescription": "[TRANSLATE-pt] AI assistant revolutionizing chat, writing, coding, and more.…",
+      "longDescription": "[TRANSLATE-pt] AI assistant revolutionizing chat, writing, coding, and more.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Monica",
+      "shortDescription": "AI assistant revolutionizing chat, writing, coding, and more.…",
+      "longDescription": "AI assistant revolutionizing chat, writing, coding, and more.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Monica",
+      "shortDescription": "[TRANSLATE-fr] AI assistant revolutionizing chat, writing, coding, and more.…",
+      "longDescription": "[TRANSLATE-fr] AI assistant revolutionizing chat, writing, coding, and more.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Monica",
+      "shortDescription": "[TRANSLATE-de] AI assistant revolutionizing chat, writing, coding, and more.…",
+      "longDescription": "[TRANSLATE-de] AI assistant revolutionizing chat, writing, coding, and more.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

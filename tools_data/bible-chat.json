@@ -1,0 +1,56 @@
+{
+  "slug": "bible-chat",
+  "image_url": "https://www.futurepedia.io/api/og?title=Bible+Chat+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fc7731fd40352a0cbf044f764db8c4fa56b358916-1920x1080.png",
+  "redirect_url": "https://www.instagram.com/the.biblechat",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "bible chat explore scripture, deepen faith, interactive ai-driven guidance. ",
+  "searchIndexEs": "bible chat explore scripture, deepen fiath, interactive ia-driven guidance. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Bible Chat",
+      "shortDescription": "[TRANSLATE-es] Explore scripture, deepen faith, interactive AI-driven guidance.…",
+      "longDescription": "[TRANSLATE-es] Explore scripture, deepen faith, interactive AI-driven guidance.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Bible Chat",
+      "shortDescription": "[TRANSLATE-pt] Explore scripture, deepen faith, interactive AI-driven guidance.…",
+      "longDescription": "[TRANSLATE-pt] Explore scripture, deepen faith, interactive AI-driven guidance.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Bible Chat",
+      "shortDescription": "Explore scripture, deepen faith, interactive AI-driven guidance.…",
+      "longDescription": "Explore scripture, deepen faith, interactive AI-driven guidance.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Bible Chat",
+      "shortDescription": "[TRANSLATE-fr] Explore scripture, deepen faith, interactive AI-driven guidance.…",
+      "longDescription": "[TRANSLATE-fr] Explore scripture, deepen faith, interactive AI-driven guidance.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Bible Chat",
+      "shortDescription": "[TRANSLATE-de] Explore scripture, deepen faith, interactive AI-driven guidance.…",
+      "longDescription": "[TRANSLATE-de] Explore scripture, deepen faith, interactive AI-driven guidance.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

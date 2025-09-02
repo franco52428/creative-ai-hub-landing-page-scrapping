@@ -1,0 +1,56 @@
+{
+  "slug": "spotter-studio",
+  "image_url": "https://www.futurepedia.io/api/og?title=Spotter+Studio+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-27T00-15-15.787Z-xwKbz2uY8bDDQ4IjM8hqkgT6imjrLqVzq.blob",
+  "redirect_url": "https://x.com/spotterstudio",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "spotter studio streamlines youtube content ideation with data-driven insights. ",
+  "searchIndexEs": "spotter studio streamlines youtube content ideation with data-driven insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Spotter Studio",
+      "shortDescription": "[TRANSLATE-es] Streamlines YouTube content ideation with data-driven insights.…",
+      "longDescription": "[TRANSLATE-es] Streamlines YouTube content ideation with data-driven insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Spotter Studio",
+      "shortDescription": "[TRANSLATE-pt] Streamlines YouTube content ideation with data-driven insights.…",
+      "longDescription": "[TRANSLATE-pt] Streamlines YouTube content ideation with data-driven insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Spotter Studio",
+      "shortDescription": "Streamlines YouTube content ideation with data-driven insights.…",
+      "longDescription": "Streamlines YouTube content ideation with data-driven insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Spotter Studio",
+      "shortDescription": "[TRANSLATE-fr] Streamlines YouTube content ideation with data-driven insights.…",
+      "longDescription": "[TRANSLATE-fr] Streamlines YouTube content ideation with data-driven insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Spotter Studio",
+      "shortDescription": "[TRANSLATE-de] Streamlines YouTube content ideation with data-driven insights.…",
+      "longDescription": "[TRANSLATE-de] Streamlines YouTube content ideation with data-driven insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

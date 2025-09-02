@@ -1,0 +1,56 @@
+{
+  "slug": "summraiz",
+  "image_url": "https://www.futurepedia.io/api/og?title=SummrAIz+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F34e62d72e33349c451de3f120fb8f5145f615ade-2534x1262.jpg",
+  "redirect_url": "https://twitter.com/SummarAIzer",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "summraiz transform newsletters into digestible, bi-weekly, ai-summarized updates. ",
+  "searchIndexEs": "summriaz transform newsletters into digestible, bi-weekly, ia-summarized updates. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] SummrAIz",
+      "shortDescription": "[TRANSLATE-es] Transform newsletters into digestible, bi-weekly, AI-summarized updates.…",
+      "longDescription": "[TRANSLATE-es] Transform newsletters into digestible, bi-weekly, AI-summarized updates.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] SummrAIz",
+      "shortDescription": "[TRANSLATE-pt] Transform newsletters into digestible, bi-weekly, AI-summarized updates.…",
+      "longDescription": "[TRANSLATE-pt] Transform newsletters into digestible, bi-weekly, AI-summarized updates.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "SummrAIz",
+      "shortDescription": "Transform newsletters into digestible, bi-weekly, AI-summarized updates.…",
+      "longDescription": "Transform newsletters into digestible, bi-weekly, AI-summarized updates.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] SummrAIz",
+      "shortDescription": "[TRANSLATE-fr] Transform newsletters into digestible, bi-weekly, AI-summarized updates.…",
+      "longDescription": "[TRANSLATE-fr] Transform newsletters into digestible, bi-weekly, AI-summarized updates.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] SummrAIz",
+      "shortDescription": "[TRANSLATE-de] Transform newsletters into digestible, bi-weekly, AI-summarized updates.…",
+      "longDescription": "[TRANSLATE-de] Transform newsletters into digestible, bi-weekly, AI-summarized updates.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

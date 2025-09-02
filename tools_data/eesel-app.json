@@ -1,0 +1,56 @@
+{
+  "slug": "eesel-app",
+  "image_url": "https://www.futurepedia.io/api/og?title=Eesel+App+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fe69794c25c3b489ab1203bcf3e15bc4e62e73e54-1900x918.png",
+  "redirect_url": "https://soofy.io/index/ref?&r=1674589108949x536014008447273100",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "eesel app transforms your browser tab into a productivity hub. ",
+  "searchIndexEs": "eesel app transforms your browser tab into a productivity hub. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Eesel App",
+      "shortDescription": "[TRANSLATE-es] Transforms your browser tab into a productivity hub.…",
+      "longDescription": "[TRANSLATE-es] Transforms your browser tab into a productivity hub.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Eesel App",
+      "shortDescription": "[TRANSLATE-pt] Transforms your browser tab into a productivity hub.…",
+      "longDescription": "[TRANSLATE-pt] Transforms your browser tab into a productivity hub.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Eesel App",
+      "shortDescription": "Transforms your browser tab into a productivity hub.…",
+      "longDescription": "Transforms your browser tab into a productivity hub.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Eesel App",
+      "shortDescription": "[TRANSLATE-fr] Transforms your browser tab into a productivity hub.…",
+      "longDescription": "[TRANSLATE-fr] Transforms your browser tab into a productivity hub.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Eesel App",
+      "shortDescription": "[TRANSLATE-de] Transforms your browser tab into a productivity hub.…",
+      "longDescription": "[TRANSLATE-de] Transforms your browser tab into a productivity hub.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "spoke",
+  "image_url": "https://www.futurepedia.io/api/og?title=Spoke.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fdc8b917eabe721cc552106fbda17b34b9f3747a6-3000x1461.jpg",
+  "redirect_url": "https://soofy.io/index/ref?&r=1674589108949x536014008447273100",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "spoke.ai ai-powered tool revolutionizes team communication and project management. ",
+  "searchIndexEs": "spoke.ia ia-powered herramienta revolutionizes team communication and project management. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Spoke.ai",
+      "shortDescription": "[TRANSLATE-es] AI-powered tool revolutionizes team communication and project management.…",
+      "longDescription": "[TRANSLATE-es] AI-powered tool revolutionizes team communication and project management.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Spoke.ai",
+      "shortDescription": "[TRANSLATE-pt] AI-powered tool revolutionizes team communication and project management.…",
+      "longDescription": "[TRANSLATE-pt] AI-powered tool revolutionizes team communication and project management.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Spoke.ai",
+      "shortDescription": "AI-powered tool revolutionizes team communication and project management.…",
+      "longDescription": "AI-powered tool revolutionizes team communication and project management.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Spoke.ai",
+      "shortDescription": "[TRANSLATE-fr] AI-powered tool revolutionizes team communication and project management.…",
+      "longDescription": "[TRANSLATE-fr] AI-powered tool revolutionizes team communication and project management.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Spoke.ai",
+      "shortDescription": "[TRANSLATE-de] AI-powered tool revolutionizes team communication and project management.…",
+      "longDescription": "[TRANSLATE-de] AI-powered tool revolutionizes team communication and project management.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "thinkforce",
+  "image_url": "https://www.futurepedia.io/api/og?title=Thinkforce+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb748cc17cf077b446bc67fd2e229b8cfbff80ef5-2534x1270.jpg",
+  "redirect_url": "https://discord.gg/hYKNByWRyv",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "thinkforce maximize productivity with ai-driven task automation and real-time insights. ",
+  "searchIndexEs": "thinkforce maximize productivity with ia-driven task automation and real-time insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Thinkforce",
+      "shortDescription": "[TRANSLATE-es] Maximize productivity with AI-driven task automation and real-time insights.…",
+      "longDescription": "[TRANSLATE-es] Maximize productivity with AI-driven task automation and real-time insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Thinkforce",
+      "shortDescription": "[TRANSLATE-pt] Maximize productivity with AI-driven task automation and real-time insights.…",
+      "longDescription": "[TRANSLATE-pt] Maximize productivity with AI-driven task automation and real-time insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Thinkforce",
+      "shortDescription": "Maximize productivity with AI-driven task automation and real-time insights.…",
+      "longDescription": "Maximize productivity with AI-driven task automation and real-time insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Thinkforce",
+      "shortDescription": "[TRANSLATE-fr] Maximize productivity with AI-driven task automation and real-time insights.…",
+      "longDescription": "[TRANSLATE-fr] Maximize productivity with AI-driven task automation and real-time insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Thinkforce",
+      "shortDescription": "[TRANSLATE-de] Maximize productivity with AI-driven task automation and real-time insights.…",
+      "longDescription": "[TRANSLATE-de] Maximize productivity with AI-driven task automation and real-time insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

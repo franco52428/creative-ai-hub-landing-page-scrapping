@@ -1,0 +1,56 @@
+{
+  "slug": "heyday",
+  "image_url": "https://www.futurepedia.io/api/og?title=Heyday+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F547355234b9631e28f7569e947f098e0517ea0cd-1796x902.jpg",
+  "redirect_url": "https://twitter.com/heyday_hq",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "heyday revolutionize data management: ai-driven summarization, recall, and content creation. ",
+  "searchIndexEs": "heyday revolutionize data management: ia-driven summarization, recall, and content creation. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Heyday",
+      "shortDescription": "[TRANSLATE-es] Revolutionize data management: AI-driven summarization, recall, and content creation.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize data management: AI-driven summarization, recall, and content creation.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Heyday",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize data management: AI-driven summarization, recall, and content creation.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize data management: AI-driven summarization, recall, and content creation.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Heyday",
+      "shortDescription": "Revolutionize data management: AI-driven summarization, recall, and content creation.…",
+      "longDescription": "Revolutionize data management: AI-driven summarization, recall, and content creation.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Heyday",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize data management: AI-driven summarization, recall, and content creation.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize data management: AI-driven summarization, recall, and content creation.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Heyday",
+      "shortDescription": "[TRANSLATE-de] Revolutionize data management: AI-driven summarization, recall, and content creation.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize data management: AI-driven summarization, recall, and content creation.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

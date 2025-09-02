@@ -1,0 +1,56 @@
+{
+  "slug": "liftmycv",
+  "image_url": "https://www.futurepedia.io/api/og?title=LiftmyCV+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-25T23-06-02.102Z-mnlXfKg4C6G0Xxs23codD3D__hCPeYg7a.png",
+  "redirect_url": "https://x.com/liftmycv",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "liftmycv auto-apply to jobs with ai-powered precision. ",
+  "searchIndexEs": "liftmycv auto-apply to jobs with ia-powered precision. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] LiftmyCV",
+      "shortDescription": "[TRANSLATE-es] Auto-apply to jobs with AI-powered precision.…",
+      "longDescription": "[TRANSLATE-es] Auto-apply to jobs with AI-powered precision.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] LiftmyCV",
+      "shortDescription": "[TRANSLATE-pt] Auto-apply to jobs with AI-powered precision.…",
+      "longDescription": "[TRANSLATE-pt] Auto-apply to jobs with AI-powered precision.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "LiftmyCV",
+      "shortDescription": "Auto-apply to jobs with AI-powered precision.…",
+      "longDescription": "Auto-apply to jobs with AI-powered precision.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] LiftmyCV",
+      "shortDescription": "[TRANSLATE-fr] Auto-apply to jobs with AI-powered precision.…",
+      "longDescription": "[TRANSLATE-fr] Auto-apply to jobs with AI-powered precision.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] LiftmyCV",
+      "shortDescription": "[TRANSLATE-de] Auto-apply to jobs with AI-powered precision.…",
+      "longDescription": "[TRANSLATE-de] Auto-apply to jobs with AI-powered precision.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

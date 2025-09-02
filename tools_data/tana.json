@@ -1,0 +1,56 @@
+{
+  "slug": "tana",
+  "image_url": "https://www.futurepedia.io/api/og?title=Tana+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-12T18-31-39.699Z-cazEivvOZQPp1TlRgJ6BJUxCF0Mw5MpTq.blob",
+  "redirect_url": "https://x.com/tana_inc",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "tana transforms notes into actionable tasks with ai-driven supertags. ",
+  "searchIndexEs": "tana transforms notes into actionable tasks with ia-driven supertags. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Tana",
+      "shortDescription": "[TRANSLATE-es] Transforms notes into actionable tasks with AI-driven supertags.…",
+      "longDescription": "[TRANSLATE-es] Transforms notes into actionable tasks with AI-driven supertags.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Tana",
+      "shortDescription": "[TRANSLATE-pt] Transforms notes into actionable tasks with AI-driven supertags.…",
+      "longDescription": "[TRANSLATE-pt] Transforms notes into actionable tasks with AI-driven supertags.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Tana",
+      "shortDescription": "Transforms notes into actionable tasks with AI-driven supertags.…",
+      "longDescription": "Transforms notes into actionable tasks with AI-driven supertags.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Tana",
+      "shortDescription": "[TRANSLATE-fr] Transforms notes into actionable tasks with AI-driven supertags.…",
+      "longDescription": "[TRANSLATE-fr] Transforms notes into actionable tasks with AI-driven supertags.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Tana",
+      "shortDescription": "[TRANSLATE-de] Transforms notes into actionable tasks with AI-driven supertags.…",
+      "longDescription": "[TRANSLATE-de] Transforms notes into actionable tasks with AI-driven supertags.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

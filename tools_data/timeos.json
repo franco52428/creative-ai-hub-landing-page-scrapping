@@ -1,0 +1,56 @@
+{
+  "slug": "timeos",
+  "image_url": "https://www.futurepedia.io/api/og?title=timeOS+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-13T19-36-27.566Z-gpNG_9Rg0a0p5GCpkql3R-u71vy_9T7OX.PNG",
+  "redirect_url": "https://twitter.com/timeOSai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "timeos streamline workflows with ai-driven meeting summaries and integrations. ",
+  "searchIndexEs": "timeos streamline workflows with ia-driven meeting summaries and integrations. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] timeOS",
+      "shortDescription": "[TRANSLATE-es] Streamline workflows with AI-driven meeting summaries and integrations.…",
+      "longDescription": "[TRANSLATE-es] Streamline workflows with AI-driven meeting summaries and integrations.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] timeOS",
+      "shortDescription": "[TRANSLATE-pt] Streamline workflows with AI-driven meeting summaries and integrations.…",
+      "longDescription": "[TRANSLATE-pt] Streamline workflows with AI-driven meeting summaries and integrations.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "timeOS",
+      "shortDescription": "Streamline workflows with AI-driven meeting summaries and integrations.…",
+      "longDescription": "Streamline workflows with AI-driven meeting summaries and integrations.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] timeOS",
+      "shortDescription": "[TRANSLATE-fr] Streamline workflows with AI-driven meeting summaries and integrations.…",
+      "longDescription": "[TRANSLATE-fr] Streamline workflows with AI-driven meeting summaries and integrations.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] timeOS",
+      "shortDescription": "[TRANSLATE-de] Streamline workflows with AI-driven meeting summaries and integrations.…",
+      "longDescription": "[TRANSLATE-de] Streamline workflows with AI-driven meeting summaries and integrations.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

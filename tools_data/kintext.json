@@ -1,0 +1,56 @@
+{
+  "slug": "kintext",
+  "image_url": "https://www.futurepedia.io/api/og?title=Kintext+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F8962e7ba57b12ef569f21a21d1bc783941a4037b-2518x1194.png",
+  "redirect_url": "https://twitter.com/KintextAI",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "kintext ai-driven parenting assistant offering personalized advice, milestone tracking, and community support. ",
+  "searchIndexEs": "kintext ia-driven parenting asistente offering personalized advice, milestone tracking, and community support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Kintext",
+      "shortDescription": "[TRANSLATE-es] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.…",
+      "longDescription": "[TRANSLATE-es] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Kintext",
+      "shortDescription": "[TRANSLATE-pt] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Kintext",
+      "shortDescription": "AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.…",
+      "longDescription": "AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Kintext",
+      "shortDescription": "[TRANSLATE-fr] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Kintext",
+      "shortDescription": "[TRANSLATE-de] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.…",
+      "longDescription": "[TRANSLATE-de] AI-driven parenting assistant offering personalized advice, milestone tracking, and community support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "shop-guru-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Shop+Guru+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fe81b25569222bd5679c2da5957c9b1209d221d5a-2527x1255.jpg",
+  "redirect_url": "https://twitter.com/turbismo",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "shop guru ai ai assistant enhances amazon shopping with review insights. ",
+  "searchIndexEs": "shop guru ia ia asistente enhances amazon shopping with review insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Shop Guru AI",
+      "shortDescription": "[TRANSLATE-es] AI assistant enhances Amazon shopping with review insights.…",
+      "longDescription": "[TRANSLATE-es] AI assistant enhances Amazon shopping with review insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Shop Guru AI",
+      "shortDescription": "[TRANSLATE-pt] AI assistant enhances Amazon shopping with review insights.…",
+      "longDescription": "[TRANSLATE-pt] AI assistant enhances Amazon shopping with review insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Shop Guru AI",
+      "shortDescription": "AI assistant enhances Amazon shopping with review insights.…",
+      "longDescription": "AI assistant enhances Amazon shopping with review insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Shop Guru AI",
+      "shortDescription": "[TRANSLATE-fr] AI assistant enhances Amazon shopping with review insights.…",
+      "longDescription": "[TRANSLATE-fr] AI assistant enhances Amazon shopping with review insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Shop Guru AI",
+      "shortDescription": "[TRANSLATE-de] AI assistant enhances Amazon shopping with review insights.…",
+      "longDescription": "[TRANSLATE-de] AI assistant enhances Amazon shopping with review insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

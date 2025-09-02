@@ -1,0 +1,56 @@
+{
+  "slug": "iapply",
+  "image_url": "https://www.futurepedia.io/api/og?title=iApply+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-01T03-45-29.178Z-mYAlWtfP80fGfDCp2S9ezkdsNyHorNZAd.PNG",
+  "redirect_url": "https://eesel.ai/?via=fp",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "iapply streamlines job applications with ai-driven resume optimization. ",
+  "searchIndexEs": "iapply streamlines job applications with ia-driven resume optimization. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] iApply",
+      "shortDescription": "[TRANSLATE-es] Streamlines job applications with AI-driven resume optimization.…",
+      "longDescription": "[TRANSLATE-es] Streamlines job applications with AI-driven resume optimization.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] iApply",
+      "shortDescription": "[TRANSLATE-pt] Streamlines job applications with AI-driven resume optimization.…",
+      "longDescription": "[TRANSLATE-pt] Streamlines job applications with AI-driven resume optimization.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "iApply",
+      "shortDescription": "Streamlines job applications with AI-driven resume optimization.…",
+      "longDescription": "Streamlines job applications with AI-driven resume optimization.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] iApply",
+      "shortDescription": "[TRANSLATE-fr] Streamlines job applications with AI-driven resume optimization.…",
+      "longDescription": "[TRANSLATE-fr] Streamlines job applications with AI-driven resume optimization.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] iApply",
+      "shortDescription": "[TRANSLATE-de] Streamlines job applications with AI-driven resume optimization.…",
+      "longDescription": "[TRANSLATE-de] Streamlines job applications with AI-driven resume optimization.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

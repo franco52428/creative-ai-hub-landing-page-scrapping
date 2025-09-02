@@ -1,0 +1,56 @@
+{
+  "slug": "zoom-iq",
+  "image_url": "https://www.futurepedia.io/api/og?title=Zoom+IQ+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fe9c4795740b9742a387f14dfb561c2935bdd1cb7-1350x1104.jpg",
+  "redirect_url": "https://www.linkedin.com/company/zoom-video-communications",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "zoom iq elevate zoom meetings with ai-driven summaries, task automation, and real-time assistance. ",
+  "searchIndexEs": "zoom iq elevate zoom meetings with ia-driven summaries, task automation, and real-time assistance. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Zoom IQ",
+      "shortDescription": "[TRANSLATE-es] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.…",
+      "longDescription": "[TRANSLATE-es] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Zoom IQ",
+      "shortDescription": "[TRANSLATE-pt] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.…",
+      "longDescription": "[TRANSLATE-pt] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Zoom IQ",
+      "shortDescription": "Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.…",
+      "longDescription": "Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Zoom IQ",
+      "shortDescription": "[TRANSLATE-fr] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.…",
+      "longDescription": "[TRANSLATE-fr] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Zoom IQ",
+      "shortDescription": "[TRANSLATE-de] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.…",
+      "longDescription": "[TRANSLATE-de] Elevate Zoom meetings with AI-driven summaries, task automation, and real-time assistance.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

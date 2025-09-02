@@ -1,0 +1,56 @@
+{
+  "slug": "fireflies-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Fireflies.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F987ec2c9e43534a084ffb8029a4c13804bafe103-2521x1302.png",
+  "redirect_url": "https://www.producthunt.com/posts/askfred-from-fireflies-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-askfred-from-fireflies-ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "fireflies.ai ai-driven transcription, summarization, and meeting management tool. ",
+  "searchIndexEs": "fireflies.ia ia-driven transcription, summarization, and meeting management herramienta. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Fireflies.ai",
+      "shortDescription": "[TRANSLATE-es] AI-driven transcription, summarization, and meeting management tool.…",
+      "longDescription": "[TRANSLATE-es] AI-driven transcription, summarization, and meeting management tool.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Fireflies.ai",
+      "shortDescription": "[TRANSLATE-pt] AI-driven transcription, summarization, and meeting management tool.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven transcription, summarization, and meeting management tool.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Fireflies.ai",
+      "shortDescription": "AI-driven transcription, summarization, and meeting management tool.…",
+      "longDescription": "AI-driven transcription, summarization, and meeting management tool.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Fireflies.ai",
+      "shortDescription": "[TRANSLATE-fr] AI-driven transcription, summarization, and meeting management tool.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven transcription, summarization, and meeting management tool.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Fireflies.ai",
+      "shortDescription": "[TRANSLATE-de] AI-driven transcription, summarization, and meeting management tool.…",
+      "longDescription": "[TRANSLATE-de] AI-driven transcription, summarization, and meeting management tool.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

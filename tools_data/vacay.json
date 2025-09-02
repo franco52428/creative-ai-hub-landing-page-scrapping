@@ -1,0 +1,56 @@
+{
+  "slug": "vacay",
+  "image_url": "https://www.futurepedia.io/api/og?title=Vacay+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F9ea24496fd14e37c31aa94d5b55b6d10f8a5e426-2880x1592.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "vacay ai-driven travel planning with personalized itineraries and global insights. ",
+  "searchIndexEs": "vacay ia-driven travel planning with personalized itineraries and global insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Vacay",
+      "shortDescription": "[TRANSLATE-es] AI-driven travel planning with personalized itineraries and global insights.…",
+      "longDescription": "[TRANSLATE-es] AI-driven travel planning with personalized itineraries and global insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Vacay",
+      "shortDescription": "[TRANSLATE-pt] AI-driven travel planning with personalized itineraries and global insights.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven travel planning with personalized itineraries and global insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Vacay",
+      "shortDescription": "AI-driven travel planning with personalized itineraries and global insights.…",
+      "longDescription": "AI-driven travel planning with personalized itineraries and global insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Vacay",
+      "shortDescription": "[TRANSLATE-fr] AI-driven travel planning with personalized itineraries and global insights.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven travel planning with personalized itineraries and global insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Vacay",
+      "shortDescription": "[TRANSLATE-de] AI-driven travel planning with personalized itineraries and global insights.…",
+      "longDescription": "[TRANSLATE-de] AI-driven travel planning with personalized itineraries and global insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

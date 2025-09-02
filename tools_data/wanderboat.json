@@ -1,0 +1,56 @@
+{
+  "slug": "wanderboat",
+  "image_url": "https://www.futurepedia.io/api/og?title=Wanderboat+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F1cfce1d53fd4132ef05b9952c83dcfc659924710-1920x1080.jpg",
+  "redirect_url": "https://www.instagram.com/wanderboat_ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "wanderboat revolutionize travel with ai-driven personalized itinerary planning. ",
+  "searchIndexEs": "wanderboat revolutionize travel with ia-driven personalized itinerary planning. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Wanderboat",
+      "shortDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven personalized itinerary planning.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven personalized itinerary planning.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Wanderboat",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven personalized itinerary planning.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven personalized itinerary planning.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Wanderboat",
+      "shortDescription": "Revolutionize travel with AI-driven personalized itinerary planning.…",
+      "longDescription": "Revolutionize travel with AI-driven personalized itinerary planning.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Wanderboat",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven personalized itinerary planning.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven personalized itinerary planning.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Wanderboat",
+      "shortDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven personalized itinerary planning.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven personalized itinerary planning.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

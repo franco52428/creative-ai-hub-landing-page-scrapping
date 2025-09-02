@@ -1,0 +1,56 @@
+{
+  "slug": "taranify",
+  "image_url": "https://www.futurepedia.io/api/og?title=Taranify+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-06T12-54-15.558Z-6fLO_FTIvydJhNB_6bePEPTwrDcVW0hOu.PNG",
+  "redirect_url": "https://twitter.com/taranify",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "taranify ai-driven tool aligns entertainment with your mood. ",
+  "searchIndexEs": "taranify ia-driven herramienta aligns entertianment with your mood. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Taranify",
+      "shortDescription": "[TRANSLATE-es] AI-driven tool aligns entertainment with your mood.…",
+      "longDescription": "[TRANSLATE-es] AI-driven tool aligns entertainment with your mood.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Taranify",
+      "shortDescription": "[TRANSLATE-pt] AI-driven tool aligns entertainment with your mood.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven tool aligns entertainment with your mood.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Taranify",
+      "shortDescription": "AI-driven tool aligns entertainment with your mood.…",
+      "longDescription": "AI-driven tool aligns entertainment with your mood.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Taranify",
+      "shortDescription": "[TRANSLATE-fr] AI-driven tool aligns entertainment with your mood.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven tool aligns entertainment with your mood.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Taranify",
+      "shortDescription": "[TRANSLATE-de] AI-driven tool aligns entertainment with your mood.…",
+      "longDescription": "[TRANSLATE-de] AI-driven tool aligns entertainment with your mood.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

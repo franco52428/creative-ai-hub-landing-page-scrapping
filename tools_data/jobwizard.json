@@ -1,0 +1,56 @@
+{
+  "slug": "jobwizard",
+  "image_url": "https://www.futurepedia.io/api/og?title=JobWizard+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-06T12-44-55.997Z-ByeqPEUpfdN4EbcLcYXiptwv3x3q-_kjS.PNG",
+  "redirect_url": "https://twitter.com/JobWizard_AI",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "jobwizard streamline job applications with ai-driven autofill and insights. ",
+  "searchIndexEs": "jobwizard streamline job applications with ia-driven autofill and insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] JobWizard",
+      "shortDescription": "[TRANSLATE-es] Streamline job applications with AI-driven autofill and insights.…",
+      "longDescription": "[TRANSLATE-es] Streamline job applications with AI-driven autofill and insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] JobWizard",
+      "shortDescription": "[TRANSLATE-pt] Streamline job applications with AI-driven autofill and insights.…",
+      "longDescription": "[TRANSLATE-pt] Streamline job applications with AI-driven autofill and insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "JobWizard",
+      "shortDescription": "Streamline job applications with AI-driven autofill and insights.…",
+      "longDescription": "Streamline job applications with AI-driven autofill and insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] JobWizard",
+      "shortDescription": "[TRANSLATE-fr] Streamline job applications with AI-driven autofill and insights.…",
+      "longDescription": "[TRANSLATE-fr] Streamline job applications with AI-driven autofill and insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] JobWizard",
+      "shortDescription": "[TRANSLATE-de] Streamline job applications with AI-driven autofill and insights.…",
+      "longDescription": "[TRANSLATE-de] Streamline job applications with AI-driven autofill and insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

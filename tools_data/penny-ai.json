@@ -1,0 +1,56 @@
+{
+  "slug": "penny-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Penny+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ffd43373d8813616c1ab97c8511258e1d929b0380-2528x1252.png",
+  "redirect_url": "https://www.magicform.ai/?via=Futurepedia",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "penny ai maximize savings with ai-driven price comparisons and insightful product analyses. ",
+  "searchIndexEs": "penny ia maximize savings with ia-driven price comparisons and insightful product analyses. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Penny AI",
+      "shortDescription": "[TRANSLATE-es] Maximize savings with AI-driven price comparisons and insightful product analyses.…",
+      "longDescription": "[TRANSLATE-es] Maximize savings with AI-driven price comparisons and insightful product analyses.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Penny AI",
+      "shortDescription": "[TRANSLATE-pt] Maximize savings with AI-driven price comparisons and insightful product analyses.…",
+      "longDescription": "[TRANSLATE-pt] Maximize savings with AI-driven price comparisons and insightful product analyses.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Penny AI",
+      "shortDescription": "Maximize savings with AI-driven price comparisons and insightful product analyses.…",
+      "longDescription": "Maximize savings with AI-driven price comparisons and insightful product analyses.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Penny AI",
+      "shortDescription": "[TRANSLATE-fr] Maximize savings with AI-driven price comparisons and insightful product analyses.…",
+      "longDescription": "[TRANSLATE-fr] Maximize savings with AI-driven price comparisons and insightful product analyses.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Penny AI",
+      "shortDescription": "[TRANSLATE-de] Maximize savings with AI-driven price comparisons and insightful product analyses.…",
+      "longDescription": "[TRANSLATE-de] Maximize savings with AI-driven price comparisons and insightful product analyses.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

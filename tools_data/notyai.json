@@ -1,0 +1,56 @@
+{
+  "slug": "notyai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Noty.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-27T05-32-24.343Z-GJ9HbrWAETLmL9wIe51OwrqH_9sm0jqOo.PNG",
+  "redirect_url": "https://www.descript.com?lmref=wVa-qw",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "noty.ai ai-driven tool transcribes, summarizes, and organizes meeting tasks. ",
+  "searchIndexEs": "noty.ia ia-driven herramienta transcribes, summarizes, and organizes meeting tasks. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Noty.ai",
+      "shortDescription": "[TRANSLATE-es] AI-driven tool transcribes, summarizes, and organizes meeting tasks.…",
+      "longDescription": "[TRANSLATE-es] AI-driven tool transcribes, summarizes, and organizes meeting tasks.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Noty.ai",
+      "shortDescription": "[TRANSLATE-pt] AI-driven tool transcribes, summarizes, and organizes meeting tasks.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven tool transcribes, summarizes, and organizes meeting tasks.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Noty.ai",
+      "shortDescription": "AI-driven tool transcribes, summarizes, and organizes meeting tasks.…",
+      "longDescription": "AI-driven tool transcribes, summarizes, and organizes meeting tasks.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Noty.ai",
+      "shortDescription": "[TRANSLATE-fr] AI-driven tool transcribes, summarizes, and organizes meeting tasks.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven tool transcribes, summarizes, and organizes meeting tasks.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Noty.ai",
+      "shortDescription": "[TRANSLATE-de] AI-driven tool transcribes, summarizes, and organizes meeting tasks.…",
+      "longDescription": "[TRANSLATE-de] AI-driven tool transcribes, summarizes, and organizes meeting tasks.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

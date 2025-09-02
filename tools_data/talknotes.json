@@ -1,0 +1,56 @@
+{
+  "slug": "talknotes",
+  "image_url": "https://www.futurepedia.io/api/og?title=Talknotes+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F187fb691447d21e0e8b1f10adf837dea2a38e17b-1920x1080.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "talknotes talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with ai-powered magic. ",
+  "searchIndexEs": "talknotes talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with ia-powered magic. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Talknotes",
+      "shortDescription": "[TRANSLATE-es] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.…",
+      "longDescription": "[TRANSLATE-es] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Talknotes",
+      "shortDescription": "[TRANSLATE-pt] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.…",
+      "longDescription": "[TRANSLATE-pt] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Talknotes",
+      "shortDescription": "Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.…",
+      "longDescription": "Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Talknotes",
+      "shortDescription": "[TRANSLATE-fr] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.…",
+      "longDescription": "[TRANSLATE-fr] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Talknotes",
+      "shortDescription": "[TRANSLATE-de] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.…",
+      "longDescription": "[TRANSLATE-de] Talknotes is your ultimate voice memos companion, transforming your spoken words into a variety of written content with AI-powered magic.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

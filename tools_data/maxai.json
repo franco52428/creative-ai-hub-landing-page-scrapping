@@ -1,0 +1,56 @@
+{
+  "slug": "maxai",
+  "image_url": "https://www.futurepedia.io/api/og?title=MaxAI.me+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb463fd7c229c67fcd9dc53374f08508441cde0ab-2501x1224.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "maxai.me revolutionize productivity with 1-click ai: chat, summarize, translate, and visualize effortlessly. ",
+  "searchIndexEs": "maxia.me revolutionize productivity with 1-click ia: chat, summarize, translate, and visualize effortlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MaxAI.me",
+      "shortDescription": "[TRANSLATE-es] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MaxAI.me",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "MaxAI.me",
+      "shortDescription": "Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.…",
+      "longDescription": "Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MaxAI.me",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MaxAI.me",
+      "shortDescription": "[TRANSLATE-de] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize productivity with 1-Click AI: Chat, summarize, translate, and visualize effortlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

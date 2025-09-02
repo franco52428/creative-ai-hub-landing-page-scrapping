@@ -1,0 +1,56 @@
+{
+  "slug": "whatdo",
+  "image_url": "https://www.futurepedia.io/api/og?title=WhatDo+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F997e26dd45a85f8d492749e43dd654802894c57f-1920x1080.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "whatdo ai-driven travel planning, booking, and real-time insights. ",
+  "searchIndexEs": "whatdo ia-driven travel planning, booking, and real-time insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] WhatDo",
+      "shortDescription": "[TRANSLATE-es] AI-driven travel planning, booking, and real-time insights.…",
+      "longDescription": "[TRANSLATE-es] AI-driven travel planning, booking, and real-time insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] WhatDo",
+      "shortDescription": "[TRANSLATE-pt] AI-driven travel planning, booking, and real-time insights.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven travel planning, booking, and real-time insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "WhatDo",
+      "shortDescription": "AI-driven travel planning, booking, and real-time insights.…",
+      "longDescription": "AI-driven travel planning, booking, and real-time insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] WhatDo",
+      "shortDescription": "[TRANSLATE-fr] AI-driven travel planning, booking, and real-time insights.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven travel planning, booking, and real-time insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] WhatDo",
+      "shortDescription": "[TRANSLATE-de] AI-driven travel planning, booking, and real-time insights.…",
+      "longDescription": "[TRANSLATE-de] AI-driven travel planning, booking, and real-time insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

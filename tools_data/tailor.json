@@ -1,0 +1,56 @@
+{
+  "slug": "tailor",
+  "image_url": "https://www.futurepedia.io/api/og?title=Tailor+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F4b9e28a1bc10de1fbdb3fe053f65cba0d3eaff65-2524x1298.png",
+  "redirect_url": "https://www.youtube.com/shorts/zyc-FQL82mE",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "tailor revolutionizes news consumption with ai-driven, personalized daily summaries. ",
+  "searchIndexEs": "tialor revolutionizes news consumption with ia-driven, personalized dialy summaries. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Tailor",
+      "shortDescription": "[TRANSLATE-es] Revolutionizes news consumption with AI-driven, personalized daily summaries.…",
+      "longDescription": "[TRANSLATE-es] Revolutionizes news consumption with AI-driven, personalized daily summaries.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Tailor",
+      "shortDescription": "[TRANSLATE-pt] Revolutionizes news consumption with AI-driven, personalized daily summaries.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionizes news consumption with AI-driven, personalized daily summaries.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Tailor",
+      "shortDescription": "Revolutionizes news consumption with AI-driven, personalized daily summaries.…",
+      "longDescription": "Revolutionizes news consumption with AI-driven, personalized daily summaries.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Tailor",
+      "shortDescription": "[TRANSLATE-fr] Revolutionizes news consumption with AI-driven, personalized daily summaries.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionizes news consumption with AI-driven, personalized daily summaries.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Tailor",
+      "shortDescription": "[TRANSLATE-de] Revolutionizes news consumption with AI-driven, personalized daily summaries.…",
+      "longDescription": "[TRANSLATE-de] Revolutionizes news consumption with AI-driven, personalized daily summaries.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

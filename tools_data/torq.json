@@ -1,0 +1,56 @@
+{
+  "slug": "torq",
+  "image_url": "https://www.futurepedia.io/api/og?title=Torq+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff117a13a8ac294b3175758eaedc59cf0b2a71e3b-2517x1266.jpg",
+  "redirect_url": "https://www.linkedin.com/company/torq-ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "torq boost productivity with ai-driven task automation, prioritization, and seamless app integration. ",
+  "searchIndexEs": "torq boost productivity with ia-driven task automation, prioritization, and seamless app integration. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Torq",
+      "shortDescription": "[TRANSLATE-es] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.…",
+      "longDescription": "[TRANSLATE-es] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Torq",
+      "shortDescription": "[TRANSLATE-pt] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.…",
+      "longDescription": "[TRANSLATE-pt] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Torq",
+      "shortDescription": "Boost productivity with AI-driven task automation, prioritization, and seamless app integration.…",
+      "longDescription": "Boost productivity with AI-driven task automation, prioritization, and seamless app integration.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Torq",
+      "shortDescription": "[TRANSLATE-fr] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.…",
+      "longDescription": "[TRANSLATE-fr] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Torq",
+      "shortDescription": "[TRANSLATE-de] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.…",
+      "longDescription": "[TRANSLATE-de] Boost productivity with AI-driven task automation, prioritization, and seamless app integration.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

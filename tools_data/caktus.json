@@ -1,0 +1,56 @@
+{
+  "slug": "caktus",
+  "image_url": "https://www.futurepedia.io/api/og?title=Caktus+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F7ea6fbb44ad13a6f848cf236c1a402f9b5755ec5-2521x1236.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "caktus revolutionize content creation and data analysis with ai-driven precision and personalization. ",
+  "searchIndexEs": "caktus revolutionize content creation and data analysis with ia-driven precision and personalization. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Caktus",
+      "shortDescription": "[TRANSLATE-es] Revolutionize content creation and data analysis with AI-driven precision and personalization.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize content creation and data analysis with AI-driven precision and personalization.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Caktus",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize content creation and data analysis with AI-driven precision and personalization.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize content creation and data analysis with AI-driven precision and personalization.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Caktus",
+      "shortDescription": "Revolutionize content creation and data analysis with AI-driven precision and personalization.…",
+      "longDescription": "Revolutionize content creation and data analysis with AI-driven precision and personalization.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Caktus",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize content creation and data analysis with AI-driven precision and personalization.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize content creation and data analysis with AI-driven precision and personalization.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Caktus",
+      "shortDescription": "[TRANSLATE-de] Revolutionize content creation and data analysis with AI-driven precision and personalization.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize content creation and data analysis with AI-driven precision and personalization.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

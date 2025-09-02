@@ -1,0 +1,56 @@
+{
+  "slug": "crystalsound",
+  "image_url": "https://www.futurepedia.io/api/og?title=CrystalSound+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-27T01-26-17.278Z-AMGa1kXpAE1IlLJuX5zb3ARMK1ZgENvD7.PNG",
+  "redirect_url": "https://www.youtube.com/watch?v=ZmWobZkL4_E&feature=youtu.be",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "crystalsound enhance virtual meetings with ai-driven noise cancellation. ",
+  "searchIndexEs": "crystalsound enhance virtual meetings with ia-driven noise cancellation. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] CrystalSound",
+      "shortDescription": "[TRANSLATE-es] Enhance virtual meetings with AI-driven noise cancellation.…",
+      "longDescription": "[TRANSLATE-es] Enhance virtual meetings with AI-driven noise cancellation.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] audio"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] CrystalSound",
+      "shortDescription": "[TRANSLATE-pt] Enhance virtual meetings with AI-driven noise cancellation.…",
+      "longDescription": "[TRANSLATE-pt] Enhance virtual meetings with AI-driven noise cancellation.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] audio"
+    },
+    "en": {
+      "title": "CrystalSound",
+      "shortDescription": "Enhance virtual meetings with AI-driven noise cancellation.…",
+      "longDescription": "Enhance virtual meetings with AI-driven noise cancellation.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "audio"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] CrystalSound",
+      "shortDescription": "[TRANSLATE-fr] Enhance virtual meetings with AI-driven noise cancellation.…",
+      "longDescription": "[TRANSLATE-fr] Enhance virtual meetings with AI-driven noise cancellation.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] audio"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] CrystalSound",
+      "shortDescription": "[TRANSLATE-de] Enhance virtual meetings with AI-driven noise cancellation.…",
+      "longDescription": "[TRANSLATE-de] Enhance virtual meetings with AI-driven noise cancellation.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] audio"
+    }
+  }
+}

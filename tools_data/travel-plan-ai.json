@@ -1,0 +1,56 @@
+{
+  "slug": "travel-plan-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Travel+Plan+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F814f7b94238af89a5f46e8f9ffa8ed9018958bd4-1891x878.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "travel plan ai streamline travel planning with ai-generated, customizable itineraries. ",
+  "searchIndexEs": "travel plan ia streamline travel planning with ia-generated, customizable itineraries. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Travel Plan AI",
+      "shortDescription": "[TRANSLATE-es] Streamline travel planning with AI-generated, customizable itineraries.…",
+      "longDescription": "[TRANSLATE-es] Streamline travel planning with AI-generated, customizable itineraries.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Travel Plan AI",
+      "shortDescription": "[TRANSLATE-pt] Streamline travel planning with AI-generated, customizable itineraries.…",
+      "longDescription": "[TRANSLATE-pt] Streamline travel planning with AI-generated, customizable itineraries.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "Travel Plan AI",
+      "shortDescription": "Streamline travel planning with AI-generated, customizable itineraries.…",
+      "longDescription": "Streamline travel planning with AI-generated, customizable itineraries.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Travel Plan AI",
+      "shortDescription": "[TRANSLATE-fr] Streamline travel planning with AI-generated, customizable itineraries.…",
+      "longDescription": "[TRANSLATE-fr] Streamline travel planning with AI-generated, customizable itineraries.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Travel Plan AI",
+      "shortDescription": "[TRANSLATE-de] Streamline travel planning with AI-generated, customizable itineraries.…",
+      "longDescription": "[TRANSLATE-de] Streamline travel planning with AI-generated, customizable itineraries.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

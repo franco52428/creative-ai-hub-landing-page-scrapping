@@ -1,0 +1,56 @@
+{
+  "slug": "sidekick",
+  "image_url": "https://www.futurepedia.io/api/og?title=Sidekick+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fa396daa64fe5ace8ccb77880b06e65ac832d272c-1897x920.png",
+  "redirect_url": "https://www.linkedin.com/company/sidekickai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "sidekick optimize scheduling, enhance communication, boost productivity. ",
+  "searchIndexEs": "sidekick optimize scheduling, enhance communication, boost productivity. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Sidekick",
+      "shortDescription": "[TRANSLATE-es] Optimize scheduling, enhance communication, boost productivity.…",
+      "longDescription": "[TRANSLATE-es] Optimize scheduling, enhance communication, boost productivity.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Sidekick",
+      "shortDescription": "[TRANSLATE-pt] Optimize scheduling, enhance communication, boost productivity.…",
+      "longDescription": "[TRANSLATE-pt] Optimize scheduling, enhance communication, boost productivity.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Sidekick",
+      "shortDescription": "Optimize scheduling, enhance communication, boost productivity.…",
+      "longDescription": "Optimize scheduling, enhance communication, boost productivity.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Sidekick",
+      "shortDescription": "[TRANSLATE-fr] Optimize scheduling, enhance communication, boost productivity.…",
+      "longDescription": "[TRANSLATE-fr] Optimize scheduling, enhance communication, boost productivity.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Sidekick",
+      "shortDescription": "[TRANSLATE-de] Optimize scheduling, enhance communication, boost productivity.…",
+      "longDescription": "[TRANSLATE-de] Optimize scheduling, enhance communication, boost productivity.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

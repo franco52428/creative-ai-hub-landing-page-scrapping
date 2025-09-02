@@ -1,0 +1,56 @@
+{
+  "slug": "goheather",
+  "image_url": "https://www.futurepedia.io/api/og?title=goHeather+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F1ae190e3d82401d4a6c6b3b69d4610679e47221e-2518x1229.png",
+  "redirect_url": "https://www.linkedin.com/company/heatherhr/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "goheather ai-driven contract analysis, multilingual, lawyer-trained, time-saving tool. ",
+  "searchIndexEs": "goheather ia-driven contract analysis, multilingual, lawyer-trianed, time-saving herramienta. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] goHeather",
+      "shortDescription": "[TRANSLATE-es] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.…",
+      "longDescription": "[TRANSLATE-es] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] goHeather",
+      "shortDescription": "[TRANSLATE-pt] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "goHeather",
+      "shortDescription": "AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.…",
+      "longDescription": "AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] goHeather",
+      "shortDescription": "[TRANSLATE-fr] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] goHeather",
+      "shortDescription": "[TRANSLATE-de] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.…",
+      "longDescription": "[TRANSLATE-de] AI-driven contract analysis, multilingual, lawyer-trained, time-saving tool.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

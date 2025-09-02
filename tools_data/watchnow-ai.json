@@ -1,0 +1,56 @@
+{
+  "slug": "watchnow-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=WatchNow+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F6feb83f41b5513317672ac3b2c9f125a64a4066a-1510x690.jpg",
+  "redirect_url": "https://www.producthunt.com/posts/watchnow-ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-watchnow-ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "watchnow ai personalize your movie discovery with ai-driven, user-tailored recommendations. ",
+  "searchIndexEs": "watchnow ia personalize your movie discovery with ia-driven, user-tialored recommendations. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] WatchNow AI",
+      "shortDescription": "[TRANSLATE-es] Personalize your movie discovery with AI-driven, user-tailored recommendations.…",
+      "longDescription": "[TRANSLATE-es] Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] video"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] WatchNow AI",
+      "shortDescription": "[TRANSLATE-pt] Personalize your movie discovery with AI-driven, user-tailored recommendations.…",
+      "longDescription": "[TRANSLATE-pt] Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] video"
+    },
+    "en": {
+      "title": "WatchNow AI",
+      "shortDescription": "Personalize your movie discovery with AI-driven, user-tailored recommendations.…",
+      "longDescription": "Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "video"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] WatchNow AI",
+      "shortDescription": "[TRANSLATE-fr] Personalize your movie discovery with AI-driven, user-tailored recommendations.…",
+      "longDescription": "[TRANSLATE-fr] Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] video"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] WatchNow AI",
+      "shortDescription": "[TRANSLATE-de] Personalize your movie discovery with AI-driven, user-tailored recommendations.…",
+      "longDescription": "[TRANSLATE-de] Personalize your movie discovery with AI-driven, user-tailored recommendations.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] video"
+    }
+  }
+}

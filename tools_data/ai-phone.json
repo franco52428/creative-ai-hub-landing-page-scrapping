@@ -1,0 +1,56 @@
+{
+  "slug": "ai-phone",
+  "image_url": "https://www.futurepedia.io/api/og?title=AI+Phone+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F8d2045f0ea6d4798150187b97778b1fac4a6a7a8-1920x1080.webp",
+  "redirect_url": "https://twitter.com/AIPhoneTeam",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ai phone enhance call efficiency with ai transcription, privacy, and smart replies in real-time. ",
+  "searchIndexEs": "ia phone enhance call efficiency with ia transcription, privacy, and smart replies in real-time. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] AI Phone",
+      "shortDescription": "[TRANSLATE-es] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.…",
+      "longDescription": "[TRANSLATE-es] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] AI Phone",
+      "shortDescription": "[TRANSLATE-pt] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.…",
+      "longDescription": "[TRANSLATE-pt] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "AI Phone",
+      "shortDescription": "Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.…",
+      "longDescription": "Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] AI Phone",
+      "shortDescription": "[TRANSLATE-fr] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.…",
+      "longDescription": "[TRANSLATE-fr] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] AI Phone",
+      "shortDescription": "[TRANSLATE-de] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.…",
+      "longDescription": "[TRANSLATE-de] Enhance call efficiency with AI transcription, privacy, and smart replies in real-time.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

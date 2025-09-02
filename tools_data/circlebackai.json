@@ -1,0 +1,56 @@
+{
+  "slug": "circlebackai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Circleback.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F1f1992a9b5a7348e287b546aaaaefabc5052df39-1366x768.png",
+  "redirect_url": "https://twitter.com/circlebackai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "circleback.ai streamline meeting notes and action items with ai, ensuring efficiency and data security. ",
+  "searchIndexEs": "circleback.ia streamline meeting notes and action items with ia, ensuring efficiency and data security. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Circleback.ai",
+      "shortDescription": "[TRANSLATE-es] Streamline meeting notes and action items with AI, ensuring efficiency and data security.…",
+      "longDescription": "[TRANSLATE-es] Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Circleback.ai",
+      "shortDescription": "[TRANSLATE-pt] Streamline meeting notes and action items with AI, ensuring efficiency and data security.…",
+      "longDescription": "[TRANSLATE-pt] Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Circleback.ai",
+      "shortDescription": "Streamline meeting notes and action items with AI, ensuring efficiency and data security.…",
+      "longDescription": "Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Circleback.ai",
+      "shortDescription": "[TRANSLATE-fr] Streamline meeting notes and action items with AI, ensuring efficiency and data security.…",
+      "longDescription": "[TRANSLATE-fr] Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Circleback.ai",
+      "shortDescription": "[TRANSLATE-de] Streamline meeting notes and action items with AI, ensuring efficiency and data security.…",
+      "longDescription": "[TRANSLATE-de] Streamline meeting notes and action items with AI, ensuring efficiency and data security.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

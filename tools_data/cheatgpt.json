@@ -1,0 +1,56 @@
+{
+  "slug": "cheatgpt",
+  "image_url": "https://www.futurepedia.io/api/og?title=CheatGPT+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fc6dcf7f2ef28b9970039d9edac3b3eb0a602f1f2-2321x1254.jpg",
+  "redirect_url": "https://twitter.com/e_pavanello",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "cheatgpt revolutionizes study with ai tutoring, concise answers, and multilingual support. ",
+  "searchIndexEs": "cheatgpt revolutionizes study with ia tutoring, concise answers, and multilingual support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] CheatGPT",
+      "shortDescription": "[TRANSLATE-es] Revolutionizes study with AI tutoring, concise answers, and multilingual support.…",
+      "longDescription": "[TRANSLATE-es] Revolutionizes study with AI tutoring, concise answers, and multilingual support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] CheatGPT",
+      "shortDescription": "[TRANSLATE-pt] Revolutionizes study with AI tutoring, concise answers, and multilingual support.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionizes study with AI tutoring, concise answers, and multilingual support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "CheatGPT",
+      "shortDescription": "Revolutionizes study with AI tutoring, concise answers, and multilingual support.…",
+      "longDescription": "Revolutionizes study with AI tutoring, concise answers, and multilingual support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] CheatGPT",
+      "shortDescription": "[TRANSLATE-fr] Revolutionizes study with AI tutoring, concise answers, and multilingual support.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionizes study with AI tutoring, concise answers, and multilingual support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] CheatGPT",
+      "shortDescription": "[TRANSLATE-de] Revolutionizes study with AI tutoring, concise answers, and multilingual support.…",
+      "longDescription": "[TRANSLATE-de] Revolutionizes study with AI tutoring, concise answers, and multilingual support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "qashboard",
+  "image_url": "https://www.futurepedia.io/api/og?title=QashBoard+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff26a78496286a15efabd9ffa9316b03c16246b4e-2516x1243.png",
+  "redirect_url": "https://twitter.com/relume_io",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "qashboard streamline finances with ai insights and secure, customizable data management. ",
+  "searchIndexEs": "qashboard streamline finances with ia insights and secure, customizable data management. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] QashBoard",
+      "shortDescription": "[TRANSLATE-es] Streamline finances with AI insights and secure, customizable data management.…",
+      "longDescription": "[TRANSLATE-es] Streamline finances with AI insights and secure, customizable data management.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] QashBoard",
+      "shortDescription": "[TRANSLATE-pt] Streamline finances with AI insights and secure, customizable data management.…",
+      "longDescription": "[TRANSLATE-pt] Streamline finances with AI insights and secure, customizable data management.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "QashBoard",
+      "shortDescription": "Streamline finances with AI insights and secure, customizable data management.…",
+      "longDescription": "Streamline finances with AI insights and secure, customizable data management.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] QashBoard",
+      "shortDescription": "[TRANSLATE-fr] Streamline finances with AI insights and secure, customizable data management.…",
+      "longDescription": "[TRANSLATE-fr] Streamline finances with AI insights and secure, customizable data management.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] QashBoard",
+      "shortDescription": "[TRANSLATE-de] Streamline finances with AI insights and secure, customizable data management.…",
+      "longDescription": "[TRANSLATE-de] Streamline finances with AI insights and secure, customizable data management.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

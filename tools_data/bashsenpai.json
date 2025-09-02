@@ -1,0 +1,56 @@
+{
+  "slug": "bashsenpai",
+  "image_url": "https://www.futurepedia.io/api/og?title=BashSenpai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fd7ea2576ade7200c23873fc4cf8513b5535fcc36-2530x1270.jpg",
+  "redirect_url": "https://twitter.com/bash_senpai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "bashsenpai ai assistant transforms instructions into terminal commands seamlessly. ",
+  "searchIndexEs": "bashsenpia ia asistente transforms instructions into terminal commands seamlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] BashSenpai",
+      "shortDescription": "[TRANSLATE-es] AI assistant transforms instructions into terminal commands seamlessly.…",
+      "longDescription": "[TRANSLATE-es] AI assistant transforms instructions into terminal commands seamlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] BashSenpai",
+      "shortDescription": "[TRANSLATE-pt] AI assistant transforms instructions into terminal commands seamlessly.…",
+      "longDescription": "[TRANSLATE-pt] AI assistant transforms instructions into terminal commands seamlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "BashSenpai",
+      "shortDescription": "AI assistant transforms instructions into terminal commands seamlessly.…",
+      "longDescription": "AI assistant transforms instructions into terminal commands seamlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] BashSenpai",
+      "shortDescription": "[TRANSLATE-fr] AI assistant transforms instructions into terminal commands seamlessly.…",
+      "longDescription": "[TRANSLATE-fr] AI assistant transforms instructions into terminal commands seamlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] BashSenpai",
+      "shortDescription": "[TRANSLATE-de] AI assistant transforms instructions into terminal commands seamlessly.…",
+      "longDescription": "[TRANSLATE-de] AI assistant transforms instructions into terminal commands seamlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

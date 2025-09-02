@@ -1,0 +1,56 @@
+{
+  "slug": "gift-ideas-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Gift+Ideas+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F1874186bc335ca6ac5ecaf3f94327e8bec31b48e-2515x1234.png",
+  "redirect_url": "https://twitter.com/felixvemmer",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "gift ideas ai ai-driven personalized gift suggestions for every occasion. ",
+  "searchIndexEs": "gift ideas ia ia-driven personalized gift suggestions for every occasion. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Gift Ideas AI",
+      "shortDescription": "[TRANSLATE-es] AI-driven personalized gift suggestions for every occasion.…",
+      "longDescription": "[TRANSLATE-es] AI-driven personalized gift suggestions for every occasion.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Gift Ideas AI",
+      "shortDescription": "[TRANSLATE-pt] AI-driven personalized gift suggestions for every occasion.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven personalized gift suggestions for every occasion.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Gift Ideas AI",
+      "shortDescription": "AI-driven personalized gift suggestions for every occasion.…",
+      "longDescription": "AI-driven personalized gift suggestions for every occasion.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Gift Ideas AI",
+      "shortDescription": "[TRANSLATE-fr] AI-driven personalized gift suggestions for every occasion.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven personalized gift suggestions for every occasion.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Gift Ideas AI",
+      "shortDescription": "[TRANSLATE-de] AI-driven personalized gift suggestions for every occasion.…",
+      "longDescription": "[TRANSLATE-de] AI-driven personalized gift suggestions for every occasion.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

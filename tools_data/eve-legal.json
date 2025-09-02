@@ -1,0 +1,56 @@
+{
+  "slug": "eve-legal",
+  "image_url": "https://www.futurepedia.io/api/og?title=Eve+Legal+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-14T20-07-17.883Z-8zRirnTpaNUwLPI-zSVMOduOSuWWo2rzU.png",
+  "redirect_url": "https://twitter.com/evelegalai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "eve legal ai-driven legal tool streamlining case management for plaintiff firms. ",
+  "searchIndexEs": "eve legal ia-driven legal herramienta streamlining case management for pliantiff firms. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Eve Legal",
+      "shortDescription": "[TRANSLATE-es] AI-driven legal tool streamlining case management for plaintiff firms.…",
+      "longDescription": "[TRANSLATE-es] AI-driven legal tool streamlining case management for plaintiff firms.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Eve Legal",
+      "shortDescription": "[TRANSLATE-pt] AI-driven legal tool streamlining case management for plaintiff firms.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven legal tool streamlining case management for plaintiff firms.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Eve Legal",
+      "shortDescription": "AI-driven legal tool streamlining case management for plaintiff firms.…",
+      "longDescription": "AI-driven legal tool streamlining case management for plaintiff firms.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Eve Legal",
+      "shortDescription": "[TRANSLATE-fr] AI-driven legal tool streamlining case management for plaintiff firms.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven legal tool streamlining case management for plaintiff firms.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Eve Legal",
+      "shortDescription": "[TRANSLATE-de] AI-driven legal tool streamlining case management for plaintiff firms.…",
+      "longDescription": "[TRANSLATE-de] AI-driven legal tool streamlining case management for plaintiff firms.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

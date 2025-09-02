@@ -1,0 +1,56 @@
+{
+  "slug": "jigso",
+  "image_url": "https://www.futurepedia.io/api/og?title=Jigso+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fc56bbc29a27f2ecac2a539d895a995f1f2c07801-2513x1285.png",
+  "redirect_url": "https://www.linkedin.com/company/jigsoio/about/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "jigso optimize tasks, automate alerts, and retrieve data seamlessly. ",
+  "searchIndexEs": "jigso optimize tasks, automate alerts, and retrieve data seamlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Jigso",
+      "shortDescription": "[TRANSLATE-es] Optimize tasks, automate alerts, and retrieve data seamlessly.…",
+      "longDescription": "[TRANSLATE-es] Optimize tasks, automate alerts, and retrieve data seamlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Jigso",
+      "shortDescription": "[TRANSLATE-pt] Optimize tasks, automate alerts, and retrieve data seamlessly.…",
+      "longDescription": "[TRANSLATE-pt] Optimize tasks, automate alerts, and retrieve data seamlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Jigso",
+      "shortDescription": "Optimize tasks, automate alerts, and retrieve data seamlessly.…",
+      "longDescription": "Optimize tasks, automate alerts, and retrieve data seamlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Jigso",
+      "shortDescription": "[TRANSLATE-fr] Optimize tasks, automate alerts, and retrieve data seamlessly.…",
+      "longDescription": "[TRANSLATE-fr] Optimize tasks, automate alerts, and retrieve data seamlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Jigso",
+      "shortDescription": "[TRANSLATE-de] Optimize tasks, automate alerts, and retrieve data seamlessly.…",
+      "longDescription": "[TRANSLATE-de] Optimize tasks, automate alerts, and retrieve data seamlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

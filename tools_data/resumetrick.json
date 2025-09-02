@@ -1,0 +1,56 @@
+{
+  "slug": "resumetrick",
+  "image_url": "https://www.futurepedia.io/api/og?title=ResumeTrick+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F698802f667095d719adc3e129e0ec55064eab349-2536x1254.jpg",
+  "redirect_url": "https://twitter.com/resumetrick",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "resumetrick revolutionize your resume creation with ai-powered efficiency and professional flair. ",
+  "searchIndexEs": "resumetrick revolutionize your resume creation with ia-powered efficiency and professional fliar. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] ResumeTrick",
+      "shortDescription": "[TRANSLATE-es] Revolutionize your resume creation with AI-powered efficiency and professional flair.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize your resume creation with AI-powered efficiency and professional flair.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] ResumeTrick",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize your resume creation with AI-powered efficiency and professional flair.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize your resume creation with AI-powered efficiency and professional flair.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "ResumeTrick",
+      "shortDescription": "Revolutionize your resume creation with AI-powered efficiency and professional flair.…",
+      "longDescription": "Revolutionize your resume creation with AI-powered efficiency and professional flair.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] ResumeTrick",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize your resume creation with AI-powered efficiency and professional flair.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize your resume creation with AI-powered efficiency and professional flair.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] ResumeTrick",
+      "shortDescription": "[TRANSLATE-de] Revolutionize your resume creation with AI-powered efficiency and professional flair.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize your resume creation with AI-powered efficiency and professional flair.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

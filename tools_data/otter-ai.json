@@ -1,0 +1,56 @@
+{
+  "slug": "otter-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Otter.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-26T00-19-10.767Z--oVqcjTSjRKpqrc2vdisWkjvHYffZsdLx.png",
+  "redirect_url": "https://www.linkedin.com/company/otter-ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "otter.ai automates meeting notes with real-time transcription. ",
+  "searchIndexEs": "otter.ia automates meeting notes with real-time transcription. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Otter.ai",
+      "shortDescription": "[TRANSLATE-es] Automates meeting notes with real-time transcription.…",
+      "longDescription": "[TRANSLATE-es] Automates meeting notes with real-time transcription.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Otter.ai",
+      "shortDescription": "[TRANSLATE-pt] Automates meeting notes with real-time transcription.…",
+      "longDescription": "[TRANSLATE-pt] Automates meeting notes with real-time transcription.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Otter.ai",
+      "shortDescription": "Automates meeting notes with real-time transcription.…",
+      "longDescription": "Automates meeting notes with real-time transcription.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Otter.ai",
+      "shortDescription": "[TRANSLATE-fr] Automates meeting notes with real-time transcription.…",
+      "longDescription": "[TRANSLATE-fr] Automates meeting notes with real-time transcription.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Otter.ai",
+      "shortDescription": "[TRANSLATE-de] Automates meeting notes with real-time transcription.…",
+      "longDescription": "[TRANSLATE-de] Automates meeting notes with real-time transcription.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

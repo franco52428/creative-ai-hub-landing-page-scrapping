@@ -1,0 +1,56 @@
+{
+  "slug": "teamsmart-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=TeamSmart+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F5b4df9a8806b5c35819a0bbb73d23c91ac3bbc93-2523x1221.png",
+  "redirect_url": "https://twitter.com/jake_prins",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "teamsmart ai boost productivity with customizable ai assistants in a chrome extension. ",
+  "searchIndexEs": "teamsmart ia boost productivity with customizable ia asistentes in a chrome extension. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] TeamSmart AI",
+      "shortDescription": "[TRANSLATE-es] Boost productivity with customizable AI assistants in a Chrome extension.…",
+      "longDescription": "[TRANSLATE-es] Boost productivity with customizable AI assistants in a Chrome extension.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] TeamSmart AI",
+      "shortDescription": "[TRANSLATE-pt] Boost productivity with customizable AI assistants in a Chrome extension.…",
+      "longDescription": "[TRANSLATE-pt] Boost productivity with customizable AI assistants in a Chrome extension.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "TeamSmart AI",
+      "shortDescription": "Boost productivity with customizable AI assistants in a Chrome extension.…",
+      "longDescription": "Boost productivity with customizable AI assistants in a Chrome extension.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] TeamSmart AI",
+      "shortDescription": "[TRANSLATE-fr] Boost productivity with customizable AI assistants in a Chrome extension.…",
+      "longDescription": "[TRANSLATE-fr] Boost productivity with customizable AI assistants in a Chrome extension.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] TeamSmart AI",
+      "shortDescription": "[TRANSLATE-de] Boost productivity with customizable AI assistants in a Chrome extension.…",
+      "longDescription": "[TRANSLATE-de] Boost productivity with customizable AI assistants in a Chrome extension.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

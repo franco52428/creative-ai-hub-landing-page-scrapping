@@ -1,0 +1,56 @@
+{
+  "slug": "portfoliogpt",
+  "image_url": "https://www.futurepedia.io/api/og?title=PortfolioGPT+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-24T16-28-55.449Z-A1gY04ySJQ7BIYbHfAyPeeYxmBTrzibga.png",
+  "redirect_url": "https://x.com/z_alexander_x",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "portfoliogpt automates personalized portfolio creation, optimizing investment strategies effortlessly. ",
+  "searchIndexEs": "portfoliogpt automates personalized portfolio creation, optimizing investment strategies effortlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] PortfolioGPT",
+      "shortDescription": "[TRANSLATE-es] Automates personalized portfolio creation, optimizing investment strategies effortlessly.…",
+      "longDescription": "[TRANSLATE-es] Automates personalized portfolio creation, optimizing investment strategies effortlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] PortfolioGPT",
+      "shortDescription": "[TRANSLATE-pt] Automates personalized portfolio creation, optimizing investment strategies effortlessly.…",
+      "longDescription": "[TRANSLATE-pt] Automates personalized portfolio creation, optimizing investment strategies effortlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "PortfolioGPT",
+      "shortDescription": "Automates personalized portfolio creation, optimizing investment strategies effortlessly.…",
+      "longDescription": "Automates personalized portfolio creation, optimizing investment strategies effortlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] PortfolioGPT",
+      "shortDescription": "[TRANSLATE-fr] Automates personalized portfolio creation, optimizing investment strategies effortlessly.…",
+      "longDescription": "[TRANSLATE-fr] Automates personalized portfolio creation, optimizing investment strategies effortlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] PortfolioGPT",
+      "shortDescription": "[TRANSLATE-de] Automates personalized portfolio creation, optimizing investment strategies effortlessly.…",
+      "longDescription": "[TRANSLATE-de] Automates personalized portfolio creation, optimizing investment strategies effortlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

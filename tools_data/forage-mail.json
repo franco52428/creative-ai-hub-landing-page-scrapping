@@ -1,0 +1,56 @@
+{
+  "slug": "forage-mail",
+  "image_url": "https://www.futurepedia.io/api/og?title=Forage+Mail+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-05-28T19-47-03.072Z-xQFb9OnoFSjxF7z_AYmb8lAbXr3BprY6A.png",
+  "redirect_url": "https://x.com/foragemail",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "forage mail ai that makes you good at email. ",
+  "searchIndexEs": "forage mial ia that makes you good at emial. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Forage Mail",
+      "shortDescription": "[TRANSLATE-es] AI That Makes You Good at Email.…",
+      "longDescription": "[TRANSLATE-es] AI That Makes You Good at Email.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Forage Mail",
+      "shortDescription": "[TRANSLATE-pt] AI That Makes You Good at Email.…",
+      "longDescription": "[TRANSLATE-pt] AI That Makes You Good at Email.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Forage Mail",
+      "shortDescription": "AI That Makes You Good at Email.…",
+      "longDescription": "AI That Makes You Good at Email.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Forage Mail",
+      "shortDescription": "[TRANSLATE-fr] AI That Makes You Good at Email.…",
+      "longDescription": "[TRANSLATE-fr] AI That Makes You Good at Email.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Forage Mail",
+      "shortDescription": "[TRANSLATE-de] AI That Makes You Good at Email.…",
+      "longDescription": "[TRANSLATE-de] AI That Makes You Good at Email.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "whimsey",
+  "image_url": "https://www.futurepedia.io/api/og?title=Whimsey+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-14T15-19-09.511Z-2Ka5cbsUHC2Uq7_3NqGRLphfDfQlP-Eic.blob",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "whimsey streamlines scheduling with ai-driven calendar management. ",
+  "searchIndexEs": "whimsey streamlines scheduling with ia-driven calendar management. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Whimsey",
+      "shortDescription": "[TRANSLATE-es] Streamlines scheduling with AI-driven calendar management.…",
+      "longDescription": "[TRANSLATE-es] Streamlines scheduling with AI-driven calendar management.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Whimsey",
+      "shortDescription": "[TRANSLATE-pt] Streamlines scheduling with AI-driven calendar management.…",
+      "longDescription": "[TRANSLATE-pt] Streamlines scheduling with AI-driven calendar management.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Whimsey",
+      "shortDescription": "Streamlines scheduling with AI-driven calendar management.…",
+      "longDescription": "Streamlines scheduling with AI-driven calendar management.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Whimsey",
+      "shortDescription": "[TRANSLATE-fr] Streamlines scheduling with AI-driven calendar management.…",
+      "longDescription": "[TRANSLATE-fr] Streamlines scheduling with AI-driven calendar management.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Whimsey",
+      "shortDescription": "[TRANSLATE-de] Streamlines scheduling with AI-driven calendar management.…",
+      "longDescription": "[TRANSLATE-de] Streamlines scheduling with AI-driven calendar management.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

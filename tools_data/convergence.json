@@ -1,0 +1,56 @@
+{
+  "slug": "convergence",
+  "image_url": "https://www.futurepedia.io/api/og?title=Convergence+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-11T15-33-59.950Z-Rt0hDISHpreAD2sJgBWWcw6AjrYwv9ye1.png",
+  "redirect_url": "https://www.linkedin.com/company/convergencelabs",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "convergence automates tasks, navigates the web, and streamlines workflows. ",
+  "searchIndexEs": "convergence automates tasks, navigates the web, and streamlines workflows. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Convergence",
+      "shortDescription": "[TRANSLATE-es] Automates tasks, navigates the web, and streamlines workflows.…",
+      "longDescription": "[TRANSLATE-es] Automates tasks, navigates the web, and streamlines workflows.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Convergence",
+      "shortDescription": "[TRANSLATE-pt] Automates tasks, navigates the web, and streamlines workflows.…",
+      "longDescription": "[TRANSLATE-pt] Automates tasks, navigates the web, and streamlines workflows.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Convergence",
+      "shortDescription": "Automates tasks, navigates the web, and streamlines workflows.…",
+      "longDescription": "Automates tasks, navigates the web, and streamlines workflows.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Convergence",
+      "shortDescription": "[TRANSLATE-fr] Automates tasks, navigates the web, and streamlines workflows.…",
+      "longDescription": "[TRANSLATE-fr] Automates tasks, navigates the web, and streamlines workflows.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Convergence",
+      "shortDescription": "[TRANSLATE-de] Automates tasks, navigates the web, and streamlines workflows.…",
+      "longDescription": "[TRANSLATE-de] Automates tasks, navigates the web, and streamlines workflows.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

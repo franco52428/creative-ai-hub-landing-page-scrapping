@@ -1,0 +1,56 @@
+{
+  "slug": "yoodli-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Yoodli+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F4c0871d865b637a4b8483ce768b1c65c80285eb4-1680x876.png",
+  "redirect_url": "https://www.linkedin.com/company/yoodli/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "yoodli ai refine speech with ai: real-time feedback, personalized analytics, private improvement. ",
+  "searchIndexEs": "yoodli ia refine speech with ia: real-time feedback, personalized analytics, private improvement. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Yoodli AI",
+      "shortDescription": "[TRANSLATE-es] Refine speech with AI: real-time feedback, personalized analytics, private improvement.…",
+      "longDescription": "[TRANSLATE-es] Refine speech with AI: real-time feedback, personalized analytics, private improvement.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Yoodli AI",
+      "shortDescription": "[TRANSLATE-pt] Refine speech with AI: real-time feedback, personalized analytics, private improvement.…",
+      "longDescription": "[TRANSLATE-pt] Refine speech with AI: real-time feedback, personalized analytics, private improvement.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Yoodli AI",
+      "shortDescription": "Refine speech with AI: real-time feedback, personalized analytics, private improvement.…",
+      "longDescription": "Refine speech with AI: real-time feedback, personalized analytics, private improvement.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Yoodli AI",
+      "shortDescription": "[TRANSLATE-fr] Refine speech with AI: real-time feedback, personalized analytics, private improvement.…",
+      "longDescription": "[TRANSLATE-fr] Refine speech with AI: real-time feedback, personalized analytics, private improvement.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Yoodli AI",
+      "shortDescription": "[TRANSLATE-de] Refine speech with AI: real-time feedback, personalized analytics, private improvement.…",
+      "longDescription": "[TRANSLATE-de] Refine speech with AI: real-time feedback, personalized analytics, private improvement.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

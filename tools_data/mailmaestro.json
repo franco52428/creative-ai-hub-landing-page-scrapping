@@ -1,0 +1,56 @@
+{
+  "slug": "mailmaestro",
+  "image_url": "https://www.futurepedia.io/api/og?title=MailMaestro+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fba5b466d59769c6dd32d423d55a6715f0267d3a1-2513x1230.png",
+  "redirect_url": "https://www.linkedin.com/company/maestrolabs/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mailmaestro boost email drafting speed and security with ai-driven personalization. ",
+  "searchIndexEs": "mialmaestro boost emial drafting speed and security with ia-driven personalization. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MailMaestro",
+      "shortDescription": "[TRANSLATE-es] Boost email drafting speed and security with AI-driven personalization.…",
+      "longDescription": "[TRANSLATE-es] Boost email drafting speed and security with AI-driven personalization.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MailMaestro",
+      "shortDescription": "[TRANSLATE-pt] Boost email drafting speed and security with AI-driven personalization.…",
+      "longDescription": "[TRANSLATE-pt] Boost email drafting speed and security with AI-driven personalization.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "MailMaestro",
+      "shortDescription": "Boost email drafting speed and security with AI-driven personalization.…",
+      "longDescription": "Boost email drafting speed and security with AI-driven personalization.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MailMaestro",
+      "shortDescription": "[TRANSLATE-fr] Boost email drafting speed and security with AI-driven personalization.…",
+      "longDescription": "[TRANSLATE-fr] Boost email drafting speed and security with AI-driven personalization.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MailMaestro",
+      "shortDescription": "[TRANSLATE-de] Boost email drafting speed and security with AI-driven personalization.…",
+      "longDescription": "[TRANSLATE-de] Boost email drafting speed and security with AI-driven personalization.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

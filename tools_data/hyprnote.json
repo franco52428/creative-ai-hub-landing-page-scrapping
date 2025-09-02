@@ -1,0 +1,56 @@
+{
+  "slug": "hyprnote",
+  "image_url": "https://www.futurepedia.io/api/og?title=Hyprnote+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-08-13T14-22-19.340Z-COzDYUg7DALKoS1kkFivR6tgYQLvNJJfE.blob",
+  "redirect_url": "https://x.com/da_green_hermit/status/1952557888247038088",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "hyprnote transcribes and summarizes meetings locally, ensuring privacy. ",
+  "searchIndexEs": "hyprnote transcribes and summarizes meetings locally, ensuring privacy. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Hyprnote",
+      "shortDescription": "[TRANSLATE-es] Transcribes and summarizes meetings locally, ensuring privacy.…",
+      "longDescription": "[TRANSLATE-es] Transcribes and summarizes meetings locally, ensuring privacy.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Hyprnote",
+      "shortDescription": "[TRANSLATE-pt] Transcribes and summarizes meetings locally, ensuring privacy.…",
+      "longDescription": "[TRANSLATE-pt] Transcribes and summarizes meetings locally, ensuring privacy.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Hyprnote",
+      "shortDescription": "Transcribes and summarizes meetings locally, ensuring privacy.…",
+      "longDescription": "Transcribes and summarizes meetings locally, ensuring privacy.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Hyprnote",
+      "shortDescription": "[TRANSLATE-fr] Transcribes and summarizes meetings locally, ensuring privacy.…",
+      "longDescription": "[TRANSLATE-fr] Transcribes and summarizes meetings locally, ensuring privacy.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Hyprnote",
+      "shortDescription": "[TRANSLATE-de] Transcribes and summarizes meetings locally, ensuring privacy.…",
+      "longDescription": "[TRANSLATE-de] Transcribes and summarizes meetings locally, ensuring privacy.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

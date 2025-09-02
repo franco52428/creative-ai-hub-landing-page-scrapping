@@ -1,0 +1,56 @@
+{
+  "slug": "goodfriend-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=GoodFriend+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F5b425402cb54913428640444724a6a5ff96e4d5b-2478x1227.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "goodfriend ai ai-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time. ",
+  "searchIndexEs": "goodfriend ia ia-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] GoodFriend AI",
+      "shortDescription": "[TRANSLATE-es] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.…",
+      "longDescription": "[TRANSLATE-es] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] GoodFriend AI",
+      "shortDescription": "[TRANSLATE-pt] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.…",
+      "longDescription": "[TRANSLATE-pt] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "GoodFriend AI",
+      "shortDescription": "AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.…",
+      "longDescription": "AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] GoodFriend AI",
+      "shortDescription": "[TRANSLATE-fr] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.…",
+      "longDescription": "[TRANSLATE-fr] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] GoodFriend AI",
+      "shortDescription": "[TRANSLATE-de] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.…",
+      "longDescription": "[TRANSLATE-de] AI-boosted virtual humans offering personalized, multimedia-enriched interactions in real-time.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

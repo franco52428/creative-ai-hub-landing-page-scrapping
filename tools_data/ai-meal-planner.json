@@ -1,0 +1,56 @@
+{
+  "slug": "ai-meal-planner",
+  "image_url": "https://www.futurepedia.io/api/og?title=AI+Meal+Planner+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-31T18-52-18.459Z-T2ta_7OL3DG4-H5ZaFdMalib6hIbuAuPq.PNG",
+  "redirect_url": "https://twitter.com/casadesante",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ai meal planner personalized meal plans tailored to individual dietary needs. ",
+  "searchIndexEs": "ia meal planner personalized meal plans tialored to individual dietary needs. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] AI Meal Planner",
+      "shortDescription": "[TRANSLATE-es] Personalized meal plans tailored to individual dietary needs.…",
+      "longDescription": "[TRANSLATE-es] Personalized meal plans tailored to individual dietary needs.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] AI Meal Planner",
+      "shortDescription": "[TRANSLATE-pt] Personalized meal plans tailored to individual dietary needs.…",
+      "longDescription": "[TRANSLATE-pt] Personalized meal plans tailored to individual dietary needs.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "AI Meal Planner",
+      "shortDescription": "Personalized meal plans tailored to individual dietary needs.…",
+      "longDescription": "Personalized meal plans tailored to individual dietary needs.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] AI Meal Planner",
+      "shortDescription": "[TRANSLATE-fr] Personalized meal plans tailored to individual dietary needs.…",
+      "longDescription": "[TRANSLATE-fr] Personalized meal plans tailored to individual dietary needs.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] AI Meal Planner",
+      "shortDescription": "[TRANSLATE-de] Personalized meal plans tailored to individual dietary needs.…",
+      "longDescription": "[TRANSLATE-de] Personalized meal plans tailored to individual dietary needs.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

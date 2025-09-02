@@ -1,0 +1,56 @@
+{
+  "slug": "rolemodel-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Role+Model+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F551c940efc8473a760ce0a2803163c8c32fabf4a-2029x1124.jpg",
+  "redirect_url": "https://www.facebook.com/Rolemodelai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "role model ai virtual assistant with 3d avatars, phone integration, and fortnite connectivity. ",
+  "searchIndexEs": "role model ia virtual asistente with 3d avatars, phone integration, and fortnite connectivity. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Role Model AI",
+      "shortDescription": "[TRANSLATE-es] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.…",
+      "longDescription": "[TRANSLATE-es] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Role Model AI",
+      "shortDescription": "[TRANSLATE-pt] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.…",
+      "longDescription": "[TRANSLATE-pt] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Role Model AI",
+      "shortDescription": "Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.…",
+      "longDescription": "Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Role Model AI",
+      "shortDescription": "[TRANSLATE-fr] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.…",
+      "longDescription": "[TRANSLATE-fr] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Role Model AI",
+      "shortDescription": "[TRANSLATE-de] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.…",
+      "longDescription": "[TRANSLATE-de] Virtual assistant with 3D avatars, phone integration, and Fortnite connectivity.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

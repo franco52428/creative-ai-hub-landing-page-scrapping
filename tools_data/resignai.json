@@ -1,0 +1,56 @@
+{
+  "slug": "resignai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Resign.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff314439ab6bbf88ad64e9ec3b4d124009e40b67c-2527x1272.jpg",
+  "redirect_url": "https://monica.im/invitation-affiliate?ref=yzawntq&ref_aff=yzawntq",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "resign.ai generate professional resignation letters instantly, ensuring a smooth career transition. ",
+  "searchIndexEs": "resign.ia generate professional resignation letters instantly, ensuring a smooth career transition. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Resign.ai",
+      "shortDescription": "[TRANSLATE-es] Generate professional resignation letters instantly, ensuring a smooth career transition.…",
+      "longDescription": "[TRANSLATE-es] Generate professional resignation letters instantly, ensuring a smooth career transition.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Resign.ai",
+      "shortDescription": "[TRANSLATE-pt] Generate professional resignation letters instantly, ensuring a smooth career transition.…",
+      "longDescription": "[TRANSLATE-pt] Generate professional resignation letters instantly, ensuring a smooth career transition.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "Resign.ai",
+      "shortDescription": "Generate professional resignation letters instantly, ensuring a smooth career transition.…",
+      "longDescription": "Generate professional resignation letters instantly, ensuring a smooth career transition.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Resign.ai",
+      "shortDescription": "[TRANSLATE-fr] Generate professional resignation letters instantly, ensuring a smooth career transition.…",
+      "longDescription": "[TRANSLATE-fr] Generate professional resignation letters instantly, ensuring a smooth career transition.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Resign.ai",
+      "shortDescription": "[TRANSLATE-de] Generate professional resignation letters instantly, ensuring a smooth career transition.…",
+      "longDescription": "[TRANSLATE-de] Generate professional resignation letters instantly, ensuring a smooth career transition.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

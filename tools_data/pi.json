@@ -1,0 +1,56 @@
+{
+  "slug": "pi",
+  "image_url": "https://www.futurepedia.io/api/og?title=Pi+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-27T21-54-34.209Z-FjI2-ct9K4YCxDYlmqHRuR8ksE4EawnO6.PNG",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "pi ai-powered conversational assistant offering personalized, context-aware interactions. ",
+  "searchIndexEs": "pi ia-powered conversational asistente offering personalized, context-aware interactions. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Pi",
+      "shortDescription": "[TRANSLATE-es] AI-powered conversational assistant offering personalized, context-aware interactions.…",
+      "longDescription": "[TRANSLATE-es] AI-powered conversational assistant offering personalized, context-aware interactions.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Pi",
+      "shortDescription": "[TRANSLATE-pt] AI-powered conversational assistant offering personalized, context-aware interactions.…",
+      "longDescription": "[TRANSLATE-pt] AI-powered conversational assistant offering personalized, context-aware interactions.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Pi",
+      "shortDescription": "AI-powered conversational assistant offering personalized, context-aware interactions.…",
+      "longDescription": "AI-powered conversational assistant offering personalized, context-aware interactions.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Pi",
+      "shortDescription": "[TRANSLATE-fr] AI-powered conversational assistant offering personalized, context-aware interactions.…",
+      "longDescription": "[TRANSLATE-fr] AI-powered conversational assistant offering personalized, context-aware interactions.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Pi",
+      "shortDescription": "[TRANSLATE-de] AI-powered conversational assistant offering personalized, context-aware interactions.…",
+      "longDescription": "[TRANSLATE-de] AI-powered conversational assistant offering personalized, context-aware interactions.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

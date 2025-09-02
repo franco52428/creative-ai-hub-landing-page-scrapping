@@ -1,0 +1,56 @@
+{
+  "slug": "travelnaut",
+  "image_url": "https://www.futurepedia.io/api/og?title=Travelnaut+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fece3d1a5e64bcb9d670894805a3744cf682adf64-2530x1238.png",
+  "redirect_url": "https://www.instagram.com/travelnautcom",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "travelnaut unleash ai to tailor and simplify your travel planning journey. ",
+  "searchIndexEs": "travelnaut unleash ia to tialor and simplify your travel planning journey. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Travelnaut",
+      "shortDescription": "[TRANSLATE-es] Unleash AI to tailor and simplify your travel planning journey.…",
+      "longDescription": "[TRANSLATE-es] Unleash AI to tailor and simplify your travel planning journey.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Travelnaut",
+      "shortDescription": "[TRANSLATE-pt] Unleash AI to tailor and simplify your travel planning journey.…",
+      "longDescription": "[TRANSLATE-pt] Unleash AI to tailor and simplify your travel planning journey.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Travelnaut",
+      "shortDescription": "Unleash AI to tailor and simplify your travel planning journey.…",
+      "longDescription": "Unleash AI to tailor and simplify your travel planning journey.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Travelnaut",
+      "shortDescription": "[TRANSLATE-fr] Unleash AI to tailor and simplify your travel planning journey.…",
+      "longDescription": "[TRANSLATE-fr] Unleash AI to tailor and simplify your travel planning journey.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Travelnaut",
+      "shortDescription": "[TRANSLATE-de] Unleash AI to tailor and simplify your travel planning journey.…",
+      "longDescription": "[TRANSLATE-de] Unleash AI to tailor and simplify your travel planning journey.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

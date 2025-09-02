@@ -1,0 +1,56 @@
+{
+  "slug": "rizemail",
+  "image_url": "https://www.futurepedia.io/api/og?title=Rizemail+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F87e9f6aaa755bce468492ba997271706f28674b5-1897x922.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "rizemail streamline email management with ai-powered, secure, and integrated inbox summarization. ",
+  "searchIndexEs": "rizemial streamline emial management with ia-powered, secure, and integrated inbox summarization. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Rizemail",
+      "shortDescription": "[TRANSLATE-es] Streamline email management with AI-powered, secure, and integrated inbox summarization.…",
+      "longDescription": "[TRANSLATE-es] Streamline email management with AI-powered, secure, and integrated inbox summarization.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Rizemail",
+      "shortDescription": "[TRANSLATE-pt] Streamline email management with AI-powered, secure, and integrated inbox summarization.…",
+      "longDescription": "[TRANSLATE-pt] Streamline email management with AI-powered, secure, and integrated inbox summarization.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Rizemail",
+      "shortDescription": "Streamline email management with AI-powered, secure, and integrated inbox summarization.…",
+      "longDescription": "Streamline email management with AI-powered, secure, and integrated inbox summarization.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Rizemail",
+      "shortDescription": "[TRANSLATE-fr] Streamline email management with AI-powered, secure, and integrated inbox summarization.…",
+      "longDescription": "[TRANSLATE-fr] Streamline email management with AI-powered, secure, and integrated inbox summarization.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Rizemail",
+      "shortDescription": "[TRANSLATE-de] Streamline email management with AI-powered, secure, and integrated inbox summarization.…",
+      "longDescription": "[TRANSLATE-de] Streamline email management with AI-powered, secure, and integrated inbox summarization.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "gymbuddy-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=GymBuddy+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F625f59d9b992850494b260cadcac4576184bb3ac-2515x1208.jpg",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "gymbuddy ai ai-driven tool for personalized workout plans and progress tracking. ",
+  "searchIndexEs": "gymbuddy ia ia-driven herramienta for personalized workout plans and progress tracking. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] GymBuddy AI",
+      "shortDescription": "[TRANSLATE-es] AI-driven tool for personalized workout plans and progress tracking.…",
+      "longDescription": "[TRANSLATE-es] AI-driven tool for personalized workout plans and progress tracking.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] GymBuddy AI",
+      "shortDescription": "[TRANSLATE-pt] AI-driven tool for personalized workout plans and progress tracking.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven tool for personalized workout plans and progress tracking.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "GymBuddy AI",
+      "shortDescription": "AI-driven tool for personalized workout plans and progress tracking.…",
+      "longDescription": "AI-driven tool for personalized workout plans and progress tracking.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] GymBuddy AI",
+      "shortDescription": "[TRANSLATE-fr] AI-driven tool for personalized workout plans and progress tracking.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven tool for personalized workout plans and progress tracking.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] GymBuddy AI",
+      "shortDescription": "[TRANSLATE-de] AI-driven tool for personalized workout plans and progress tracking.…",
+      "longDescription": "[TRANSLATE-de] AI-driven tool for personalized workout plans and progress tracking.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

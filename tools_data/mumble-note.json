@@ -1,0 +1,56 @@
+{
+  "slug": "mumble-note",
+  "image_url": "https://www.futurepedia.io/api/og?title=Mumble+Note+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-06-10T14-44-50.545Z-yke4HAOYMd55FhKgfMHiW6RY8ZS4BZYRf.blob",
+  "redirect_url": "https://x.com/mumblenote",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mumble note transforms spoken words into structured notes instantly. ",
+  "searchIndexEs": "mumble note transforms spoken words into structured notes instantly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Mumble Note",
+      "shortDescription": "[TRANSLATE-es] Transforms spoken words into structured notes instantly.…",
+      "longDescription": "[TRANSLATE-es] Transforms spoken words into structured notes instantly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Mumble Note",
+      "shortDescription": "[TRANSLATE-pt] Transforms spoken words into structured notes instantly.…",
+      "longDescription": "[TRANSLATE-pt] Transforms spoken words into structured notes instantly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Mumble Note",
+      "shortDescription": "Transforms spoken words into structured notes instantly.…",
+      "longDescription": "Transforms spoken words into structured notes instantly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Mumble Note",
+      "shortDescription": "[TRANSLATE-fr] Transforms spoken words into structured notes instantly.…",
+      "longDescription": "[TRANSLATE-fr] Transforms spoken words into structured notes instantly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Mumble Note",
+      "shortDescription": "[TRANSLATE-de] Transforms spoken words into structured notes instantly.…",
+      "longDescription": "[TRANSLATE-de] Transforms spoken words into structured notes instantly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

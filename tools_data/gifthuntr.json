@@ -1,0 +1,56 @@
+{
+  "slug": "gifthuntr",
+  "image_url": "https://www.futurepedia.io/api/og?title=GiftHuntr+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fcd39c19ffaeac3c98876acf4bb6469c8041a6993-2469x1224.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "gifthuntr revolutionize gift-giving with ai-driven, personalized suggestions. ",
+  "searchIndexEs": "gifthuntr revolutionize gift-giving with ia-driven, personalized suggestions. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] GiftHuntr",
+      "shortDescription": "[TRANSLATE-es] Revolutionize gift-giving with AI-driven, personalized suggestions.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize gift-giving with AI-driven, personalized suggestions.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] GiftHuntr",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize gift-giving with AI-driven, personalized suggestions.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize gift-giving with AI-driven, personalized suggestions.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "GiftHuntr",
+      "shortDescription": "Revolutionize gift-giving with AI-driven, personalized suggestions.…",
+      "longDescription": "Revolutionize gift-giving with AI-driven, personalized suggestions.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] GiftHuntr",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize gift-giving with AI-driven, personalized suggestions.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize gift-giving with AI-driven, personalized suggestions.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] GiftHuntr",
+      "shortDescription": "[TRANSLATE-de] Revolutionize gift-giving with AI-driven, personalized suggestions.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize gift-giving with AI-driven, personalized suggestions.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

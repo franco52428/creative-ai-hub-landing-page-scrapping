@@ -1,0 +1,56 @@
+{
+  "slug": "sanctum",
+  "image_url": "https://www.futurepedia.io/api/og?title=Sanctum+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F002f044de2a6be699cac8f6788d3e95b1d3a2129-2447x1168.png",
+  "redirect_url": "https://discord.gg/gTf4GaG9eH",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "sanctum ai local, private ai assistant ensuring encrypted data stays on your mac. ",
+  "searchIndexEs": "sanctum ia local, private ia asistente ensuring encrypted data stays on your mac. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Sanctum AI",
+      "shortDescription": "[TRANSLATE-es] Local, private AI assistant ensuring encrypted data stays on your Mac.…",
+      "longDescription": "[TRANSLATE-es] Local, private AI assistant ensuring encrypted data stays on your Mac.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Sanctum AI",
+      "shortDescription": "[TRANSLATE-pt] Local, private AI assistant ensuring encrypted data stays on your Mac.…",
+      "longDescription": "[TRANSLATE-pt] Local, private AI assistant ensuring encrypted data stays on your Mac.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Sanctum AI",
+      "shortDescription": "Local, private AI assistant ensuring encrypted data stays on your Mac.…",
+      "longDescription": "Local, private AI assistant ensuring encrypted data stays on your Mac.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Sanctum AI",
+      "shortDescription": "[TRANSLATE-fr] Local, private AI assistant ensuring encrypted data stays on your Mac.…",
+      "longDescription": "[TRANSLATE-fr] Local, private AI assistant ensuring encrypted data stays on your Mac.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Sanctum AI",
+      "shortDescription": "[TRANSLATE-de] Local, private AI assistant ensuring encrypted data stays on your Mac.…",
+      "longDescription": "[TRANSLATE-de] Local, private AI assistant ensuring encrypted data stays on your Mac.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

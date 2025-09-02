@@ -1,0 +1,56 @@
+{
+  "slug": "linerai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Liner.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fdc67e1e2d2deea440a6748bba02e4f3ec30f581d-1920x977.png",
+  "redirect_url": "https://www.youtube.com/watch?v=dtA9cBC5Bw0",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "liner.ai unlock machine learning: code-free, end-to-end, fast, and accessible to all. ",
+  "searchIndexEs": "liner.ia unlock machine learning: codigo-free, end-to-end, fast, and accessible to all. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Liner.ai",
+      "shortDescription": "[TRANSLATE-es] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.…",
+      "longDescription": "[TRANSLATE-es] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] code"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Liner.ai",
+      "shortDescription": "[TRANSLATE-pt] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.…",
+      "longDescription": "[TRANSLATE-pt] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] code"
+    },
+    "en": {
+      "title": "Liner.ai",
+      "shortDescription": "Unlock machine learning: code-free, end-to-end, fast, and accessible to all.…",
+      "longDescription": "Unlock machine learning: code-free, end-to-end, fast, and accessible to all.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "code"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Liner.ai",
+      "shortDescription": "[TRANSLATE-fr] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.…",
+      "longDescription": "[TRANSLATE-fr] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] code"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Liner.ai",
+      "shortDescription": "[TRANSLATE-de] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.…",
+      "longDescription": "[TRANSLATE-de] Unlock machine learning: code-free, end-to-end, fast, and accessible to all.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] code"
+    }
+  }
+}

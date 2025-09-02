@@ -1,0 +1,56 @@
+{
+  "slug": "amie",
+  "image_url": "https://www.futurepedia.io/api/og?title=Amie+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F4d6c7cc3b46faf9cb183ae78be3de0318bbd1797-2492x1220.png",
+  "redirect_url": "https://www.linkedin.com/company/tryamie/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "amie streamlines emails, calendars, and tasks into one interface. ",
+  "searchIndexEs": "amie streamlines emials, calendars, and tasks into one interface. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Amie",
+      "shortDescription": "[TRANSLATE-es] Streamlines emails, calendars, and tasks into one interface.…",
+      "longDescription": "[TRANSLATE-es] Streamlines emails, calendars, and tasks into one interface.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Amie",
+      "shortDescription": "[TRANSLATE-pt] Streamlines emails, calendars, and tasks into one interface.…",
+      "longDescription": "[TRANSLATE-pt] Streamlines emails, calendars, and tasks into one interface.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Amie",
+      "shortDescription": "Streamlines emails, calendars, and tasks into one interface.…",
+      "longDescription": "Streamlines emails, calendars, and tasks into one interface.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Amie",
+      "shortDescription": "[TRANSLATE-fr] Streamlines emails, calendars, and tasks into one interface.…",
+      "longDescription": "[TRANSLATE-fr] Streamlines emails, calendars, and tasks into one interface.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Amie",
+      "shortDescription": "[TRANSLATE-de] Streamlines emails, calendars, and tasks into one interface.…",
+      "longDescription": "[TRANSLATE-de] Streamlines emails, calendars, and tasks into one interface.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

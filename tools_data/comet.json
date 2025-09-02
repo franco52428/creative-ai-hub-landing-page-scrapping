@@ -1,0 +1,56 @@
+{
+  "slug": "comet",
+  "image_url": "https://www.futurepedia.io/api/og?title=Comet+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-08-20T18-57-53.125Z-vNcyHkbKbndqul7prnSOH_JBfA4yg5YwJ.png",
+  "redirect_url": "https://x.com/perplexity_ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "comet automates browsing tasks while remembering context across tabs. ",
+  "searchIndexEs": "comet automates browsing tasks while remembering context across tabs. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Comet",
+      "shortDescription": "[TRANSLATE-es] Automates browsing tasks while remembering context across tabs.…",
+      "longDescription": "[TRANSLATE-es] Automates browsing tasks while remembering context across tabs.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Comet",
+      "shortDescription": "[TRANSLATE-pt] Automates browsing tasks while remembering context across tabs.…",
+      "longDescription": "[TRANSLATE-pt] Automates browsing tasks while remembering context across tabs.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "Comet",
+      "shortDescription": "Automates browsing tasks while remembering context across tabs.…",
+      "longDescription": "Automates browsing tasks while remembering context across tabs.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Comet",
+      "shortDescription": "[TRANSLATE-fr] Automates browsing tasks while remembering context across tabs.…",
+      "longDescription": "[TRANSLATE-fr] Automates browsing tasks while remembering context across tabs.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Comet",
+      "shortDescription": "[TRANSLATE-de] Automates browsing tasks while remembering context across tabs.…",
+      "longDescription": "[TRANSLATE-de] Automates browsing tasks while remembering context across tabs.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

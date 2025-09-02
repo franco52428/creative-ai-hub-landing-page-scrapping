@@ -1,0 +1,56 @@
+{
+  "slug": "snapdress",
+  "image_url": "https://www.futurepedia.io/api/og?title=SnapDress+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F13bbf7976006d18bda803b909e2b5d1ce22f3f1d-2556x1264.jpg",
+  "redirect_url": "https://discord.com/invite/ND6TjtNFNT",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "snapdress transform your portrait photos with custom outfit ideas using snapdress. ",
+  "searchIndexEs": "snapdress transform your portriat photos with custom outfit ideas using snapdress. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] SnapDress",
+      "shortDescription": "[TRANSLATE-es] Transform your portrait photos with custom outfit ideas using SnapDress.…",
+      "longDescription": "[TRANSLATE-es] Transform your portrait photos with custom outfit ideas using SnapDress.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] image"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] SnapDress",
+      "shortDescription": "[TRANSLATE-pt] Transform your portrait photos with custom outfit ideas using SnapDress.…",
+      "longDescription": "[TRANSLATE-pt] Transform your portrait photos with custom outfit ideas using SnapDress.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] image"
+    },
+    "en": {
+      "title": "SnapDress",
+      "shortDescription": "Transform your portrait photos with custom outfit ideas using SnapDress.…",
+      "longDescription": "Transform your portrait photos with custom outfit ideas using SnapDress.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "image"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] SnapDress",
+      "shortDescription": "[TRANSLATE-fr] Transform your portrait photos with custom outfit ideas using SnapDress.…",
+      "longDescription": "[TRANSLATE-fr] Transform your portrait photos with custom outfit ideas using SnapDress.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] image"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] SnapDress",
+      "shortDescription": "[TRANSLATE-de] Transform your portrait photos with custom outfit ideas using SnapDress.…",
+      "longDescription": "[TRANSLATE-de] Transform your portrait photos with custom outfit ideas using SnapDress.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] image"
+    }
+  }
+}

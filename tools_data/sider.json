@@ -1,0 +1,56 @@
+{
+  "slug": "sider",
+  "image_url": "https://www.futurepedia.io/api/og?title=Sider+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F3855748330ee6bead5fb0610b7037680e8ba5581-2506x1235.png",
+  "redirect_url": "https://twitter.com/sider_ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "sider revolutionize web interaction with ai: read, write, and create seamlessly. ",
+  "searchIndexEs": "sider revolutionize web interaction with ia: read, write, and create seamlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Sider",
+      "shortDescription": "[TRANSLATE-es] Revolutionize web interaction with AI: read, write, and create seamlessly.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize web interaction with AI: read, write, and create seamlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Sider",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize web interaction with AI: read, write, and create seamlessly.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize web interaction with AI: read, write, and create seamlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "Sider",
+      "shortDescription": "Revolutionize web interaction with AI: read, write, and create seamlessly.…",
+      "longDescription": "Revolutionize web interaction with AI: read, write, and create seamlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Sider",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize web interaction with AI: read, write, and create seamlessly.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize web interaction with AI: read, write, and create seamlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Sider",
+      "shortDescription": "[TRANSLATE-de] Revolutionize web interaction with AI: read, write, and create seamlessly.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize web interaction with AI: read, write, and create seamlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

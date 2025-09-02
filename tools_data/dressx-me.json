@@ -1,0 +1,56 @@
+{
+  "slug": "dressx-me",
+  "image_url": "https://www.futurepedia.io/api/og?title=DRESSX.me+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fq22FWObksNZrF2HeeIcTE0.jpg",
+  "redirect_url": "https://www.instagram.com/dressx/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "dressx.me ai stylist app creates outfits from simple text prompts. ",
+  "searchIndexEs": "dressx.me ia stylist app creates outfits from simple text prompts. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] DRESSX.me",
+      "shortDescription": "[TRANSLATE-es] AI stylist app creates outfits from simple text prompts.…",
+      "longDescription": "[TRANSLATE-es] AI stylist app creates outfits from simple text prompts.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] DRESSX.me",
+      "shortDescription": "[TRANSLATE-pt] AI stylist app creates outfits from simple text prompts.…",
+      "longDescription": "[TRANSLATE-pt] AI stylist app creates outfits from simple text prompts.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "DRESSX.me",
+      "shortDescription": "AI stylist app creates outfits from simple text prompts.…",
+      "longDescription": "AI stylist app creates outfits from simple text prompts.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] DRESSX.me",
+      "shortDescription": "[TRANSLATE-fr] AI stylist app creates outfits from simple text prompts.…",
+      "longDescription": "[TRANSLATE-fr] AI stylist app creates outfits from simple text prompts.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] DRESSX.me",
+      "shortDescription": "[TRANSLATE-de] AI stylist app creates outfits from simple text prompts.…",
+      "longDescription": "[TRANSLATE-de] AI stylist app creates outfits from simple text prompts.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

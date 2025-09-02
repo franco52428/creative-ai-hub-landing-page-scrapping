@@ -1,0 +1,56 @@
+{
+  "slug": "fileai",
+  "image_url": "https://www.futurepedia.io/api/og?title=fileAI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-09-02T16-21-09.699Z-9DFww7DmcHV028woudMGZIUf7S7k3fANh.blob",
+  "redirect_url": "https://www.linkedin.com/company/bluesheets/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "fileai automate data workflows with rapid, accurate processing. ",
+  "searchIndexEs": "fileia automate data workflows with rapid, accurate processing. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] fileAI",
+      "shortDescription": "[TRANSLATE-es] Automate data workflows with rapid, accurate processing.…",
+      "longDescription": "[TRANSLATE-es] Automate data workflows with rapid, accurate processing.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] fileAI",
+      "shortDescription": "[TRANSLATE-pt] Automate data workflows with rapid, accurate processing.…",
+      "longDescription": "[TRANSLATE-pt] Automate data workflows with rapid, accurate processing.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "fileAI",
+      "shortDescription": "Automate data workflows with rapid, accurate processing.…",
+      "longDescription": "Automate data workflows with rapid, accurate processing.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] fileAI",
+      "shortDescription": "[TRANSLATE-fr] Automate data workflows with rapid, accurate processing.…",
+      "longDescription": "[TRANSLATE-fr] Automate data workflows with rapid, accurate processing.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] fileAI",
+      "shortDescription": "[TRANSLATE-de] Automate data workflows with rapid, accurate processing.…",
+      "longDescription": "[TRANSLATE-de] Automate data workflows with rapid, accurate processing.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

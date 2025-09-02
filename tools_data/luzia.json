@@ -1,0 +1,56 @@
+{
+  "slug": "luzia",
+  "image_url": "https://www.futurepedia.io/api/og?title=Luzia+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fc846e270d67918cf0e39328c58346ed5a663a6b4-2511x1234.png",
+  "redirect_url": "https://www.instagram.com/luzia.es/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "luzia unlock daily tasks, creative ideas, and instant answers with luzia. ",
+  "searchIndexEs": "luzia unlock dialy tasks, creative ideas, and instant answers with luzia. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Luzia",
+      "shortDescription": "[TRANSLATE-es] Unlock daily tasks, creative ideas, and instant answers with Luzia.…",
+      "longDescription": "[TRANSLATE-es] Unlock daily tasks, creative ideas, and instant answers with Luzia.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Luzia",
+      "shortDescription": "[TRANSLATE-pt] Unlock daily tasks, creative ideas, and instant answers with Luzia.…",
+      "longDescription": "[TRANSLATE-pt] Unlock daily tasks, creative ideas, and instant answers with Luzia.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Luzia",
+      "shortDescription": "Unlock daily tasks, creative ideas, and instant answers with Luzia.…",
+      "longDescription": "Unlock daily tasks, creative ideas, and instant answers with Luzia.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Luzia",
+      "shortDescription": "[TRANSLATE-fr] Unlock daily tasks, creative ideas, and instant answers with Luzia.…",
+      "longDescription": "[TRANSLATE-fr] Unlock daily tasks, creative ideas, and instant answers with Luzia.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Luzia",
+      "shortDescription": "[TRANSLATE-de] Unlock daily tasks, creative ideas, and instant answers with Luzia.…",
+      "longDescription": "[TRANSLATE-de] Unlock daily tasks, creative ideas, and instant answers with Luzia.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

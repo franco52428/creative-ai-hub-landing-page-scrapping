@@ -1,0 +1,56 @@
+{
+  "slug": "myst-news",
+  "image_url": "https://www.futurepedia.io/api/og?title=Myst+News+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fee0171b7d700fc46df77292f76f677388a180391-2532x1248.jpg",
+  "redirect_url": "https://discord.com/invite/vPBMAxV33D",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "myst news revolutionizes news consumption with ai-driven personalization and real-time updates. ",
+  "searchIndexEs": "myst news revolutionizes news consumption with ia-driven personalization and real-time updates. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Myst News",
+      "shortDescription": "[TRANSLATE-es] Revolutionizes news consumption with AI-driven personalization and real-time updates.…",
+      "longDescription": "[TRANSLATE-es] Revolutionizes news consumption with AI-driven personalization and real-time updates.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Myst News",
+      "shortDescription": "[TRANSLATE-pt] Revolutionizes news consumption with AI-driven personalization and real-time updates.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionizes news consumption with AI-driven personalization and real-time updates.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Myst News",
+      "shortDescription": "Revolutionizes news consumption with AI-driven personalization and real-time updates.…",
+      "longDescription": "Revolutionizes news consumption with AI-driven personalization and real-time updates.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Myst News",
+      "shortDescription": "[TRANSLATE-fr] Revolutionizes news consumption with AI-driven personalization and real-time updates.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionizes news consumption with AI-driven personalization and real-time updates.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Myst News",
+      "shortDescription": "[TRANSLATE-de] Revolutionizes news consumption with AI-driven personalization and real-time updates.…",
+      "longDescription": "[TRANSLATE-de] Revolutionizes news consumption with AI-driven personalization and real-time updates.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

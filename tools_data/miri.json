@@ -1,0 +1,56 @@
+{
+  "slug": "miri",
+  "image_url": "https://www.futurepedia.io/api/og?title=MIRI+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F7bc33d663405fd443ff4daf51c17f57512adfae2-2520x1251.png",
+  "redirect_url": "https://www.instagram.com/mirihealth/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "miri revolutionize wellness with ai: personalized health coaching, expert nutrition, fitness guidance, anytime access. ",
+  "searchIndexEs": "miri revolutionize wellness with ia: personalized health coaching, expert nutrition, fitness guidance, anytime access. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MIRI",
+      "shortDescription": "[TRANSLATE-es] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MIRI",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "MIRI",
+      "shortDescription": "Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.…",
+      "longDescription": "Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MIRI",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MIRI",
+      "shortDescription": "[TRANSLATE-de] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize wellness with AI: personalized health coaching, expert nutrition, fitness guidance, anytime access.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

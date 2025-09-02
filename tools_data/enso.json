@@ -1,0 +1,56 @@
+{
+  "slug": "enso",
+  "image_url": "https://www.futurepedia.io/api/og?title=enso+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-18T15-13-44.649Z-oMV2_CNQ1-9ddgqvsgyNTx52Nkls2oE27.png",
+  "redirect_url": "https://www.facebook.com/enso.bots/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "enso easy-to-use business ai agents adapt to your business needs. ",
+  "searchIndexEs": "enso easy-to-use business ia agents adapt to your business needs. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] enso",
+      "shortDescription": "[TRANSLATE-es] Easy-to-use business AI Agents adapt to your business needs.…",
+      "longDescription": "[TRANSLATE-es] Easy-to-use business AI Agents adapt to your business needs.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] enso",
+      "shortDescription": "[TRANSLATE-pt] Easy-to-use business AI Agents adapt to your business needs.…",
+      "longDescription": "[TRANSLATE-pt] Easy-to-use business AI Agents adapt to your business needs.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "enso",
+      "shortDescription": "Easy-to-use business AI Agents adapt to your business needs.…",
+      "longDescription": "Easy-to-use business AI Agents adapt to your business needs.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] enso",
+      "shortDescription": "[TRANSLATE-fr] Easy-to-use business AI Agents adapt to your business needs.…",
+      "longDescription": "[TRANSLATE-fr] Easy-to-use business AI Agents adapt to your business needs.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] enso",
+      "shortDescription": "[TRANSLATE-de] Easy-to-use business AI Agents adapt to your business needs.…",
+      "longDescription": "[TRANSLATE-de] Easy-to-use business AI Agents adapt to your business needs.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

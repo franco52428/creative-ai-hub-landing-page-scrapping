@@ -1,0 +1,56 @@
+{
+  "slug": "flash",
+  "image_url": "https://www.futurepedia.io/api/og?title=Flash+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2024-11-13T21-47-12.577Z-QjzFjNcrQufc_cH7l6h56uQlfARfs-kD_.PNG",
+  "redirect_url": "https://twitter.com/shopwithflashco",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "flash ai platform automates tasks, optimizes scheduling, enhances collaboration. ",
+  "searchIndexEs": "flash ia platform automates tasks, optimizes scheduling, enhances collaboration. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Flash",
+      "shortDescription": "[TRANSLATE-es] AI platform automates tasks, optimizes scheduling, enhances collaboration.…",
+      "longDescription": "[TRANSLATE-es] AI platform automates tasks, optimizes scheduling, enhances collaboration.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Flash",
+      "shortDescription": "[TRANSLATE-pt] AI platform automates tasks, optimizes scheduling, enhances collaboration.…",
+      "longDescription": "[TRANSLATE-pt] AI platform automates tasks, optimizes scheduling, enhances collaboration.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Flash",
+      "shortDescription": "AI platform automates tasks, optimizes scheduling, enhances collaboration.…",
+      "longDescription": "AI platform automates tasks, optimizes scheduling, enhances collaboration.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Flash",
+      "shortDescription": "[TRANSLATE-fr] AI platform automates tasks, optimizes scheduling, enhances collaboration.…",
+      "longDescription": "[TRANSLATE-fr] AI platform automates tasks, optimizes scheduling, enhances collaboration.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Flash",
+      "shortDescription": "[TRANSLATE-de] AI platform automates tasks, optimizes scheduling, enhances collaboration.…",
+      "longDescription": "[TRANSLATE-de] AI platform automates tasks, optimizes scheduling, enhances collaboration.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "replika",
+  "image_url": "https://www.futurepedia.io/api/og?title=Replika+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F522e075fe76fafba6aa54f62ae710893169652e6-1846x937.jpg",
+  "redirect_url": "https://www.facebook.com/groups/replikabeta/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "replika ai companion for personalized chat, emotional support, and self-growth. ",
+  "searchIndexEs": "replika ia companion for personalized chat, emotional support, and self-growth. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Replika",
+      "shortDescription": "[TRANSLATE-es] AI companion for personalized chat, emotional support, and self-growth.…",
+      "longDescription": "[TRANSLATE-es] AI companion for personalized chat, emotional support, and self-growth.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Replika",
+      "shortDescription": "[TRANSLATE-pt] AI companion for personalized chat, emotional support, and self-growth.…",
+      "longDescription": "[TRANSLATE-pt] AI companion for personalized chat, emotional support, and self-growth.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Replika",
+      "shortDescription": "AI companion for personalized chat, emotional support, and self-growth.…",
+      "longDescription": "AI companion for personalized chat, emotional support, and self-growth.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Replika",
+      "shortDescription": "[TRANSLATE-fr] AI companion for personalized chat, emotional support, and self-growth.…",
+      "longDescription": "[TRANSLATE-fr] AI companion for personalized chat, emotional support, and self-growth.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Replika",
+      "shortDescription": "[TRANSLATE-de] AI companion for personalized chat, emotional support, and self-growth.…",
+      "longDescription": "[TRANSLATE-de] AI companion for personalized chat, emotional support, and self-growth.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

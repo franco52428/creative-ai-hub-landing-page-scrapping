@@ -1,0 +1,56 @@
+{
+  "slug": "boostbot",
+  "image_url": "https://www.futurepedia.io/api/og?title=Boostbot+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F466b85eca523452f8e4e1ff6bf6dc494ddddef98-2529x1249.jpg",
+  "redirect_url": "https://discord.gg/uk6a3GZ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "boostbot automate mobile gaming tasks, enhancing efficiency and focus. ",
+  "searchIndexEs": "boostbot automate mobile gaming tasks, enhancing efficiency and focus. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Boostbot",
+      "shortDescription": "[TRANSLATE-es] Automate mobile gaming tasks, enhancing efficiency and focus.…",
+      "longDescription": "[TRANSLATE-es] Automate mobile gaming tasks, enhancing efficiency and focus.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Boostbot",
+      "shortDescription": "[TRANSLATE-pt] Automate mobile gaming tasks, enhancing efficiency and focus.…",
+      "longDescription": "[TRANSLATE-pt] Automate mobile gaming tasks, enhancing efficiency and focus.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Boostbot",
+      "shortDescription": "Automate mobile gaming tasks, enhancing efficiency and focus.…",
+      "longDescription": "Automate mobile gaming tasks, enhancing efficiency and focus.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Boostbot",
+      "shortDescription": "[TRANSLATE-fr] Automate mobile gaming tasks, enhancing efficiency and focus.…",
+      "longDescription": "[TRANSLATE-fr] Automate mobile gaming tasks, enhancing efficiency and focus.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Boostbot",
+      "shortDescription": "[TRANSLATE-de] Automate mobile gaming tasks, enhancing efficiency and focus.…",
+      "longDescription": "[TRANSLATE-de] Automate mobile gaming tasks, enhancing efficiency and focus.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

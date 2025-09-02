@@ -1,0 +1,56 @@
+{
+  "slug": "aiapply",
+  "image_url": "https://www.futurepedia.io/api/og?title=AIApply+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-02T11-35-07.810Z-uXxmhCH-Gdqd_9s90G_AEFCumaVnHdbFe.PNG",
+  "redirect_url": "https://www.facebook.com/aiapply.co/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "aiapply ai-powered platform automates job applications and interview prep. ",
+  "searchIndexEs": "iaapply ia-powered platform automates job applications and interview prep. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] AIApply",
+      "shortDescription": "[TRANSLATE-es] AI-powered platform automates job applications and interview prep.…",
+      "longDescription": "[TRANSLATE-es] AI-powered platform automates job applications and interview prep.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] AIApply",
+      "shortDescription": "[TRANSLATE-pt] AI-powered platform automates job applications and interview prep.…",
+      "longDescription": "[TRANSLATE-pt] AI-powered platform automates job applications and interview prep.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "AIApply",
+      "shortDescription": "AI-powered platform automates job applications and interview prep.…",
+      "longDescription": "AI-powered platform automates job applications and interview prep.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] AIApply",
+      "shortDescription": "[TRANSLATE-fr] AI-powered platform automates job applications and interview prep.…",
+      "longDescription": "[TRANSLATE-fr] AI-powered platform automates job applications and interview prep.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] AIApply",
+      "shortDescription": "[TRANSLATE-de] AI-powered platform automates job applications and interview prep.…",
+      "longDescription": "[TRANSLATE-de] AI-powered platform automates job applications and interview prep.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "summit",
+  "image_url": "https://www.futurepedia.io/api/og?title=Summit+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F89b55c6ee09ce0cebe55acf0e178275b04d0c498-2534x1261.jpg",
+  "redirect_url": "https://discord.com/invite/JdVSPMqN5E",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "summit ai-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization. ",
+  "searchIndexEs": "summit ia-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Summit",
+      "shortDescription": "[TRANSLATE-es] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.…",
+      "longDescription": "[TRANSLATE-es] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Summit",
+      "shortDescription": "[TRANSLATE-pt] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.…",
+      "longDescription": "[TRANSLATE-pt] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Summit",
+      "shortDescription": "AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.…",
+      "longDescription": "AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Summit",
+      "shortDescription": "[TRANSLATE-fr] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.…",
+      "longDescription": "[TRANSLATE-fr] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Summit",
+      "shortDescription": "[TRANSLATE-de] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.…",
+      "longDescription": "[TRANSLATE-de] AI-powered life coach that helps you achieve your goals by accelerating habits, providing accountability, and offering personalization.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

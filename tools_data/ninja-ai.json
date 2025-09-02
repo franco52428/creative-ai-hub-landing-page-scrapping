@@ -1,0 +1,56 @@
+{
+  "slug": "ninja-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Ninja+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-05-08T13-26-25.409Z-uEqF1m_qHarozEhr5ZoFkTtWHnC3u9TjZ.png",
+  "redirect_url": "https://www.facebook.com/Ninjatechai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ninja ai multi-agent system for research, writing, and coding. ",
+  "searchIndexEs": "ninja ia multi-agent system for investigacion, escritura, and coding. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Ninja AI",
+      "shortDescription": "[TRANSLATE-es] Multi-agent system for research, writing, and coding.…",
+      "longDescription": "[TRANSLATE-es] Multi-agent system for research, writing, and coding.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] research"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Ninja AI",
+      "shortDescription": "[TRANSLATE-pt] Multi-agent system for research, writing, and coding.…",
+      "longDescription": "[TRANSLATE-pt] Multi-agent system for research, writing, and coding.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] research"
+    },
+    "en": {
+      "title": "Ninja AI",
+      "shortDescription": "Multi-agent system for research, writing, and coding.…",
+      "longDescription": "Multi-agent system for research, writing, and coding.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "research"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Ninja AI",
+      "shortDescription": "[TRANSLATE-fr] Multi-agent system for research, writing, and coding.…",
+      "longDescription": "[TRANSLATE-fr] Multi-agent system for research, writing, and coding.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] research"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Ninja AI",
+      "shortDescription": "[TRANSLATE-de] Multi-agent system for research, writing, and coding.…",
+      "longDescription": "[TRANSLATE-de] Multi-agent system for research, writing, and coding.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] research"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "clearword",
+  "image_url": "https://www.futurepedia.io/api/og?title=Clearword+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb0611918eb588d97e4a51c7d85871f055dae330d-2510x1235.png",
+  "redirect_url": "https://www.linkedin.com/company/clearword/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "clearword ai-driven meeting assistant for note-taking, summaries, and actionable follow-ups. ",
+  "searchIndexEs": "clearword ia-driven meeting asistente for note-taking, summaries, and actionable follow-ups. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Clearword",
+      "shortDescription": "[TRANSLATE-es] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.…",
+      "longDescription": "[TRANSLATE-es] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Clearword",
+      "shortDescription": "[TRANSLATE-pt] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Clearword",
+      "shortDescription": "AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.…",
+      "longDescription": "AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Clearword",
+      "shortDescription": "[TRANSLATE-fr] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Clearword",
+      "shortDescription": "[TRANSLATE-de] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.…",
+      "longDescription": "[TRANSLATE-de] AI-driven meeting assistant for note-taking, summaries, and actionable follow-ups.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

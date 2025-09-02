@@ -1,0 +1,56 @@
+{
+  "slug": "echofox",
+  "image_url": "https://www.futurepedia.io/api/og?title=EchoFox+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F0f5767cf1298eeed833de28a871c1101bf7e0813-2485x1229.png",
+  "redirect_url": "https://www.descript.com?lmref=wVa-qw",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "echofox transform whatsapp voice messages to text instantly, ensuring privacy across 90+ languages. ",
+  "searchIndexEs": "echofox transform whatsapp voice messages to text instantly, ensuring privacy across 90+ languages. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] EchoFox",
+      "shortDescription": "[TRANSLATE-es] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.…",
+      "longDescription": "[TRANSLATE-es] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] EchoFox",
+      "shortDescription": "[TRANSLATE-pt] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.…",
+      "longDescription": "[TRANSLATE-pt] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "EchoFox",
+      "shortDescription": "Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.…",
+      "longDescription": "Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] EchoFox",
+      "shortDescription": "[TRANSLATE-fr] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.…",
+      "longDescription": "[TRANSLATE-fr] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] EchoFox",
+      "shortDescription": "[TRANSLATE-de] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.…",
+      "longDescription": "[TRANSLATE-de] Transform WhatsApp voice messages to text instantly, ensuring privacy across 90+ languages.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

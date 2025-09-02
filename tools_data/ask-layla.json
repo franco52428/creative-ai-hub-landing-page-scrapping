@@ -1,0 +1,56 @@
+{
+  "slug": "ask-layla",
+  "image_url": "https://www.futurepedia.io/api/og?title=Ask+Layla+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F47faedc0550193b88a630bc63c8d2b1545ed94bb-2492x1228.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ask layla revolutionize travel with ai-driven planning and seamless bookings. ",
+  "searchIndexEs": "ask layla revolutionize travel with ia-driven planning and seamless bookings. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Ask Layla",
+      "shortDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven planning and seamless bookings.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven planning and seamless bookings.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Ask Layla",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven planning and seamless bookings.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven planning and seamless bookings.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Ask Layla",
+      "shortDescription": "Revolutionize travel with AI-driven planning and seamless bookings.…",
+      "longDescription": "Revolutionize travel with AI-driven planning and seamless bookings.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Ask Layla",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven planning and seamless bookings.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven planning and seamless bookings.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Ask Layla",
+      "shortDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven planning and seamless bookings.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven planning and seamless bookings.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

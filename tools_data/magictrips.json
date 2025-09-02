@@ -1,0 +1,56 @@
+{
+  "slug": "magictrips",
+  "image_url": "https://www.futurepedia.io/api/og?title=MagicTrips+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-14T16-47-47.623Z-FwypN9ejnZTrbuCiQ_LtOPTeG8zc8MmvX.blob",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "magictrips effortlessly create personalized travel itineraries in seconds. ",
+  "searchIndexEs": "magictrips effortlessly create personalized travel itineraries in seconds. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MagicTrips",
+      "shortDescription": "[TRANSLATE-es] Effortlessly create personalized travel itineraries in seconds.…",
+      "longDescription": "[TRANSLATE-es] Effortlessly create personalized travel itineraries in seconds.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MagicTrips",
+      "shortDescription": "[TRANSLATE-pt] Effortlessly create personalized travel itineraries in seconds.…",
+      "longDescription": "[TRANSLATE-pt] Effortlessly create personalized travel itineraries in seconds.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "MagicTrips",
+      "shortDescription": "Effortlessly create personalized travel itineraries in seconds.…",
+      "longDescription": "Effortlessly create personalized travel itineraries in seconds.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MagicTrips",
+      "shortDescription": "[TRANSLATE-fr] Effortlessly create personalized travel itineraries in seconds.…",
+      "longDescription": "[TRANSLATE-fr] Effortlessly create personalized travel itineraries in seconds.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MagicTrips",
+      "shortDescription": "[TRANSLATE-de] Effortlessly create personalized travel itineraries in seconds.…",
+      "longDescription": "[TRANSLATE-de] Effortlessly create personalized travel itineraries in seconds.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

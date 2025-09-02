@@ -1,0 +1,56 @@
+{
+  "slug": "usemotion",
+  "image_url": "https://www.futurepedia.io/api/og?title=Motion+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F71a6fecfeb4ef9f540604a729dd472015cf5df02-2515x1232.png",
+  "redirect_url": "https://www.usemotion.com/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "motion boost productivity and manage tasks, projects, meetings seamlessly with ai. ",
+  "searchIndexEs": "motion boost productivity and manage tasks, projects, meetings seamlessly with ia. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Motion",
+      "shortDescription": "[TRANSLATE-es] Boost productivity and manage tasks, projects, meetings seamlessly with AI.…",
+      "longDescription": "[TRANSLATE-es] Boost productivity and manage tasks, projects, meetings seamlessly with AI.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Motion",
+      "shortDescription": "[TRANSLATE-pt] Boost productivity and manage tasks, projects, meetings seamlessly with AI.…",
+      "longDescription": "[TRANSLATE-pt] Boost productivity and manage tasks, projects, meetings seamlessly with AI.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Motion",
+      "shortDescription": "Boost productivity and manage tasks, projects, meetings seamlessly with AI.…",
+      "longDescription": "Boost productivity and manage tasks, projects, meetings seamlessly with AI.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Motion",
+      "shortDescription": "[TRANSLATE-fr] Boost productivity and manage tasks, projects, meetings seamlessly with AI.…",
+      "longDescription": "[TRANSLATE-fr] Boost productivity and manage tasks, projects, meetings seamlessly with AI.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Motion",
+      "shortDescription": "[TRANSLATE-de] Boost productivity and manage tasks, projects, meetings seamlessly with AI.…",
+      "longDescription": "[TRANSLATE-de] Boost productivity and manage tasks, projects, meetings seamlessly with AI.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

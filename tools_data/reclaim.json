@@ -1,0 +1,56 @@
+{
+  "slug": "reclaim",
+  "image_url": "https://www.futurepedia.io/api/og?title=Reclaim+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-04-03T12-47-27.701Z-fjW2MZ8q-8N2IWXwEKUbmRAy7IRAxxFUy.png",
+  "redirect_url": "https://www.linkedin.com/posts/alike-chambers_memorymanagement-personalgrowth-accessibility-activity-7308167927818567680-KYHF",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "reclaim optimizes schedules by auto-organizing tasks and meetings. ",
+  "searchIndexEs": "recliam optimizes schedules by auto-organizing tasks and meetings. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Reclaim",
+      "shortDescription": "[TRANSLATE-es] Optimizes schedules by auto-organizing tasks and meetings.…",
+      "longDescription": "[TRANSLATE-es] Optimizes schedules by auto-organizing tasks and meetings.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Reclaim",
+      "shortDescription": "[TRANSLATE-pt] Optimizes schedules by auto-organizing tasks and meetings.…",
+      "longDescription": "[TRANSLATE-pt] Optimizes schedules by auto-organizing tasks and meetings.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Reclaim",
+      "shortDescription": "Optimizes schedules by auto-organizing tasks and meetings.…",
+      "longDescription": "Optimizes schedules by auto-organizing tasks and meetings.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Reclaim",
+      "shortDescription": "[TRANSLATE-fr] Optimizes schedules by auto-organizing tasks and meetings.…",
+      "longDescription": "[TRANSLATE-fr] Optimizes schedules by auto-organizing tasks and meetings.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Reclaim",
+      "shortDescription": "[TRANSLATE-de] Optimizes schedules by auto-organizing tasks and meetings.…",
+      "longDescription": "[TRANSLATE-de] Optimizes schedules by auto-organizing tasks and meetings.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

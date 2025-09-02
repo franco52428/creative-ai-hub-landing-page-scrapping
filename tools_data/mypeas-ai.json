@@ -1,0 +1,56 @@
+{
+  "slug": "mypeas-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=MYPEAS.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2024-10-24T22-31-51.186Z-sLiXxJu6M0O8VClu7XGDaLEF-5Gv8IzNV.png",
+  "redirect_url": "https://www.linkedin.com/company/mypeas/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mypeas.ai ai roadmaps tailored to any job description. ",
+  "searchIndexEs": "mypeas.ia ia roadmaps tialored to any job description. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MYPEAS.ai",
+      "shortDescription": "[TRANSLATE-es] AI roadmaps tailored to any job description.…",
+      "longDescription": "[TRANSLATE-es] AI roadmaps tailored to any job description.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MYPEAS.ai",
+      "shortDescription": "[TRANSLATE-pt] AI roadmaps tailored to any job description.…",
+      "longDescription": "[TRANSLATE-pt] AI roadmaps tailored to any job description.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "MYPEAS.ai",
+      "shortDescription": "AI roadmaps tailored to any job description.…",
+      "longDescription": "AI roadmaps tailored to any job description.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MYPEAS.ai",
+      "shortDescription": "[TRANSLATE-fr] AI roadmaps tailored to any job description.…",
+      "longDescription": "[TRANSLATE-fr] AI roadmaps tailored to any job description.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MYPEAS.ai",
+      "shortDescription": "[TRANSLATE-de] AI roadmaps tailored to any job description.…",
+      "longDescription": "[TRANSLATE-de] AI roadmaps tailored to any job description.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

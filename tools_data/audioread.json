@@ -1,0 +1,56 @@
+{
+  "slug": "audioread",
+  "image_url": "https://www.futurepedia.io/api/og?title=Audioread+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-31T23-20-17.007Z-msMR4j2OceZYAlYT0qkIQ8F3owbw9BA-F.PNG",
+  "redirect_url": "https://easy-peasy.ai/?via=fp",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "audioread transform text into audio with seamless browser and podcast integration. ",
+  "searchIndexEs": "audioread transform text into audio with seamless browser and podcast integration. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Audioread",
+      "shortDescription": "[TRANSLATE-es] Transform text into audio with seamless browser and podcast integration.…",
+      "longDescription": "[TRANSLATE-es] Transform text into audio with seamless browser and podcast integration.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Audioread",
+      "shortDescription": "[TRANSLATE-pt] Transform text into audio with seamless browser and podcast integration.…",
+      "longDescription": "[TRANSLATE-pt] Transform text into audio with seamless browser and podcast integration.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "Audioread",
+      "shortDescription": "Transform text into audio with seamless browser and podcast integration.…",
+      "longDescription": "Transform text into audio with seamless browser and podcast integration.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Audioread",
+      "shortDescription": "[TRANSLATE-fr] Transform text into audio with seamless browser and podcast integration.…",
+      "longDescription": "[TRANSLATE-fr] Transform text into audio with seamless browser and podcast integration.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Audioread",
+      "shortDescription": "[TRANSLATE-de] Transform text into audio with seamless browser and podcast integration.…",
+      "longDescription": "[TRANSLATE-de] Transform text into audio with seamless browser and podcast integration.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "fitbod",
+  "image_url": "https://www.futurepedia.io/api/og?title=Fitbod+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fdf4ef9795e8e0953c3895461f5970001b32d2ec7-1887x913.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "fitbod ai-driven app personalizing adaptive workouts for continuous improvement. ",
+  "searchIndexEs": "fitbod ia-driven app personalizing adaptive workouts for continuous improvement. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Fitbod",
+      "shortDescription": "[TRANSLATE-es] AI-driven app personalizing adaptive workouts for continuous improvement.…",
+      "longDescription": "[TRANSLATE-es] AI-driven app personalizing adaptive workouts for continuous improvement.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Fitbod",
+      "shortDescription": "[TRANSLATE-pt] AI-driven app personalizing adaptive workouts for continuous improvement.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven app personalizing adaptive workouts for continuous improvement.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Fitbod",
+      "shortDescription": "AI-driven app personalizing adaptive workouts for continuous improvement.…",
+      "longDescription": "AI-driven app personalizing adaptive workouts for continuous improvement.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Fitbod",
+      "shortDescription": "[TRANSLATE-fr] AI-driven app personalizing adaptive workouts for continuous improvement.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven app personalizing adaptive workouts for continuous improvement.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Fitbod",
+      "shortDescription": "[TRANSLATE-de] AI-driven app personalizing adaptive workouts for continuous improvement.…",
+      "longDescription": "[TRANSLATE-de] AI-driven app personalizing adaptive workouts for continuous improvement.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "mymind",
+  "image_url": "https://www.futurepedia.io/api/og?title=mymind+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb1d3b8ff34aaa55117a7dd88f83e6249003df630-2488x1239.png",
+  "redirect_url": "https://www.youtube.com/@takebackmymind",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mymind streamline digital clutter with ai-powered organization, instant recall, and privacy. ",
+  "searchIndexEs": "mymind streamline digital clutter with ia-powered organization, instant recall, and privacy. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] mymind",
+      "shortDescription": "[TRANSLATE-es] Streamline digital clutter with AI-powered organization, instant recall, and privacy.…",
+      "longDescription": "[TRANSLATE-es] Streamline digital clutter with AI-powered organization, instant recall, and privacy.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] mymind",
+      "shortDescription": "[TRANSLATE-pt] Streamline digital clutter with AI-powered organization, instant recall, and privacy.…",
+      "longDescription": "[TRANSLATE-pt] Streamline digital clutter with AI-powered organization, instant recall, and privacy.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "mymind",
+      "shortDescription": "Streamline digital clutter with AI-powered organization, instant recall, and privacy.…",
+      "longDescription": "Streamline digital clutter with AI-powered organization, instant recall, and privacy.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] mymind",
+      "shortDescription": "[TRANSLATE-fr] Streamline digital clutter with AI-powered organization, instant recall, and privacy.…",
+      "longDescription": "[TRANSLATE-fr] Streamline digital clutter with AI-powered organization, instant recall, and privacy.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] mymind",
+      "shortDescription": "[TRANSLATE-de] Streamline digital clutter with AI-powered organization, instant recall, and privacy.…",
+      "longDescription": "[TRANSLATE-de] Streamline digital clutter with AI-powered organization, instant recall, and privacy.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

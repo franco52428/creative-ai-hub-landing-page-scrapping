@@ -1,0 +1,56 @@
+{
+  "slug": "suggest-gift",
+  "image_url": "https://www.futurepedia.io/api/og?title=Suggest+Gift+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb6c22ac880f66582992193daec04f2d8f9b1bd46-1668x871.jpg",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "suggest gift ai-driven personalized gifting made easy, tailored to interests and budget. ",
+  "searchIndexEs": "suggest gift ia-driven personalized gifting made easy, tialored to interests and budget. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Suggest Gift",
+      "shortDescription": "[TRANSLATE-es] AI-driven personalized gifting made easy, tailored to interests and budget.…",
+      "longDescription": "[TRANSLATE-es] AI-driven personalized gifting made easy, tailored to interests and budget.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Suggest Gift",
+      "shortDescription": "[TRANSLATE-pt] AI-driven personalized gifting made easy, tailored to interests and budget.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven personalized gifting made easy, tailored to interests and budget.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Suggest Gift",
+      "shortDescription": "AI-driven personalized gifting made easy, tailored to interests and budget.…",
+      "longDescription": "AI-driven personalized gifting made easy, tailored to interests and budget.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Suggest Gift",
+      "shortDescription": "[TRANSLATE-fr] AI-driven personalized gifting made easy, tailored to interests and budget.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven personalized gifting made easy, tailored to interests and budget.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Suggest Gift",
+      "shortDescription": "[TRANSLATE-de] AI-driven personalized gifting made easy, tailored to interests and budget.…",
+      "longDescription": "[TRANSLATE-de] AI-driven personalized gifting made easy, tailored to interests and budget.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

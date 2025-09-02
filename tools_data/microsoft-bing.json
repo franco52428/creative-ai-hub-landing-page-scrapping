@@ -1,0 +1,56 @@
+{
+  "slug": "microsoft-bing",
+  "image_url": "https://www.futurepedia.io/api/og?title=Microsoft+Bing+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff34c74bbca66291d7169f4e5c9953206da6cc186-1743x903.jpg",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "microsoft bing ai-enhanced precision searches with personalized, multimedia-rich results. ",
+  "searchIndexEs": "microsoft bing ia-enhanced precision searches with personalized, multimedia-rich results. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Microsoft Bing",
+      "shortDescription": "[TRANSLATE-es] AI-enhanced precision searches with personalized, multimedia-rich results.…",
+      "longDescription": "[TRANSLATE-es] AI-enhanced precision searches with personalized, multimedia-rich results.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] research"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Microsoft Bing",
+      "shortDescription": "[TRANSLATE-pt] AI-enhanced precision searches with personalized, multimedia-rich results.…",
+      "longDescription": "[TRANSLATE-pt] AI-enhanced precision searches with personalized, multimedia-rich results.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] research"
+    },
+    "en": {
+      "title": "Microsoft Bing",
+      "shortDescription": "AI-enhanced precision searches with personalized, multimedia-rich results.…",
+      "longDescription": "AI-enhanced precision searches with personalized, multimedia-rich results.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "research"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Microsoft Bing",
+      "shortDescription": "[TRANSLATE-fr] AI-enhanced precision searches with personalized, multimedia-rich results.…",
+      "longDescription": "[TRANSLATE-fr] AI-enhanced precision searches with personalized, multimedia-rich results.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] research"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Microsoft Bing",
+      "shortDescription": "[TRANSLATE-de] AI-enhanced precision searches with personalized, multimedia-rich results.…",
+      "longDescription": "[TRANSLATE-de] AI-enhanced precision searches with personalized, multimedia-rich results.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] research"
+    }
+  }
+}

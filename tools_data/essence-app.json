@@ -1,0 +1,56 @@
+{
+  "slug": "essence-app",
+  "image_url": "https://www.futurepedia.io/api/og?title=Essence+App+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fa1089db03c5bdc82b700641648837f398705d547-1920x1080.jpg",
+  "redirect_url": "https://www.linkedin.com/company/theessenceapp",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "essence app optimize life with cycle-synced productivity and wellness tools. ",
+  "searchIndexEs": "essence app optimize life with cycle-synced productivity and wellness herramientas. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Essence App",
+      "shortDescription": "[TRANSLATE-es] Optimize life with cycle-synced productivity and wellness tools.…",
+      "longDescription": "[TRANSLATE-es] Optimize life with cycle-synced productivity and wellness tools.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Essence App",
+      "shortDescription": "[TRANSLATE-pt] Optimize life with cycle-synced productivity and wellness tools.…",
+      "longDescription": "[TRANSLATE-pt] Optimize life with cycle-synced productivity and wellness tools.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Essence App",
+      "shortDescription": "Optimize life with cycle-synced productivity and wellness tools.…",
+      "longDescription": "Optimize life with cycle-synced productivity and wellness tools.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Essence App",
+      "shortDescription": "[TRANSLATE-fr] Optimize life with cycle-synced productivity and wellness tools.…",
+      "longDescription": "[TRANSLATE-fr] Optimize life with cycle-synced productivity and wellness tools.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Essence App",
+      "shortDescription": "[TRANSLATE-de] Optimize life with cycle-synced productivity and wellness tools.…",
+      "longDescription": "[TRANSLATE-de] Optimize life with cycle-synced productivity and wellness tools.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

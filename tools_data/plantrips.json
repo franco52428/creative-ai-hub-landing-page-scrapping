@@ -1,0 +1,56 @@
+{
+  "slug": "plantrips",
+  "image_url": "https://www.futurepedia.io/api/og?title=PlanTrips+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2baf4362a4b6f7a470abab56425f8ee3c4fa5d22-2540x1269.jpg",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "plantrips revolutionizes travel planning with ai-generated, personalized itineraries quickly. ",
+  "searchIndexEs": "plantrips revolutionizes travel planning with ia-generated, personalized itineraries quickly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] PlanTrips",
+      "shortDescription": "[TRANSLATE-es] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.…",
+      "longDescription": "[TRANSLATE-es] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] PlanTrips",
+      "shortDescription": "[TRANSLATE-pt] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "PlanTrips",
+      "shortDescription": "Revolutionizes travel planning with AI-generated, personalized itineraries quickly.…",
+      "longDescription": "Revolutionizes travel planning with AI-generated, personalized itineraries quickly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] PlanTrips",
+      "shortDescription": "[TRANSLATE-fr] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] PlanTrips",
+      "shortDescription": "[TRANSLATE-de] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.…",
+      "longDescription": "[TRANSLATE-de] Revolutionizes travel planning with AI-generated, personalized itineraries quickly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

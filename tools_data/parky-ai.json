@@ -1,0 +1,56 @@
+{
+  "slug": "parky-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Parky.AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-04T18-33-33.976Z-gLRRzWD_-HJjAh0L5rZSKySXFCtCGnF7t.blob",
+  "redirect_url": "https://www.instagram.com/parky.ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "parky.ai effortlessly decode parking signs with instant photo analysis. ",
+  "searchIndexEs": "parky.ia effortlessly decodigo parking signs with instant photo analysis. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Parky.AI",
+      "shortDescription": "[TRANSLATE-es] Effortlessly decode parking signs with instant photo analysis.…",
+      "longDescription": "[TRANSLATE-es] Effortlessly decode parking signs with instant photo analysis.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] image"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Parky.AI",
+      "shortDescription": "[TRANSLATE-pt] Effortlessly decode parking signs with instant photo analysis.…",
+      "longDescription": "[TRANSLATE-pt] Effortlessly decode parking signs with instant photo analysis.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] image"
+    },
+    "en": {
+      "title": "Parky.AI",
+      "shortDescription": "Effortlessly decode parking signs with instant photo analysis.…",
+      "longDescription": "Effortlessly decode parking signs with instant photo analysis.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "image"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Parky.AI",
+      "shortDescription": "[TRANSLATE-fr] Effortlessly decode parking signs with instant photo analysis.…",
+      "longDescription": "[TRANSLATE-fr] Effortlessly decode parking signs with instant photo analysis.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] image"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Parky.AI",
+      "shortDescription": "[TRANSLATE-de] Effortlessly decode parking signs with instant photo analysis.…",
+      "longDescription": "[TRANSLATE-de] Effortlessly decode parking signs with instant photo analysis.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] image"
+    }
+  }
+}

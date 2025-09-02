@@ -1,0 +1,56 @@
+{
+  "slug": "mymemo-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=MyMemo+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fcf7d237d19fb3ef443e067dacab504748c1f08bb-2492x1223.png",
+  "redirect_url": "https://twitter.com/MyMemoAI",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mymemo ai transform digital chaos into an organized, ai-enhanced knowledge oasis. ",
+  "searchIndexEs": "mymemo ia transform digital chaos into an organized, ia-enhanced knowledge oasis. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MyMemo AI",
+      "shortDescription": "[TRANSLATE-es] Transform digital chaos into an organized, AI-enhanced knowledge oasis.…",
+      "longDescription": "[TRANSLATE-es] Transform digital chaos into an organized, AI-enhanced knowledge oasis.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MyMemo AI",
+      "shortDescription": "[TRANSLATE-pt] Transform digital chaos into an organized, AI-enhanced knowledge oasis.…",
+      "longDescription": "[TRANSLATE-pt] Transform digital chaos into an organized, AI-enhanced knowledge oasis.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "MyMemo AI",
+      "shortDescription": "Transform digital chaos into an organized, AI-enhanced knowledge oasis.…",
+      "longDescription": "Transform digital chaos into an organized, AI-enhanced knowledge oasis.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MyMemo AI",
+      "shortDescription": "[TRANSLATE-fr] Transform digital chaos into an organized, AI-enhanced knowledge oasis.…",
+      "longDescription": "[TRANSLATE-fr] Transform digital chaos into an organized, AI-enhanced knowledge oasis.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MyMemo AI",
+      "shortDescription": "[TRANSLATE-de] Transform digital chaos into an organized, AI-enhanced knowledge oasis.…",
+      "longDescription": "[TRANSLATE-de] Transform digital chaos into an organized, AI-enhanced knowledge oasis.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

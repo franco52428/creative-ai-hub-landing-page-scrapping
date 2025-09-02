@@ -1,0 +1,56 @@
+{
+  "slug": "personalai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Personal+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-27T05-36-29.306Z-uLQsgn079VOdb0WARefW_57um9S1GTUIv.PNG",
+  "redirect_url": "https://www.facebook.com/personalai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "personal ai revolutionize workflows with customizable, secure ai personas integration. ",
+  "searchIndexEs": "personal ia revolutionize workflows with customizable, secure ia personas integration. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Personal AI",
+      "shortDescription": "[TRANSLATE-es] Revolutionize workflows with customizable, secure AI personas integration.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize workflows with customizable, secure AI personas integration.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Personal AI",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize workflows with customizable, secure AI personas integration.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize workflows with customizable, secure AI personas integration.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Personal AI",
+      "shortDescription": "Revolutionize workflows with customizable, secure AI personas integration.…",
+      "longDescription": "Revolutionize workflows with customizable, secure AI personas integration.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Personal AI",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize workflows with customizable, secure AI personas integration.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize workflows with customizable, secure AI personas integration.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Personal AI",
+      "shortDescription": "[TRANSLATE-de] Revolutionize workflows with customizable, secure AI personas integration.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize workflows with customizable, secure AI personas integration.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "tuliaa",
+  "image_url": "https://www.futurepedia.io/api/og?title=Tuliaa+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fb73f40e362c90dc8930ccdb742cacbb75c67c762-1920x853.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "tuliaa elevate content creation with ai-driven writing, seo optimization, and intuitive design. ",
+  "searchIndexEs": "tuliaa elevate content creation with ia-driven escritura, seo optimization, and intuitive design. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Tuliaa",
+      "shortDescription": "[TRANSLATE-es] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.…",
+      "longDescription": "[TRANSLATE-es] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Tuliaa",
+      "shortDescription": "[TRANSLATE-pt] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.…",
+      "longDescription": "[TRANSLATE-pt] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "Tuliaa",
+      "shortDescription": "Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.…",
+      "longDescription": "Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Tuliaa",
+      "shortDescription": "[TRANSLATE-fr] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.…",
+      "longDescription": "[TRANSLATE-fr] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Tuliaa",
+      "shortDescription": "[TRANSLATE-de] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.…",
+      "longDescription": "[TRANSLATE-de] Elevate content creation with AI-driven writing, SEO optimization, and intuitive design.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

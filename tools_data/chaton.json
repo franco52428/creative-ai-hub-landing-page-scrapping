@@ -1,0 +1,56 @@
+{
+  "slug": "chaton",
+  "image_url": "https://www.futurepedia.io/api/og?title=ChatOn+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F948fe9a9e32a076271b8e2e918850026f114ec02-1716x1057.jpg",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "chaton revolutionize writing and creativity with ai: text-to-image, pdf mastery, voice transcription. ",
+  "searchIndexEs": "chaton revolutionize escritura and creativity with ia: text-to-imagen, pdf mastery, voice transcription. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] ChatOn",
+      "shortDescription": "[TRANSLATE-es] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] ChatOn",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "ChatOn",
+      "shortDescription": "Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.…",
+      "longDescription": "Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] ChatOn",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] ChatOn",
+      "shortDescription": "[TRANSLATE-de] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize writing and creativity with AI: text-to-image, PDF mastery, voice transcription.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

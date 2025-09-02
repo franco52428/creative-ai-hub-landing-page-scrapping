@@ -1,0 +1,56 @@
+{
+  "slug": "dr-muscle",
+  "image_url": "https://www.futurepedia.io/api/og?title=Dr.+Muscle+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fbf3eaf51972abded0692a3da086fe42c72c4d959-2497x1232.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "dr. muscle ai-driven, personalized fitness adjustments in real-time. ",
+  "searchIndexEs": "dr. muscle ia-driven, personalized fitness adjustments in real-time. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Dr. Muscle",
+      "shortDescription": "[TRANSLATE-es] AI-driven, personalized fitness adjustments in real-time.…",
+      "longDescription": "[TRANSLATE-es] AI-driven, personalized fitness adjustments in real-time.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Dr. Muscle",
+      "shortDescription": "[TRANSLATE-pt] AI-driven, personalized fitness adjustments in real-time.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven, personalized fitness adjustments in real-time.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Dr. Muscle",
+      "shortDescription": "AI-driven, personalized fitness adjustments in real-time.…",
+      "longDescription": "AI-driven, personalized fitness adjustments in real-time.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Dr. Muscle",
+      "shortDescription": "[TRANSLATE-fr] AI-driven, personalized fitness adjustments in real-time.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven, personalized fitness adjustments in real-time.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Dr. Muscle",
+      "shortDescription": "[TRANSLATE-de] AI-driven, personalized fitness adjustments in real-time.…",
+      "longDescription": "[TRANSLATE-de] AI-driven, personalized fitness adjustments in real-time.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

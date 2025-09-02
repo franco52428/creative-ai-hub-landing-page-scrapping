@@ -1,0 +1,56 @@
+{
+  "slug": "rewind-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Rewind+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F36b62a5d8ef5124c9766bb5c4bf16116f31bd956-1728x951.jpg",
+  "redirect_url": "https://twitter.com/RewindAI",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "rewind capture, transcribe, summarize digital interactions; enhance memory, privacy-focused. ",
+  "searchIndexEs": "rewind capture, transcribe, summarize digital interactions; enhance memory, privacy-focused. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Rewind",
+      "shortDescription": "[TRANSLATE-es] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.…",
+      "longDescription": "[TRANSLATE-es] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Rewind",
+      "shortDescription": "[TRANSLATE-pt] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.…",
+      "longDescription": "[TRANSLATE-pt] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Rewind",
+      "shortDescription": "Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.…",
+      "longDescription": "Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Rewind",
+      "shortDescription": "[TRANSLATE-fr] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.…",
+      "longDescription": "[TRANSLATE-fr] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Rewind",
+      "shortDescription": "[TRANSLATE-de] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.…",
+      "longDescription": "[TRANSLATE-de] Capture, transcribe, summarize digital interactions; enhance memory, privacy-focused.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

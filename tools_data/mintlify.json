@@ -1,0 +1,56 @@
+{
+  "slug": "mintlify",
+  "image_url": "https://www.futurepedia.io/api/og?title=Mintlify+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-06-25T14-44-23.949Z-IvanEMOlLq_IAVjOkKOun3HTYRIp__98M.blob",
+  "redirect_url": "https://x.com/mintlify",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "mintlify create, manage, and optimize documentation with ease. ",
+  "searchIndexEs": "mintlify create, manage, and optimize documentation with ease. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Mintlify",
+      "shortDescription": "[TRANSLATE-es] Create, manage, and optimize documentation with ease.…",
+      "longDescription": "[TRANSLATE-es] Create, manage, and optimize documentation with ease.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] generator"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Mintlify",
+      "shortDescription": "[TRANSLATE-pt] Create, manage, and optimize documentation with ease.…",
+      "longDescription": "[TRANSLATE-pt] Create, manage, and optimize documentation with ease.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] generator"
+    },
+    "en": {
+      "title": "Mintlify",
+      "shortDescription": "Create, manage, and optimize documentation with ease.…",
+      "longDescription": "Create, manage, and optimize documentation with ease.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "generator"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Mintlify",
+      "shortDescription": "[TRANSLATE-fr] Create, manage, and optimize documentation with ease.…",
+      "longDescription": "[TRANSLATE-fr] Create, manage, and optimize documentation with ease.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] generator"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Mintlify",
+      "shortDescription": "[TRANSLATE-de] Create, manage, and optimize documentation with ease.…",
+      "longDescription": "[TRANSLATE-de] Create, manage, and optimize documentation with ease.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] generator"
+    }
+  }
+}

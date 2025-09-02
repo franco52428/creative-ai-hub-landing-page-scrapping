@@ -1,0 +1,56 @@
+{
+  "slug": "transkriptor",
+  "image_url": "https://www.futurepedia.io/api/og?title=Transkriptor+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-27T21-49-46.070Z-yXawQP0hL2GMBynh5eJj_lCxDK4L7rGYH.blob",
+  "redirect_url": "https://www.linkedin.com/company/transkriptor/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "transkriptor effortlessly transcribe audio to text across 100+ languages. ",
+  "searchIndexEs": "transkriptor effortlessly transcribe audio to text across 100+ languages. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Transkriptor",
+      "shortDescription": "[TRANSLATE-es] Effortlessly transcribe audio to text across 100+ languages.…",
+      "longDescription": "[TRANSLATE-es] Effortlessly transcribe audio to text across 100+ languages.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Transkriptor",
+      "shortDescription": "[TRANSLATE-pt] Effortlessly transcribe audio to text across 100+ languages.…",
+      "longDescription": "[TRANSLATE-pt] Effortlessly transcribe audio to text across 100+ languages.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "Transkriptor",
+      "shortDescription": "Effortlessly transcribe audio to text across 100+ languages.…",
+      "longDescription": "Effortlessly transcribe audio to text across 100+ languages.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Transkriptor",
+      "shortDescription": "[TRANSLATE-fr] Effortlessly transcribe audio to text across 100+ languages.…",
+      "longDescription": "[TRANSLATE-fr] Effortlessly transcribe audio to text across 100+ languages.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Transkriptor",
+      "shortDescription": "[TRANSLATE-de] Effortlessly transcribe audio to text across 100+ languages.…",
+      "longDescription": "[TRANSLATE-de] Effortlessly transcribe audio to text across 100+ languages.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

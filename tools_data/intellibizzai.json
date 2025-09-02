@@ -1,0 +1,56 @@
+{
+  "slug": "intellibizzai",
+  "image_url": "https://www.futurepedia.io/api/og?title=IntellibizzAI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F75ffcfc3073517118fd29e4eb034489f261199de-2532x1271.jpg",
+  "redirect_url": "https://twitter.com/intellibizzAI",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "intellibizzai unleash creativity: ai-driven content, multilingual, image generation. ",
+  "searchIndexEs": "intellibizzia unleash creativity: ia-driven content, multilingual, imagen generation. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] IntellibizzAI",
+      "shortDescription": "[TRANSLATE-es] Unleash creativity: AI-driven content, multilingual, image generation.…",
+      "longDescription": "[TRANSLATE-es] Unleash creativity: AI-driven content, multilingual, image generation.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] image"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] IntellibizzAI",
+      "shortDescription": "[TRANSLATE-pt] Unleash creativity: AI-driven content, multilingual, image generation.…",
+      "longDescription": "[TRANSLATE-pt] Unleash creativity: AI-driven content, multilingual, image generation.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] image"
+    },
+    "en": {
+      "title": "IntellibizzAI",
+      "shortDescription": "Unleash creativity: AI-driven content, multilingual, image generation.…",
+      "longDescription": "Unleash creativity: AI-driven content, multilingual, image generation.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "image"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] IntellibizzAI",
+      "shortDescription": "[TRANSLATE-fr] Unleash creativity: AI-driven content, multilingual, image generation.…",
+      "longDescription": "[TRANSLATE-fr] Unleash creativity: AI-driven content, multilingual, image generation.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] image"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] IntellibizzAI",
+      "shortDescription": "[TRANSLATE-de] Unleash creativity: AI-driven content, multilingual, image generation.…",
+      "longDescription": "[TRANSLATE-de] Unleash creativity: AI-driven content, multilingual, image generation.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] image"
+    }
+  }
+}

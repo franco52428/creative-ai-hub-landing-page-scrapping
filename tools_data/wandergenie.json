@@ -1,0 +1,56 @@
+{
+  "slug": "wandergenie",
+  "image_url": "https://www.futurepedia.io/api/og?title=WanderGenie+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F87d5c126ede013ce8d0418bd951d3fdaf31a96dc-2540x1230.png",
+  "redirect_url": "https://twitter.com/wandergenie.app",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "wandergenie revolutionize travel with ai-driven personalized planning and real-time adjustments. ",
+  "searchIndexEs": "wandergenie revolutionize travel with ia-driven personalized planning and real-time adjustments. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] WanderGenie",
+      "shortDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven personalized planning and real-time adjustments.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize travel with AI-driven personalized planning and real-time adjustments.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] WanderGenie",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven personalized planning and real-time adjustments.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize travel with AI-driven personalized planning and real-time adjustments.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "WanderGenie",
+      "shortDescription": "Revolutionize travel with AI-driven personalized planning and real-time adjustments.…",
+      "longDescription": "Revolutionize travel with AI-driven personalized planning and real-time adjustments.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] WanderGenie",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven personalized planning and real-time adjustments.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize travel with AI-driven personalized planning and real-time adjustments.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] WanderGenie",
+      "shortDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven personalized planning and real-time adjustments.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize travel with AI-driven personalized planning and real-time adjustments.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

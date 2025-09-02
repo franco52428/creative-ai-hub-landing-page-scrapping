@@ -1,0 +1,56 @@
+{
+  "slug": "smart-clerk",
+  "image_url": "https://www.futurepedia.io/api/og?title=Smart+Clerk+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-20T22-54-26.487Z-aP5Ug7O5bqYgyb_EiIHMhSd75Xa2da9wJ.blob",
+  "redirect_url": "https://www.linkedin.com/company/smartclerk",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "smart clerk automates financial document processing, enhancing accounting efficiency. ",
+  "searchIndexEs": "smart clerk automates financial document processing, enhancing accounting efficiency. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Smart Clerk",
+      "shortDescription": "[TRANSLATE-es] Automates financial document processing, enhancing accounting efficiency.…",
+      "longDescription": "[TRANSLATE-es] Automates financial document processing, enhancing accounting efficiency.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Smart Clerk",
+      "shortDescription": "[TRANSLATE-pt] Automates financial document processing, enhancing accounting efficiency.…",
+      "longDescription": "[TRANSLATE-pt] Automates financial document processing, enhancing accounting efficiency.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Smart Clerk",
+      "shortDescription": "Automates financial document processing, enhancing accounting efficiency.…",
+      "longDescription": "Automates financial document processing, enhancing accounting efficiency.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Smart Clerk",
+      "shortDescription": "[TRANSLATE-fr] Automates financial document processing, enhancing accounting efficiency.…",
+      "longDescription": "[TRANSLATE-fr] Automates financial document processing, enhancing accounting efficiency.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Smart Clerk",
+      "shortDescription": "[TRANSLATE-de] Automates financial document processing, enhancing accounting efficiency.…",
+      "longDescription": "[TRANSLATE-de] Automates financial document processing, enhancing accounting efficiency.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

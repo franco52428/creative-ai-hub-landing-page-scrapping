@@ -1,0 +1,56 @@
+{
+  "slug": "thunderbit",
+  "image_url": "https://www.futurepedia.io/api/og?title=Thunderbit+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-20T18-10-44.545Z-x61qNthJZfZ99OPnoTMXYQL7F8uYh3npZ.png",
+  "redirect_url": "https://twitter.com/ThunderbitHQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "thunderbit scrape leads & other data in just 2-clicks. built for sales & ops teams. powered by ai. ",
+  "searchIndexEs": "thunderbit scrape leads & other data in just 2-clicks. built for sales & ops teams. powered by ia. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Thunderbit",
+      "shortDescription": "[TRANSLATE-es] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.…",
+      "longDescription": "[TRANSLATE-es] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Thunderbit",
+      "shortDescription": "[TRANSLATE-pt] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.…",
+      "longDescription": "[TRANSLATE-pt] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Thunderbit",
+      "shortDescription": "Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.…",
+      "longDescription": "Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Thunderbit",
+      "shortDescription": "[TRANSLATE-fr] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.…",
+      "longDescription": "[TRANSLATE-fr] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Thunderbit",
+      "shortDescription": "[TRANSLATE-de] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.…",
+      "longDescription": "[TRANSLATE-de] Scrape leads & other data in just 2-clicks. Built for sales & ops teams. Powered by AI.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

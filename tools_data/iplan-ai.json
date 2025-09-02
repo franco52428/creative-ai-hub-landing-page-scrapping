@@ -1,0 +1,56 @@
+{
+  "slug": "iplan-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=iPlan.ai+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F7f0e5761c1f6b6915f1c99269102094948c8f567-2495x1218.png",
+  "redirect_url": "https://www.instagram.com/iplanai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "iplan.ai ai-driven, personalized travel itineraries at your fingertips. ",
+  "searchIndexEs": "iplan.ia ia-driven, personalized travel itineraries at your fingertips. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] iPlan.ai",
+      "shortDescription": "[TRANSLATE-es] AI-driven, personalized travel itineraries at your fingertips.…",
+      "longDescription": "[TRANSLATE-es] AI-driven, personalized travel itineraries at your fingertips.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] iPlan.ai",
+      "shortDescription": "[TRANSLATE-pt] AI-driven, personalized travel itineraries at your fingertips.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven, personalized travel itineraries at your fingertips.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "iPlan.ai",
+      "shortDescription": "AI-driven, personalized travel itineraries at your fingertips.…",
+      "longDescription": "AI-driven, personalized travel itineraries at your fingertips.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] iPlan.ai",
+      "shortDescription": "[TRANSLATE-fr] AI-driven, personalized travel itineraries at your fingertips.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven, personalized travel itineraries at your fingertips.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] iPlan.ai",
+      "shortDescription": "[TRANSLATE-de] AI-driven, personalized travel itineraries at your fingertips.…",
+      "longDescription": "[TRANSLATE-de] AI-driven, personalized travel itineraries at your fingertips.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

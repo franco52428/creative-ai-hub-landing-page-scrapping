@@ -1,0 +1,56 @@
+{
+  "slug": "call-annie",
+  "image_url": "https://www.futurepedia.io/api/og?title=Call+Annie+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-31T23-59-51.907Z-2cx8BSj2vQ_y8nbhd5l6wYnmWqptKkKsG.PNG",
+  "redirect_url": "https://discord.com/invite/Rfbzet5R3v",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "call annie revolutionize communication with real-time, ai-driven conversational interactions. ",
+  "searchIndexEs": "call annie revolutionize communication with real-time, ia-driven conversational interactions. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Call Annie",
+      "shortDescription": "[TRANSLATE-es] Revolutionize communication with real-time, AI-driven conversational interactions.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize communication with real-time, AI-driven conversational interactions.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Call Annie",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize communication with real-time, AI-driven conversational interactions.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize communication with real-time, AI-driven conversational interactions.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Call Annie",
+      "shortDescription": "Revolutionize communication with real-time, AI-driven conversational interactions.…",
+      "longDescription": "Revolutionize communication with real-time, AI-driven conversational interactions.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Call Annie",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize communication with real-time, AI-driven conversational interactions.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize communication with real-time, AI-driven conversational interactions.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Call Annie",
+      "shortDescription": "[TRANSLATE-de] Revolutionize communication with real-time, AI-driven conversational interactions.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize communication with real-time, AI-driven conversational interactions.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

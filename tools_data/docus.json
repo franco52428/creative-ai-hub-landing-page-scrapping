@@ -1,0 +1,56 @@
+{
+  "slug": "docus",
+  "image_url": "https://www.futurepedia.io/api/og?title=Docus+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F6eb2bfd2495c6311adc7226bdd772899d4b62e95-2532x1259.jpg",
+  "redirect_url": "https://twitter.com/docus_ai",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "docus ai-driven health platform for personalized insights and expert advice. ",
+  "searchIndexEs": "docus ia-driven health platform for personalized insights and expert advice. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Docus",
+      "shortDescription": "[TRANSLATE-es] AI-driven health platform for personalized insights and expert advice.…",
+      "longDescription": "[TRANSLATE-es] AI-driven health platform for personalized insights and expert advice.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Docus",
+      "shortDescription": "[TRANSLATE-pt] AI-driven health platform for personalized insights and expert advice.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven health platform for personalized insights and expert advice.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Docus",
+      "shortDescription": "AI-driven health platform for personalized insights and expert advice.…",
+      "longDescription": "AI-driven health platform for personalized insights and expert advice.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Docus",
+      "shortDescription": "[TRANSLATE-fr] AI-driven health platform for personalized insights and expert advice.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven health platform for personalized insights and expert advice.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Docus",
+      "shortDescription": "[TRANSLATE-de] AI-driven health platform for personalized insights and expert advice.…",
+      "longDescription": "[TRANSLATE-de] AI-driven health platform for personalized insights and expert advice.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

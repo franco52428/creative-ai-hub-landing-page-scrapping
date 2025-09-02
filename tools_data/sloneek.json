@@ -1,0 +1,56 @@
+{
+  "slug": "sloneek",
+  "image_url": "https://www.futurepedia.io/api/og?title=Sloneek+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-05-28T19-37-03.910Z-39PwVqAHFixfYJdX9oz2i3SzKOSm4xrqg.png",
+  "redirect_url": "https://eesel.ai/?via=fp",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "sloneek automates hr tasks, enhancing employee engagement. ",
+  "searchIndexEs": "sloneek automates hr tasks, enhancing employee engagement. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Sloneek",
+      "shortDescription": "[TRANSLATE-es] Automates HR tasks, enhancing employee engagement.…",
+      "longDescription": "[TRANSLATE-es] Automates HR tasks, enhancing employee engagement.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Sloneek",
+      "shortDescription": "[TRANSLATE-pt] Automates HR tasks, enhancing employee engagement.…",
+      "longDescription": "[TRANSLATE-pt] Automates HR tasks, enhancing employee engagement.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Sloneek",
+      "shortDescription": "Automates HR tasks, enhancing employee engagement.…",
+      "longDescription": "Automates HR tasks, enhancing employee engagement.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Sloneek",
+      "shortDescription": "[TRANSLATE-fr] Automates HR tasks, enhancing employee engagement.…",
+      "longDescription": "[TRANSLATE-fr] Automates HR tasks, enhancing employee engagement.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Sloneek",
+      "shortDescription": "[TRANSLATE-de] Automates HR tasks, enhancing employee engagement.…",
+      "longDescription": "[TRANSLATE-de] Automates HR tasks, enhancing employee engagement.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

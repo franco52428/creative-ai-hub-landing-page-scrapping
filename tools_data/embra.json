@@ -1,0 +1,56 @@
+{
+  "slug": "embra",
+  "image_url": "https://www.futurepedia.io/api/og?title=Embra+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-02-14T22-21-59.257Z-dfjM6E-L6YH20IXX9kWdM5Dx9SqGcOlmV.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "embra optimize workflows, automate tasks, enhance team productivity. ",
+  "searchIndexEs": "embra optimize workflows, automate tasks, enhance team productivity. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Embra",
+      "shortDescription": "[TRANSLATE-es] Optimize workflows, automate tasks, enhance team productivity.…",
+      "longDescription": "[TRANSLATE-es] Optimize workflows, automate tasks, enhance team productivity.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Embra",
+      "shortDescription": "[TRANSLATE-pt] Optimize workflows, automate tasks, enhance team productivity.…",
+      "longDescription": "[TRANSLATE-pt] Optimize workflows, automate tasks, enhance team productivity.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Embra",
+      "shortDescription": "Optimize workflows, automate tasks, enhance team productivity.…",
+      "longDescription": "Optimize workflows, automate tasks, enhance team productivity.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Embra",
+      "shortDescription": "[TRANSLATE-fr] Optimize workflows, automate tasks, enhance team productivity.…",
+      "longDescription": "[TRANSLATE-fr] Optimize workflows, automate tasks, enhance team productivity.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Embra",
+      "shortDescription": "[TRANSLATE-de] Optimize workflows, automate tasks, enhance team productivity.…",
+      "longDescription": "[TRANSLATE-de] Optimize workflows, automate tasks, enhance team productivity.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

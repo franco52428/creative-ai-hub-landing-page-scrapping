@@ -1,0 +1,56 @@
+{
+  "slug": "assets-scout",
+  "image_url": "https://www.futurepedia.io/api/og?title=Assets+Scout+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff18f066e89e07c0202d67448b2265cf0faff8a8c-1920x913.png",
+  "redirect_url": "https://www.youtube.com/channel/UCvoujjptCeCL0r_P9CDk8yw",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "assets scout ai-driven tool for real-time asset tracking and management. ",
+  "searchIndexEs": "assets scout ia-driven herramienta for real-time asset tracking and management. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Assets Scout",
+      "shortDescription": "[TRANSLATE-es] AI-driven tool for real-time asset tracking and management.…",
+      "longDescription": "[TRANSLATE-es] AI-driven tool for real-time asset tracking and management.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Assets Scout",
+      "shortDescription": "[TRANSLATE-pt] AI-driven tool for real-time asset tracking and management.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven tool for real-time asset tracking and management.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Assets Scout",
+      "shortDescription": "AI-driven tool for real-time asset tracking and management.…",
+      "longDescription": "AI-driven tool for real-time asset tracking and management.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Assets Scout",
+      "shortDescription": "[TRANSLATE-fr] AI-driven tool for real-time asset tracking and management.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven tool for real-time asset tracking and management.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Assets Scout",
+      "shortDescription": "[TRANSLATE-de] AI-driven tool for real-time asset tracking and management.…",
+      "longDescription": "[TRANSLATE-de] AI-driven tool for real-time asset tracking and management.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

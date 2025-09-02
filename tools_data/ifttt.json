@@ -1,0 +1,56 @@
+{
+  "slug": "ifttt",
+  "image_url": "https://www.futurepedia.io/api/og?title=IFTTT+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F96be49ee90af5a01e377602bf8f1ea80dd877a7b-2535x1234.png",
+  "redirect_url": "https://www.facebook.com/ifttt",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ifttt automate tasks effortlessly by integrating over 900 services. ",
+  "searchIndexEs": "ifttt automate tasks effortlessly by integrating over 900 services. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] IFTTT",
+      "shortDescription": "[TRANSLATE-es] Automate tasks effortlessly by integrating over 900 services.…",
+      "longDescription": "[TRANSLATE-es] Automate tasks effortlessly by integrating over 900 services.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] IFTTT",
+      "shortDescription": "[TRANSLATE-pt] Automate tasks effortlessly by integrating over 900 services.…",
+      "longDescription": "[TRANSLATE-pt] Automate tasks effortlessly by integrating over 900 services.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "IFTTT",
+      "shortDescription": "Automate tasks effortlessly by integrating over 900 services.…",
+      "longDescription": "Automate tasks effortlessly by integrating over 900 services.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] IFTTT",
+      "shortDescription": "[TRANSLATE-fr] Automate tasks effortlessly by integrating over 900 services.…",
+      "longDescription": "[TRANSLATE-fr] Automate tasks effortlessly by integrating over 900 services.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] IFTTT",
+      "shortDescription": "[TRANSLATE-de] Automate tasks effortlessly by integrating over 900 services.…",
+      "longDescription": "[TRANSLATE-de] Automate tasks effortlessly by integrating over 900 services.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "zoom-ai-companion",
+  "image_url": "https://www.futurepedia.io/api/og?title=Zoom+AI+Companion+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fe132c0d46af1135dfe026a8210c1590840e93c07-2525x1242.png",
+  "redirect_url": "https://www.linkedin.com/company/zoom-video-communications",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "zoom ai companion streamline meetings with ai summaries, chat assistance, and multilingual support. ",
+  "searchIndexEs": "zoom ia companion streamline meetings with ia summaries, chat assistance, and multilingual support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Zoom AI Companion",
+      "shortDescription": "[TRANSLATE-es] Streamline meetings with AI summaries, chat assistance, and multilingual support.…",
+      "longDescription": "[TRANSLATE-es] Streamline meetings with AI summaries, chat assistance, and multilingual support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Zoom AI Companion",
+      "shortDescription": "[TRANSLATE-pt] Streamline meetings with AI summaries, chat assistance, and multilingual support.…",
+      "longDescription": "[TRANSLATE-pt] Streamline meetings with AI summaries, chat assistance, and multilingual support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Zoom AI Companion",
+      "shortDescription": "Streamline meetings with AI summaries, chat assistance, and multilingual support.…",
+      "longDescription": "Streamline meetings with AI summaries, chat assistance, and multilingual support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Zoom AI Companion",
+      "shortDescription": "[TRANSLATE-fr] Streamline meetings with AI summaries, chat assistance, and multilingual support.…",
+      "longDescription": "[TRANSLATE-fr] Streamline meetings with AI summaries, chat assistance, and multilingual support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Zoom AI Companion",
+      "shortDescription": "[TRANSLATE-de] Streamline meetings with AI summaries, chat assistance, and multilingual support.…",
+      "longDescription": "[TRANSLATE-de] Streamline meetings with AI summaries, chat assistance, and multilingual support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "ayfie",
+  "image_url": "https://www.futurepedia.io/api/og?title=Ayfie+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F4bf8a8ffe1f78199016fc67d00fb3f2854c89619-2476x1210.png",
+  "redirect_url": "https://www.facebook.com/ayfie.group/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "ayfie enhance data retrieval with ai-driven, context-aware insights. ",
+  "searchIndexEs": "ayfie enhance data retrieval with ia-driven, context-aware insights. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Ayfie",
+      "shortDescription": "[TRANSLATE-es] Enhance data retrieval with AI-driven, context-aware insights.…",
+      "longDescription": "[TRANSLATE-es] Enhance data retrieval with AI-driven, context-aware insights.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] writing"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Ayfie",
+      "shortDescription": "[TRANSLATE-pt] Enhance data retrieval with AI-driven, context-aware insights.…",
+      "longDescription": "[TRANSLATE-pt] Enhance data retrieval with AI-driven, context-aware insights.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] writing"
+    },
+    "en": {
+      "title": "Ayfie",
+      "shortDescription": "Enhance data retrieval with AI-driven, context-aware insights.…",
+      "longDescription": "Enhance data retrieval with AI-driven, context-aware insights.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "writing"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Ayfie",
+      "shortDescription": "[TRANSLATE-fr] Enhance data retrieval with AI-driven, context-aware insights.…",
+      "longDescription": "[TRANSLATE-fr] Enhance data retrieval with AI-driven, context-aware insights.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] writing"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Ayfie",
+      "shortDescription": "[TRANSLATE-de] Enhance data retrieval with AI-driven, context-aware insights.…",
+      "longDescription": "[TRANSLATE-de] Enhance data retrieval with AI-driven, context-aware insights.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] writing"
+    }
+  }
+}

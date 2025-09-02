@@ -1,0 +1,56 @@
+{
+  "slug": "traivl",
+  "image_url": "https://www.futurepedia.io/api/og?title=Traivl+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F1de8df402c38dcf406bdba89806b5aff0ac123e0-2501x1237.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "traivl revolutionize travel planning with ai, local insights, and secure bookings. ",
+  "searchIndexEs": "triavl revolutionize travel planning with ia, local insights, and secure bookings. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Traivl",
+      "shortDescription": "[TRANSLATE-es] Revolutionize travel planning with AI, local insights, and secure bookings.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize travel planning with AI, local insights, and secure bookings.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Traivl",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize travel planning with AI, local insights, and secure bookings.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize travel planning with AI, local insights, and secure bookings.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Traivl",
+      "shortDescription": "Revolutionize travel planning with AI, local insights, and secure bookings.…",
+      "longDescription": "Revolutionize travel planning with AI, local insights, and secure bookings.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Traivl",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize travel planning with AI, local insights, and secure bookings.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize travel planning with AI, local insights, and secure bookings.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Traivl",
+      "shortDescription": "[TRANSLATE-de] Revolutionize travel planning with AI, local insights, and secure bookings.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize travel planning with AI, local insights, and secure bookings.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

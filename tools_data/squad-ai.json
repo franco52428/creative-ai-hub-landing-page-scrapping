@@ -1,0 +1,56 @@
+{
+  "slug": "squad-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=Squad+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2vtJukrG0XC5h9QMlDJRqe.png",
+  "redirect_url": "https://www.linkedin.com/company/meetsquad-ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "squad ai streamlines product strategy with ai-driven insights and automation. ",
+  "searchIndexEs": "squad ia streamlines product strategy with ia-driven insights and automation. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Squad AI",
+      "shortDescription": "[TRANSLATE-es] Streamlines product strategy with AI-driven insights and automation.…",
+      "longDescription": "[TRANSLATE-es] Streamlines product strategy with AI-driven insights and automation.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Squad AI",
+      "shortDescription": "[TRANSLATE-pt] Streamlines product strategy with AI-driven insights and automation.…",
+      "longDescription": "[TRANSLATE-pt] Streamlines product strategy with AI-driven insights and automation.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Squad AI",
+      "shortDescription": "Streamlines product strategy with AI-driven insights and automation.…",
+      "longDescription": "Streamlines product strategy with AI-driven insights and automation.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Squad AI",
+      "shortDescription": "[TRANSLATE-fr] Streamlines product strategy with AI-driven insights and automation.…",
+      "longDescription": "[TRANSLATE-fr] Streamlines product strategy with AI-driven insights and automation.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Squad AI",
+      "shortDescription": "[TRANSLATE-de] Streamlines product strategy with AI-driven insights and automation.…",
+      "longDescription": "[TRANSLATE-de] Streamlines product strategy with AI-driven insights and automation.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

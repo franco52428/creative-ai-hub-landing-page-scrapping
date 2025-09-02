@@ -1,0 +1,56 @@
+{
+  "slug": "tidalflow",
+  "image_url": "https://www.futurepedia.io/api/og?title=Tidalflow+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Ff26322526c165fd87268a119abaf1554fba9d0f1-2508x1234.png",
+  "redirect_url": "https://www.instagram.com/tidalflow.ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "tidalflow revolutionize fitness with ai: personalized workouts, science-based advice, anytime access. ",
+  "searchIndexEs": "tidalflow revolutionize fitness with ia: personalized workouts, science-based advice, anytime access. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Tidalflow",
+      "shortDescription": "[TRANSLATE-es] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Tidalflow",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Tidalflow",
+      "shortDescription": "Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.…",
+      "longDescription": "Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Tidalflow",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Tidalflow",
+      "shortDescription": "[TRANSLATE-de] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize fitness with AI: personalized workouts, science-based advice, anytime access.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

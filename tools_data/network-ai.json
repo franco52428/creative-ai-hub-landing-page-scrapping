@@ -1,0 +1,56 @@
+{
+  "slug": "network-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=NetworkAI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Febfc754386eec161a1297caf657f2b3a6c2e3811-2517x1239.png",
+  "redirect_url": "https://www.linkedin.com/company/wonsulting/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "networkai revolutionize networking and job search with ai-driven efficiency and support. ",
+  "searchIndexEs": "networkia revolutionize networking and job search with ia-driven efficiency and support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] NetworkAI",
+      "shortDescription": "[TRANSLATE-es] Revolutionize networking and job search with AI-driven efficiency and support.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize networking and job search with AI-driven efficiency and support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] research"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] NetworkAI",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize networking and job search with AI-driven efficiency and support.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize networking and job search with AI-driven efficiency and support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] research"
+    },
+    "en": {
+      "title": "NetworkAI",
+      "shortDescription": "Revolutionize networking and job search with AI-driven efficiency and support.…",
+      "longDescription": "Revolutionize networking and job search with AI-driven efficiency and support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "research"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] NetworkAI",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize networking and job search with AI-driven efficiency and support.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize networking and job search with AI-driven efficiency and support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] research"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] NetworkAI",
+      "shortDescription": "[TRANSLATE-de] Revolutionize networking and job search with AI-driven efficiency and support.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize networking and job search with AI-driven efficiency and support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] research"
+    }
+  }
+}

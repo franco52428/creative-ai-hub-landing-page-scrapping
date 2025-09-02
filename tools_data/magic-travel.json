@@ -1,0 +1,56 @@
+{
+  "slug": "magic-travel",
+  "image_url": "https://www.futurepedia.io/api/og?title=Magic+Travel+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fe76207ac73f08d3887a9ce27372b70d036bd8f9a-2546x1250.png",
+  "redirect_url": "https://tally.so/r/nWEKPQ",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "magic travel your all-in-one trip planning tool ",
+  "searchIndexEs": "magic travel your all-in-one trip planning herramienta ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Magic Travel",
+      "shortDescription": "[TRANSLATE-es] Your All-in-One Trip Planning Tool…",
+      "longDescription": "[TRANSLATE-es] Your All-in-One Trip Planning Tool",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Magic Travel",
+      "shortDescription": "[TRANSLATE-pt] Your All-in-One Trip Planning Tool…",
+      "longDescription": "[TRANSLATE-pt] Your All-in-One Trip Planning Tool",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Magic Travel",
+      "shortDescription": "Your All-in-One Trip Planning Tool…",
+      "longDescription": "Your All-in-One Trip Planning Tool",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Magic Travel",
+      "shortDescription": "[TRANSLATE-fr] Your All-in-One Trip Planning Tool…",
+      "longDescription": "[TRANSLATE-fr] Your All-in-One Trip Planning Tool",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Magic Travel",
+      "shortDescription": "[TRANSLATE-de] Your All-in-One Trip Planning Tool…",
+      "longDescription": "[TRANSLATE-de] Your All-in-One Trip Planning Tool",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

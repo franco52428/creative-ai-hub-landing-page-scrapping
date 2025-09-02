@@ -1,0 +1,56 @@
+{
+  "slug": "fellow",
+  "image_url": "https://www.futurepedia.io/api/og?title=Fellow+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-03-05T19-01-40.568Z-qL6KWU6zqphSiUtnfKu3YEpPqR5OX86zD.blob",
+  "redirect_url": "https://www.youtube.com/fellowapp",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "fellow automates meeting notes, insights, and follow-ups seamlessly. ",
+  "searchIndexEs": "fellow automates meeting notes, insights, and follow-ups seamlessly. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Fellow",
+      "shortDescription": "[TRANSLATE-es] Automates meeting notes, insights, and follow-ups seamlessly.…",
+      "longDescription": "[TRANSLATE-es] Automates meeting notes, insights, and follow-ups seamlessly.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Fellow",
+      "shortDescription": "[TRANSLATE-pt] Automates meeting notes, insights, and follow-ups seamlessly.…",
+      "longDescription": "[TRANSLATE-pt] Automates meeting notes, insights, and follow-ups seamlessly.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Fellow",
+      "shortDescription": "Automates meeting notes, insights, and follow-ups seamlessly.…",
+      "longDescription": "Automates meeting notes, insights, and follow-ups seamlessly.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Fellow",
+      "shortDescription": "[TRANSLATE-fr] Automates meeting notes, insights, and follow-ups seamlessly.…",
+      "longDescription": "[TRANSLATE-fr] Automates meeting notes, insights, and follow-ups seamlessly.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Fellow",
+      "shortDescription": "[TRANSLATE-de] Automates meeting notes, insights, and follow-ups seamlessly.…",
+      "longDescription": "[TRANSLATE-de] Automates meeting notes, insights, and follow-ups seamlessly.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

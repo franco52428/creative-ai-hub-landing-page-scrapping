@@ -1,0 +1,56 @@
+{
+  "slug": "meetgeek",
+  "image_url": "https://www.futurepedia.io/api/og?title=MeetGeek+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F0adb4d1fdb5cf70f8cf82327c8f8e997fbdf1eec-1807x857.jpg",
+  "redirect_url": "https://www.facebook.com/meetgeekai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "meetgeek automate, summarize, and integrate meetings for peak productivity. ",
+  "searchIndexEs": "meetgeek automate, summarize, and integrate meetings for peak productivity. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] MeetGeek",
+      "shortDescription": "[TRANSLATE-es] Automate, summarize, and integrate meetings for peak productivity.…",
+      "longDescription": "[TRANSLATE-es] Automate, summarize, and integrate meetings for peak productivity.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] MeetGeek",
+      "shortDescription": "[TRANSLATE-pt] Automate, summarize, and integrate meetings for peak productivity.…",
+      "longDescription": "[TRANSLATE-pt] Automate, summarize, and integrate meetings for peak productivity.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "MeetGeek",
+      "shortDescription": "Automate, summarize, and integrate meetings for peak productivity.…",
+      "longDescription": "Automate, summarize, and integrate meetings for peak productivity.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] MeetGeek",
+      "shortDescription": "[TRANSLATE-fr] Automate, summarize, and integrate meetings for peak productivity.…",
+      "longDescription": "[TRANSLATE-fr] Automate, summarize, and integrate meetings for peak productivity.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] MeetGeek",
+      "shortDescription": "[TRANSLATE-de] Automate, summarize, and integrate meetings for peak productivity.…",
+      "longDescription": "[TRANSLATE-de] Automate, summarize, and integrate meetings for peak productivity.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

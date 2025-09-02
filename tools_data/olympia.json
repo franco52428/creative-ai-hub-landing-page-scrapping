@@ -1,0 +1,56 @@
+{
+  "slug": "olympia",
+  "image_url": "https://www.futurepedia.io/api/og?title=Olympia+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F303aed19d844ee0e01e4ad7e4848c4c90ac7f1bd-1893x917.png",
+  "redirect_url": "https://x.com/OlympiaChat",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "olympia ai consultants simplify business tasks, enhance productivity, cut costs. ",
+  "searchIndexEs": "olympia ia consultants simplify business tasks, enhance productivity, cut costs. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Olympia",
+      "shortDescription": "[TRANSLATE-es] AI consultants simplify business tasks, enhance productivity, cut costs.…",
+      "longDescription": "[TRANSLATE-es] AI consultants simplify business tasks, enhance productivity, cut costs.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Olympia",
+      "shortDescription": "[TRANSLATE-pt] AI consultants simplify business tasks, enhance productivity, cut costs.…",
+      "longDescription": "[TRANSLATE-pt] AI consultants simplify business tasks, enhance productivity, cut costs.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Olympia",
+      "shortDescription": "AI consultants simplify business tasks, enhance productivity, cut costs.…",
+      "longDescription": "AI consultants simplify business tasks, enhance productivity, cut costs.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Olympia",
+      "shortDescription": "[TRANSLATE-fr] AI consultants simplify business tasks, enhance productivity, cut costs.…",
+      "longDescription": "[TRANSLATE-fr] AI consultants simplify business tasks, enhance productivity, cut costs.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Olympia",
+      "shortDescription": "[TRANSLATE-de] AI consultants simplify business tasks, enhance productivity, cut costs.…",
+      "longDescription": "[TRANSLATE-de] AI consultants simplify business tasks, enhance productivity, cut costs.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

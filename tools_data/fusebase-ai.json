@@ -1,0 +1,56 @@
+{
+  "slug": "fusebase-ai",
+  "image_url": "https://www.futurepedia.io/api/og?title=FuseBase+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fa4d3437d890a9dbee0aaf5f2c08fa271bfb5afde-2516x1245.png",
+  "redirect_url": "https://www.facebook.com/nimbuswebme",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "fusebase ai ai-driven tool for seamless client collaboration and project management. ",
+  "searchIndexEs": "fusebase ia ia-driven herramienta for seamless client collaboration and project management. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] FuseBase AI",
+      "shortDescription": "[TRANSLATE-es] AI-driven tool for seamless client collaboration and project management.…",
+      "longDescription": "[TRANSLATE-es] AI-driven tool for seamless client collaboration and project management.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] FuseBase AI",
+      "shortDescription": "[TRANSLATE-pt] AI-driven tool for seamless client collaboration and project management.…",
+      "longDescription": "[TRANSLATE-pt] AI-driven tool for seamless client collaboration and project management.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "FuseBase AI",
+      "shortDescription": "AI-driven tool for seamless client collaboration and project management.…",
+      "longDescription": "AI-driven tool for seamless client collaboration and project management.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] FuseBase AI",
+      "shortDescription": "[TRANSLATE-fr] AI-driven tool for seamless client collaboration and project management.…",
+      "longDescription": "[TRANSLATE-fr] AI-driven tool for seamless client collaboration and project management.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] FuseBase AI",
+      "shortDescription": "[TRANSLATE-de] AI-driven tool for seamless client collaboration and project management.…",
+      "longDescription": "[TRANSLATE-de] AI-driven tool for seamless client collaboration and project management.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

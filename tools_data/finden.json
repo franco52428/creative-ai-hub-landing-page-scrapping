@@ -1,0 +1,56 @@
+{
+  "slug": "finden",
+  "image_url": "https://www.futurepedia.io/api/og?title=Finden+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-08-13T14-22-28.239Z-T2kBbDcKvzRrZKLgodLVy9qoBu0XvA_CN.blob",
+  "redirect_url": "https://www.facebook.com/finden.me",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "finden organize and analyze data across all of your platforms. ",
+  "searchIndexEs": "finden organize and analyze data across all of your platforms. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Finden",
+      "shortDescription": "[TRANSLATE-es] Organize and analyze data across all of your platforms.…",
+      "longDescription": "[TRANSLATE-es] Organize and analyze data across all of your platforms.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] research"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Finden",
+      "shortDescription": "[TRANSLATE-pt] Organize and analyze data across all of your platforms.…",
+      "longDescription": "[TRANSLATE-pt] Organize and analyze data across all of your platforms.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] research"
+    },
+    "en": {
+      "title": "Finden",
+      "shortDescription": "Organize and analyze data across all of your platforms.…",
+      "longDescription": "Organize and analyze data across all of your platforms.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "research"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Finden",
+      "shortDescription": "[TRANSLATE-fr] Organize and analyze data across all of your platforms.…",
+      "longDescription": "[TRANSLATE-fr] Organize and analyze data across all of your platforms.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] research"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Finden",
+      "shortDescription": "[TRANSLATE-de] Organize and analyze data across all of your platforms.…",
+      "longDescription": "[TRANSLATE-de] Organize and analyze data across all of your platforms.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] research"
+    }
+  }
+}

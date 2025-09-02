@@ -1,0 +1,56 @@
+{
+  "slug": "skoot",
+  "image_url": "https://www.futurepedia.io/api/og?title=Skoot+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2Fbab9104c76750df5b59168602297ff4dcad34d7d-2367x1234.jpg",
+  "redirect_url": "https://www.instagram.com/skoothere/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "skoot revolutionize family travel with ai-planned itineraries and tailored activity suggestions. ",
+  "searchIndexEs": "skoot revolutionize family travel with ia-planned itineraries and tialored activity suggestions. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Skoot",
+      "shortDescription": "[TRANSLATE-es] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.…",
+      "longDescription": "[TRANSLATE-es] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Skoot",
+      "shortDescription": "[TRANSLATE-pt] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.…",
+      "longDescription": "[TRANSLATE-pt] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Skoot",
+      "shortDescription": "Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.…",
+      "longDescription": "Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Skoot",
+      "shortDescription": "[TRANSLATE-fr] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.…",
+      "longDescription": "[TRANSLATE-fr] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Skoot",
+      "shortDescription": "[TRANSLATE-de] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.…",
+      "longDescription": "[TRANSLATE-de] Revolutionize family travel with AI-planned itineraries and tailored activity suggestions.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

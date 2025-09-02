@@ -1,0 +1,56 @@
+{
+  "slug": "swifty",
+  "image_url": "https://www.futurepedia.io/api/og?title=Swifty+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F6917035d74fcfd961374d210add892b9d2a0219f-2538x1258.jpg",
+  "redirect_url": "https://www.linkedin.com/company/swifty-ai/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "swifty your ai assistant for simplifying business travel. ",
+  "searchIndexEs": "swifty your ia asistente for simplifying business travel. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Swifty",
+      "shortDescription": "[TRANSLATE-es] Your AI Assistant for Simplifying Business Travel.…",
+      "longDescription": "[TRANSLATE-es] Your AI Assistant for Simplifying Business Travel.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Swifty",
+      "shortDescription": "[TRANSLATE-pt] Your AI Assistant for Simplifying Business Travel.…",
+      "longDescription": "[TRANSLATE-pt] Your AI Assistant for Simplifying Business Travel.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Swifty",
+      "shortDescription": "Your AI Assistant for Simplifying Business Travel.…",
+      "longDescription": "Your AI Assistant for Simplifying Business Travel.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Swifty",
+      "shortDescription": "[TRANSLATE-fr] Your AI Assistant for Simplifying Business Travel.…",
+      "longDescription": "[TRANSLATE-fr] Your AI Assistant for Simplifying Business Travel.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Swifty",
+      "shortDescription": "[TRANSLATE-de] Your AI Assistant for Simplifying Business Travel.…",
+      "longDescription": "[TRANSLATE-de] Your AI Assistant for Simplifying Business Travel.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

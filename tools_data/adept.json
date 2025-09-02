@@ -1,0 +1,56 @@
+{
+  "slug": "adept",
+  "image_url": "https://www.futurepedia.io/api/og?title=Adept+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-27T21-48-46.279Z-2kBVGOdsa-2tpC3NZUSTmEPKLoiRRJsal.PNG",
+  "redirect_url": "https://twitter.com/adeptailabs",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "adept automate complex workflows with precision using agentic ai. ",
+  "searchIndexEs": "adept automate complex workflows with precision using agentic ia. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Adept",
+      "shortDescription": "[TRANSLATE-es] Automate complex workflows with precision using agentic AI.…",
+      "longDescription": "[TRANSLATE-es] Automate complex workflows with precision using agentic AI.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Adept",
+      "shortDescription": "[TRANSLATE-pt] Automate complex workflows with precision using agentic AI.…",
+      "longDescription": "[TRANSLATE-pt] Automate complex workflows with precision using agentic AI.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Adept",
+      "shortDescription": "Automate complex workflows with precision using agentic AI.…",
+      "longDescription": "Automate complex workflows with precision using agentic AI.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Adept",
+      "shortDescription": "[TRANSLATE-fr] Automate complex workflows with precision using agentic AI.…",
+      "longDescription": "[TRANSLATE-fr] Automate complex workflows with precision using agentic AI.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Adept",
+      "shortDescription": "[TRANSLATE-de] Automate complex workflows with precision using agentic AI.…",
+      "longDescription": "[TRANSLATE-de] Automate complex workflows with precision using agentic AI.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}

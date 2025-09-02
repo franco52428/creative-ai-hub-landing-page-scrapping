@@ -1,0 +1,56 @@
+{
+  "slug": "abby",
+  "image_url": "https://www.futurepedia.io/api/og?title=Abby+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2FVEpbg7OYm3Y7BoYATTijXJ.png",
+  "redirect_url": "https://monica.im/invitation-affiliate?ref=yzawntq&ref_aff=yzawntq",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "abby ai therapy assistant offering free, 24/7 personalized mental health support. ",
+  "searchIndexEs": "abby ia therapy asistente offering free, 24/7 personalized mental health support. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Abby",
+      "shortDescription": "[TRANSLATE-es] AI therapy assistant offering free, 24/7 personalized mental health support.…",
+      "longDescription": "[TRANSLATE-es] AI therapy assistant offering free, 24/7 personalized mental health support.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] assistant"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Abby",
+      "shortDescription": "[TRANSLATE-pt] AI therapy assistant offering free, 24/7 personalized mental health support.…",
+      "longDescription": "[TRANSLATE-pt] AI therapy assistant offering free, 24/7 personalized mental health support.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] assistant"
+    },
+    "en": {
+      "title": "Abby",
+      "shortDescription": "AI therapy assistant offering free, 24/7 personalized mental health support.…",
+      "longDescription": "AI therapy assistant offering free, 24/7 personalized mental health support.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "assistant"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Abby",
+      "shortDescription": "[TRANSLATE-fr] AI therapy assistant offering free, 24/7 personalized mental health support.…",
+      "longDescription": "[TRANSLATE-fr] AI therapy assistant offering free, 24/7 personalized mental health support.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] assistant"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Abby",
+      "shortDescription": "[TRANSLATE-de] AI therapy assistant offering free, 24/7 personalized mental health support.…",
+      "longDescription": "[TRANSLATE-de] AI therapy assistant offering free, 24/7 personalized mental health support.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] assistant"
+    }
+  }
+}

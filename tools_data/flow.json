@@ -1,0 +1,56 @@
+{
+  "slug": "flow",
+  "image_url": "https://www.futurepedia.io/api/og?title=Wispr+Flow+AI+Reviews%3A+Use+Cases%2C+Pricing+%26+Alternatives&image=https%3A%2F%2Fcdn.futurepedia.io%2F2025-01-07T12-10-20.717Z-xTKZHST7rBY9mIYIMUugkpGXfkMaIyhSV.blob",
+  "redirect_url": "https://www.linkedin.com/company/wisprflow/",
+  "demo_url": "",
+  "technical_requirements": "Navegador web moderno, conexión a internet estable",
+  "searchIndexEn": "wispr flow dictate and edit documents three times faster with ai. ",
+  "searchIndexEs": "wispr flow dictate and edit documents three times faster with ia. ",
+  "translations": {
+    "es": {
+      "title": "[TRANSLATE-es] Wispr Flow",
+      "shortDescription": "[TRANSLATE-es] Dictate and edit documents three times faster with AI.…",
+      "longDescription": "[TRANSLATE-es] Dictate and edit documents three times faster with AI.",
+      "tags": "[TRANSLATE-es] ",
+      "pricingInfo": "[TRANSLATE-es] Information not available",
+      "category": "asistente-personal",
+      "appType": "[TRANSLATE-es] other"
+    },
+    "pt": {
+      "title": "[TRANSLATE-pt] Wispr Flow",
+      "shortDescription": "[TRANSLATE-pt] Dictate and edit documents three times faster with AI.…",
+      "longDescription": "[TRANSLATE-pt] Dictate and edit documents three times faster with AI.",
+      "tags": "[TRANSLATE-pt] ",
+      "pricingInfo": "[TRANSLATE-pt] Information not available",
+      "category": "assistente-pessoal",
+      "appType": "[TRANSLATE-pt] other"
+    },
+    "en": {
+      "title": "Wispr Flow",
+      "shortDescription": "Dictate and edit documents three times faster with AI.…",
+      "longDescription": "Dictate and edit documents three times faster with AI.",
+      "tags": "",
+      "pricingInfo": "Information not available",
+      "category": "personal-assistant",
+      "appType": "other"
+    },
+    "fr": {
+      "title": "[TRANSLATE-fr] Wispr Flow",
+      "shortDescription": "[TRANSLATE-fr] Dictate and edit documents three times faster with AI.…",
+      "longDescription": "[TRANSLATE-fr] Dictate and edit documents three times faster with AI.",
+      "tags": "[TRANSLATE-fr] ",
+      "pricingInfo": "[TRANSLATE-fr] Information not available",
+      "category": "assistant-personnel",
+      "appType": "[TRANSLATE-fr] other"
+    },
+    "de": {
+      "title": "[TRANSLATE-de] Wispr Flow",
+      "shortDescription": "[TRANSLATE-de] Dictate and edit documents three times faster with AI.…",
+      "longDescription": "[TRANSLATE-de] Dictate and edit documents three times faster with AI.",
+      "tags": "[TRANSLATE-de] ",
+      "pricingInfo": "[TRANSLATE-de] Information not available",
+      "category": "personlicher-assistent",
+      "appType": "[TRANSLATE-de] other"
+    }
+  }
+}
