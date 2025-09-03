@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-"""
-Validador de Migraciones TypeORM
-===============================
-
-Este script valida las migraciones TypeORM generadas para asegurar
-que estén bien formadas y listas para ser ejecutadas.
-
-Autor: Sistema de Migraciones AI Hub
-Fecha: Septiembre 2025
-"""
-
-import os
 import sys
 from pathlib import Path
 from typing import List, Dict, Any

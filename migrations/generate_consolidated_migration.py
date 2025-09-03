@@ -37,9 +37,9 @@ class ConsolidatedMigrationGenerator:
         # Crear directorio de migraciones si no existe
         self.migrations_dir.mkdir(parents=True, exist_ok=True)
         
-        print(f"📁 Directorio del proyecto: {self.project_root}")
-        print(f"📁 Datos de herramientas: {self.tools_data_dir}")
-        print(f"📁 Migraciones de salida: {self.migrations_dir}")
+        print(f"Directorio del proyecto: {self.project_root}")
+        print(f"Datos de herramientas: {self.tools_data_dir}")
+        print(f"Migraciones de salida: {self.migrations_dir}")
 
     def escape_sql_value(self, value: Any) -> str:
         """Escapa valores para SQL de manera segura"""
@@ -105,7 +105,7 @@ class ConsolidatedMigrationGenerator:
         json_files = list(self.tools_data_dir.glob("*.json"))
         
         if not json_files:
-            print("❌ No se encontraron archivos JSON en tools_data/")
+            print("No se encontraron archivos JSON en tools_data/")
             return ""
 
         print(f"📊 Procesando {len(json_files)} herramientas en una sola migración...")
